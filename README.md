@@ -17,4 +17,19 @@ Understand funding distribution patterns
 Measure startup innovation performance
 Analyze real market engagement beyond capital investment
 Compare regional and industry-based trends
+
+## 📊 Dashboard Preview
+
+### Executive Overview
+![Overview](dashboard_overview.png)
+
+### Funding Analysis
+![Funding](funding_analysis.png)
+
+### Product & Innovation
+![Product](product_analysis.png)
+
+### Market Engagement
+![Engagement](engagement_analysis.png)
+
 This dashboard solves these challenges by providing a centralized, interactive analytical view of the AI startup landscape.
