@@ -1,0 +1,1001 @@
+startup_id,startup_name,sector,city,country,revenue_inr,growth_pct,status,founded_year
+1,Yellow.ai,AI SaaS,Kolkata,India,62351467.0,120.36,Active,2019
+2,Niramai,Healthcare,Bengaluru,India,28750514.0,109.42,Series B,2021
+3,BlackBuck,Logistics,Mumbai,India,29052539.0,57.45,Seed Stage,2022
+4,Byjus,EdTech,Hyderabad,India,16224013.0,85.63,Series A,2015
+5,Unacademy,EdTech,Bengaluru,India,9677412.0,69.84,Series A,2020
+6,SigTuple,Healthcare,Hyderabad,India,6959004.0,62.4,Active,2020
+7,Niramai,Healthcare,Hyderabad,India,51387601.0,13.09,Active,2018
+8,Delhivery,Logistics,Hyderabad,India,69477482.0,60.35,Inactive,2018
+9,Fynd,Retail,Pune,India,65961000.0,144.3,Series A,2019
+10,CityMall,Retail,Pune,India,59129507.0,52.39,Inactive,2018
+11,HealthifyMe,Healthcare,Mumbai,India,43310412.0,15.06,Active,2015
+12,Testbook,EdTech,Delhi,India,47355140.0,32.67,Seed Stage,2021
+13,SigTuple,Healthcare,Mumbai,India,36425024.0,144.45,Seed Stage,2014
+14,Unacademy,EdTech,Chennai,India,5299273.0,124.62,Active,2018
+15,Open,FinTech,Pune,India,62578242.0,25.84,Active,2017
+16,Meesho,Retail,Hyderabad,India,50126700.0,64.91,Series A,2014
+17,HealthifyMe,Healthcare,Kolkata,India,46474830.0,135.76,Inactive,2014
+18,Niki.ai,AI SaaS,Pune,India,69168688.0,92.37,Inactive,2017
+19,Yellow.ai,AI SaaS,Bengaluru,India,81406743.0,130.45,Inactive,2019
+20,mfine,Healthcare,Hyderabad,India,35150440.0,52.78,Inactive,2017
+21,Toppr,EdTech,Chennai,India,20077103.0,103.69,Seed Stage,2018
+22,Shopkirana,Retail,Kolkata,India,36034423.0,96.33,Series A,2021
+23,Fynd,Retail,Delhi,India,32623128.0,13.66,Series B,2016
+24,Testbook,EdTech,Pune,India,62409608.0,57.89,Series A,2021
+25,Testbook,EdTech,Hyderabad,India,54100367.0,40.69,Seed Stage,2014
+26,CropIn,Agriculture,Kolkata,India,79069371.0,139.18,Inactive,2014
+27,Uniphore,AI SaaS,Pune,India,43802007.0,91.5,Seed Stage,2014
+28,Byjus,EdTech,Pune,India,23896189.0,121.13,Inactive,2016
+29,Vedantu,EdTech,Chennai,India,54706872.0,136.33,Seed Stage,2016
+30,BlackBuck,Logistics,Pune,India,92085512.0,24.39,Active,2022
+31,Cashfree,FinTech,Kolkata,India,74784110.0,139.76,Seed Stage,2022
+32,Grofers,Retail,Bengaluru,India,23973669.0,114.67,Active,2018
+33,AgroStar,Agriculture,Hyderabad,India,40414443.0,87.65,Series B,2015
+34,Cashfree,FinTech,Chennai,India,90506968.0,23.4,Series B,2014
+35,EM3,Agriculture,Bengaluru,India,31816154.0,60.2,Inactive,2016
+36,Testbook,EdTech,Kolkata,India,80481093.0,14.76,Seed Stage,2017
+37,Vedantu,EdTech,Kolkata,India,86555387.0,137.65,Inactive,2019
+38,Niki.ai,AI SaaS,Kolkata,India,23594519.0,27.54,Series A,2018
+39,Yellow.ai,AI SaaS,Delhi,India,90646496.0,22.17,Series B,2020
+40,Unacademy,EdTech,Pune,India,26737912.0,31.0,Series A,2019
+41,AgroStar,Agriculture,Bengaluru,India,96774036.0,35.54,Series B,2015
+42,CityMall,Retail,Hyderabad,India,64084395.0,142.24,Inactive,2014
+43,Rivigo,Logistics,Hyderabad,India,69730900.0,40.97,Series B,2019
+44,mfine,Healthcare,Mumbai,India,94312608.0,53.28,Inactive,2018
+45,Mad Street Den,AI SaaS,Delhi,India,11827313.0,134.34,Series A,2017
+46,Cashfree,FinTech,Kolkata,India,18679449.0,41.04,Series A,2014
+47,Mad Street Den,AI SaaS,Hyderabad,India,5242757.0,76.11,Series A,2019
+48,Fasal,Agriculture,Hyderabad,India,75125364.0,27.23,Seed Stage,2019
+49,Fasal,Agriculture,Mumbai,India,73563430.0,6.39,Inactive,2017
+50,Locus,Logistics,Pune,India,73402703.0,76.01,Inactive,2020
+51,Razorpay,FinTech,Bengaluru,India,46573627.0,76.81,Active,2014
+52,Yellow.ai,AI SaaS,Pune,India,22451391.0,123.12,Series A,2020
+53,Mad Street Den,AI SaaS,Bengaluru,India,5211288.0,88.15,Inactive,2015
+54,Fynd,Retail,Chennai,India,13722520.0,50.92,Series B,2015
+55,Shadowfax,Logistics,Bengaluru,India,8600866.0,136.26,Series B,2017
+56,Rivigo,Logistics,Delhi,India,22436257.0,35.6,Series A,2015
+57,EM3,Agriculture,Kolkata,India,50280789.0,142.29,Series A,2015
+58,Unacademy,EdTech,Delhi,India,52074168.0,34.88,Series A,2020
+59,Paytm,FinTech,Hyderabad,India,17429607.0,19.44,Seed Stage,2018
+60,Fasal,Agriculture,Chennai,India,53663910.0,137.61,Series B,2021
+61,Shopkirana,Retail,Kolkata,India,48241108.0,9.16,Seed Stage,2015
+62,AgroStar,Agriculture,Kolkata,India,55510869.0,38.4,Active,2017
+63,Vedantu,EdTech,Bengaluru,India,62357159.0,16.32,Seed Stage,2020
+64,SigTuple,Healthcare,Bengaluru,India,65995008.0,65.91,Series B,2021
+65,Locus,Logistics,Kolkata,India,27654787.0,91.83,Active,2021
+66,Cashfree,FinTech,Mumbai,India,22244755.0,61.91,Inactive,2014
+67,Fasal,Agriculture,Bengaluru,India,19496850.0,13.7,Series B,2017
+68,Meesho,Retail,Delhi,India,90317262.0,75.92,Series A,2019
+69,Uniphore,AI SaaS,Bengaluru,India,57843643.0,70.9,Series A,2020
+70,HealthifyMe,Healthcare,Mumbai,India,3173833.0,94.59,Series B,2020
+71,Open,FinTech,Pune,India,63115111.0,90.78,Seed Stage,2017
+72,mfine,Healthcare,Hyderabad,India,45413320.0,24.13,Active,2022
+73,Niramai,Healthcare,Pune,India,57728181.0,94.32,Active,2019
+74,Toppr,EdTech,Delhi,India,32410327.0,128.12,Seed Stage,2022
+75,mfine,Healthcare,Hyderabad,India,79813624.0,68.19,Series A,2017
+76,Cashfree,FinTech,Mumbai,India,60621889.0,61.81,Series B,2015
+77,CityMall,Retail,Kolkata,India,86642830.0,115.11,Series B,2014
+78,Toppr,EdTech,Pune,India,31502247.0,131.61,Series A,2022
+79,Yellow.ai,AI SaaS,Pune,India,19925875.0,144.84,Series A,2020
+80,Niki.ai,AI SaaS,Delhi,India,81751429.0,62.98,Series B,2021
+81,CityMall,Retail,Pune,India,48648907.0,90.27,Active,2021
+82,AgroStar,Agriculture,Hyderabad,India,15529226.0,50.63,Inactive,2014
+83,HealthifyMe,Healthcare,Chennai,India,89883083.0,111.09,Series A,2018
+84,Locus,Logistics,Delhi,India,82173834.0,125.86,Inactive,2014
+85,Vedantu,EdTech,Kolkata,India,82677390.0,77.19,Active,2015
+86,Meesho,Retail,Chennai,India,98988245.0,46.7,Inactive,2016
+87,AgroStar,Agriculture,Delhi,India,21236921.0,143.97,Inactive,2021
+88,mfine,Healthcare,Mumbai,India,11540554.0,7.2,Seed Stage,2021
+89,Haptik,AI SaaS,Mumbai,India,97239762.0,37.46,Series B,2021
+90,Grofers,Retail,Bengaluru,India,45011866.0,110.12,Series B,2014
+91,Fasal,Agriculture,Hyderabad,India,72486730.0,18.8,Series B,2014
+92,AgroStar,Agriculture,Bengaluru,India,86723419.0,114.99,Inactive,2021
+93,Razorpay,FinTech,Chennai,India,92678169.0,102.8,Series B,2019
+94,Unacademy,EdTech,Bengaluru,India,11564547.0,79.14,Inactive,2016
+95,SigTuple,Healthcare,Kolkata,India,82401799.0,59.98,Inactive,2019
+96,BlackBuck,Logistics,Kolkata,India,26817556.0,57.45,Active,2014
+97,Cashfree,FinTech,Chennai,India,61890411.0,54.33,Inactive,2015
+98,HealthifyMe,Healthcare,Bengaluru,India,21994001.0,71.16,Seed Stage,2021
+99,Unacademy,EdTech,Delhi,India,51762643.0,114.65,Inactive,2017
+100,Haptik,AI SaaS,Mumbai,India,35166710.0,84.8,Seed Stage,2020
+101,HealthifyMe,Healthcare,Bengaluru,India,31148564.0,12.17,Series B,2020
+102,Yellow.ai,AI SaaS,Kolkata,India,72038357.0,39.47,Series B,2018
+103,CityMall,Retail,Hyderabad,India,73011170.0,37.31,Series B,2017
+104,mfine,Healthcare,Bengaluru,India,27813838.0,30.09,Seed Stage,2018
+105,Niramai,Healthcare,Bengaluru,India,3420744.0,127.97,Seed Stage,2016
+106,Stellapps,Agriculture,Hyderabad,India,36380667.0,11.73,Inactive,2022
+107,Razorpay,FinTech,Mumbai,India,24322805.0,91.71,Inactive,2015
+108,Locus,Logistics,Kolkata,India,86538051.0,44.57,Series B,2017
+109,Fynd,Retail,Delhi,India,30678660.0,15.66,Series B,2022
+110,Shopkirana,Retail,Pune,India,83566552.0,38.63,Inactive,2017
+111,Uniphore,AI SaaS,Delhi,India,98099402.0,39.8,Series B,2014
+112,Grofers,Retail,Hyderabad,India,25202422.0,130.61,Series A,2021
+113,EM3,Agriculture,Kolkata,India,49121577.0,45.05,Active,2019
+114,Delhivery,Logistics,Bengaluru,India,79170708.0,93.86,Series A,2020
+115,Rivigo,Logistics,Bengaluru,India,84970883.0,107.5,Seed Stage,2021
+116,Haptik,AI SaaS,Mumbai,India,83265657.0,146.74,Series B,2017
+117,Shopkirana,Retail,Chennai,India,50597771.0,65.04,Series A,2022
+118,Delhivery,Logistics,Kolkata,India,81792005.0,65.11,Inactive,2019
+119,Uniphore,AI SaaS,Hyderabad,India,4245266.0,8.01,Series B,2022
+120,Niramai,Healthcare,Pune,India,21686418.0,77.76,Active,2018
+121,CropIn,Agriculture,Kolkata,India,13523529.0,10.24,Series A,2022
+122,Delhivery,Logistics,Kolkata,India,81875937.0,135.07,Active,2021
+123,SigTuple,Healthcare,Hyderabad,India,44130929.0,46.94,Series A,2018
+124,Toppr,EdTech,Hyderabad,India,56267008.0,61.11,Active,2017
+125,Locus,Logistics,Delhi,India,60405355.0,11.07,Inactive,2022
+126,HealthifyMe,Healthcare,Mumbai,India,79937684.0,111.73,Seed Stage,2014
+127,Vedantu,EdTech,Kolkata,India,94279008.0,41.52,Seed Stage,2014
+128,Paytm,FinTech,Pune,India,77108413.0,76.36,Series B,2021
+129,Vedantu,EdTech,Hyderabad,India,71071307.0,45.24,Inactive,2015
+130,Yellow.ai,AI SaaS,Mumbai,India,4372483.0,80.18,Series A,2020
+131,Vedantu,EdTech,Hyderabad,India,50511981.0,121.1,Seed Stage,2015
+132,Stellapps,Agriculture,Delhi,India,21104865.0,72.6,Seed Stage,2016
+133,Testbook,EdTech,Kolkata,India,32697591.0,11.77,Active,2017
+134,Cashfree,FinTech,Kolkata,India,5666605.0,21.29,Series A,2019
+135,mfine,Healthcare,Kolkata,India,50254104.0,46.94,Seed Stage,2018
+136,MedGenome,Healthcare,Hyderabad,India,96310254.0,37.28,Inactive,2018
+137,Grofers,Retail,Pune,India,97118930.0,104.21,Active,2022
+138,Haptik,AI SaaS,Pune,India,48376477.0,87.84,Seed Stage,2017
+139,Meesho,Retail,Chennai,India,37310848.0,113.85,Series A,2017
+140,Uniphore,AI SaaS,Chennai,India,44855220.0,51.88,Seed Stage,2021
+141,BlackBuck,Logistics,Hyderabad,India,35765256.0,46.04,Series A,2020
+142,Delhivery,Logistics,Bengaluru,India,70512211.0,103.58,Series A,2019
+143,Meesho,Retail,Delhi,India,60025278.0,81.07,Active,2021
+144,Toppr,EdTech,Hyderabad,India,58121844.0,91.73,Series A,2017
+145,Niramai,Healthcare,Kolkata,India,2017574.0,113.91,Series A,2015
+146,Open,FinTech,Kolkata,India,14658805.0,80.27,Seed Stage,2020
+147,Yellow.ai,AI SaaS,Mumbai,India,98211884.0,38.66,Seed Stage,2019
+148,Cred,FinTech,Mumbai,India,33195288.0,69.32,Series A,2014
+149,Shadowfax,Logistics,Hyderabad,India,8658331.0,70.57,Inactive,2014
+150,mfine,Healthcare,Mumbai,India,76477670.0,36.68,Seed Stage,2022
+151,Shadowfax,Logistics,Hyderabad,India,39508532.0,39.33,Series A,2019
+152,Byjus,EdTech,Mumbai,India,98123829.0,73.51,Series B,2017
+153,Razorpay,FinTech,Mumbai,India,63831322.0,88.21,Inactive,2022
+154,Fasal,Agriculture,Bengaluru,India,52388962.0,114.72,Series B,2016
+155,Haptik,AI SaaS,Kolkata,India,86109326.0,78.29,Seed Stage,2019
+156,Open,FinTech,Hyderabad,India,22929868.0,116.74,Active,2021
+157,Haptik,AI SaaS,Delhi,India,45505550.0,103.76,Inactive,2018
+158,Fasal,Agriculture,Pune,India,55591764.0,80.47,Seed Stage,2021
+159,Yellow.ai,AI SaaS,Hyderabad,India,84495892.0,36.5,Series A,2018
+160,Cashfree,FinTech,Bengaluru,India,65701120.0,117.94,Inactive,2019
+161,EM3,Agriculture,Chennai,India,77012837.0,118.47,Series B,2016
+162,Mad Street Den,AI SaaS,Mumbai,India,20550990.0,6.95,Series A,2017
+163,CropIn,Agriculture,Kolkata,India,43323103.0,62.15,Inactive,2015
+164,CropIn,Agriculture,Kolkata,India,69102139.0,116.35,Series A,2016
+165,BlackBuck,Logistics,Delhi,India,43420019.0,9.65,Series B,2019
+166,Open,FinTech,Bengaluru,India,58589252.0,35.4,Seed Stage,2017
+167,Shopkirana,Retail,Chennai,India,44357028.0,8.55,Seed Stage,2020
+168,CropIn,Agriculture,Pune,India,79104889.0,75.26,Series A,2014
+169,mfine,Healthcare,Kolkata,India,4016940.0,93.98,Series A,2020
+170,Byjus,EdTech,Delhi,India,76739391.0,97.95,Seed Stage,2015
+171,Yellow.ai,AI SaaS,Kolkata,India,77545247.0,65.2,Series B,2016
+172,Haptik,AI SaaS,Hyderabad,India,35194138.0,96.21,Inactive,2020
+173,CropIn,Agriculture,Kolkata,India,58628774.0,123.96,Active,2019
+174,HealthifyMe,Healthcare,Kolkata,India,35784397.0,48.61,Active,2022
+175,Niramai,Healthcare,Kolkata,India,5928568.0,131.26,Active,2021
+176,Mad Street Den,AI SaaS,Bengaluru,India,88975415.0,53.48,Series B,2016
+177,EM3,Agriculture,Mumbai,India,66863079.0,137.32,Series A,2022
+178,Vedantu,EdTech,Mumbai,India,36254530.0,125.63,Inactive,2014
+179,BlackBuck,Logistics,Pune,India,90882268.0,32.31,Series A,2019
+180,EM3,Agriculture,Chennai,India,62871591.0,54.26,Seed Stage,2021
+181,Cashfree,FinTech,Kolkata,India,88055736.0,106.95,Active,2022
+182,Niki.ai,AI SaaS,Bengaluru,India,32190593.0,53.19,Seed Stage,2020
+183,Yellow.ai,AI SaaS,Chennai,India,33817344.0,42.58,Inactive,2018
+184,Shopkirana,Retail,Hyderabad,India,89198386.0,6.1,Seed Stage,2019
+185,BlackBuck,Logistics,Hyderabad,India,97194752.0,38.89,Inactive,2019
+186,Fasal,Agriculture,Hyderabad,India,10711712.0,75.5,Seed Stage,2019
+187,Unacademy,EdTech,Pune,India,97124659.0,32.5,Series A,2018
+188,Uniphore,AI SaaS,Kolkata,India,57088953.0,65.85,Active,2015
+189,Toppr,EdTech,Kolkata,India,92053806.0,59.41,Active,2019
+190,Razorpay,FinTech,Kolkata,India,71546610.0,15.92,Series A,2022
+191,Meesho,Retail,Bengaluru,India,95707337.0,42.62,Seed Stage,2022
+192,Locus,Logistics,Pune,India,98094759.0,145.24,Inactive,2018
+193,Locus,Logistics,Chennai,India,78683642.0,76.06,Series B,2014
+194,Toppr,EdTech,Delhi,India,75302525.0,139.06,Series B,2015
+195,Rivigo,Logistics,Mumbai,India,25259723.0,6.78,Inactive,2014
+196,Grofers,Retail,Mumbai,India,80830390.0,48.49,Seed Stage,2015
+197,SigTuple,Healthcare,Mumbai,India,51256488.0,126.97,Series A,2016
+198,Uniphore,AI SaaS,Bengaluru,India,93745243.0,20.55,Inactive,2022
+199,Byjus,EdTech,Mumbai,India,37834397.0,76.3,Inactive,2020
+200,Stellapps,Agriculture,Kolkata,India,83913465.0,19.7,Active,2017
+201,Toppr,EdTech,Bengaluru,India,93333170.0,37.73,Inactive,2015
+202,SigTuple,Healthcare,Mumbai,India,81362504.0,129.18,Active,2018
+203,Delhivery,Logistics,Chennai,India,45077822.0,144.13,Active,2021
+204,HealthifyMe,Healthcare,Hyderabad,India,80545544.0,36.64,Series A,2015
+205,Meesho,Retail,Hyderabad,India,44357283.0,42.23,Series A,2017
+206,Vedantu,EdTech,Chennai,India,64498401.0,19.86,Inactive,2015
+207,Yellow.ai,AI SaaS,Bengaluru,India,73369031.0,131.89,Seed Stage,2014
+208,Haptik,AI SaaS,Chennai,India,62965693.0,11.87,Series A,2018
+209,BlackBuck,Logistics,Hyderabad,India,92475363.0,122.23,Seed Stage,2015
+210,mfine,Healthcare,Hyderabad,India,73535679.0,13.31,Seed Stage,2018
+211,mfine,Healthcare,Kolkata,India,20991369.0,97.92,Series A,2019
+212,Cred,FinTech,Mumbai,India,27095117.0,49.03,Series B,2022
+213,BlackBuck,Logistics,Kolkata,India,46672395.0,86.58,Active,2016
+214,Testbook,EdTech,Pune,India,59277893.0,42.03,Inactive,2015
+215,MedGenome,Healthcare,Pune,India,30948907.0,58.89,Active,2019
+216,mfine,Healthcare,Bengaluru,India,75309681.0,44.87,Active,2015
+217,Open,FinTech,Mumbai,India,20996790.0,25.59,Series B,2019
+218,MedGenome,Healthcare,Bengaluru,India,39299968.0,32.4,Series B,2018
+219,MedGenome,Healthcare,Mumbai,India,82757510.0,18.68,Series A,2015
+220,Razorpay,FinTech,Mumbai,India,54230446.0,7.69,Series B,2017
+221,MedGenome,Healthcare,Kolkata,India,98039305.0,58.62,Seed Stage,2022
+222,Stellapps,Agriculture,Pune,India,506199.0,141.02,Series B,2014
+223,Open,FinTech,Hyderabad,India,34908834.0,16.54,Series A,2017
+224,Stellapps,Agriculture,Kolkata,India,14041214.0,88.75,Active,2019
+225,Byjus,EdTech,Bengaluru,India,50072484.0,69.8,Series B,2021
+226,Paytm,FinTech,Mumbai,India,79036463.0,33.81,Inactive,2019
+227,Uniphore,AI SaaS,Mumbai,India,52989487.0,83.21,Series A,2014
+228,Vedantu,EdTech,Pune,India,64271279.0,71.73,Active,2021
+229,CityMall,Retail,Mumbai,India,60613214.0,131.02,Series A,2019
+230,CropIn,Agriculture,Kolkata,India,38603182.0,121.31,Active,2019
+231,Unacademy,EdTech,Bengaluru,India,96655507.0,86.5,Inactive,2017
+232,Cashfree,FinTech,Kolkata,India,77252554.0,123.55,Series A,2018
+233,Uniphore,AI SaaS,Delhi,India,20835898.0,80.04,Inactive,2021
+234,Uniphore,AI SaaS,Kolkata,India,74710714.0,24.2,Seed Stage,2014
+235,CropIn,Agriculture,Hyderabad,India,74385976.0,87.42,Series B,2015
+236,EM3,Agriculture,Bengaluru,India,38436570.0,17.61,Series B,2021
+237,Niki.ai,AI SaaS,Hyderabad,India,15929317.0,24.43,Inactive,2020
+238,Unacademy,EdTech,Delhi,India,98240281.0,38.47,Active,2015
+239,Yellow.ai,AI SaaS,Kolkata,India,77691208.0,36.42,Series A,2022
+240,MedGenome,Healthcare,Mumbai,India,31332221.0,112.49,Inactive,2015
+241,Razorpay,FinTech,Chennai,India,29353278.0,19.84,Inactive,2014
+242,Stellapps,Agriculture,Pune,India,79424999.0,120.98,Series A,2022
+243,Mad Street Den,AI SaaS,Chennai,India,28485811.0,80.89,Series A,2021
+244,MedGenome,Healthcare,Pune,India,46090979.0,105.63,Seed Stage,2017
+245,Razorpay,FinTech,Mumbai,India,8477999.0,138.78,Seed Stage,2014
+246,Vedantu,EdTech,Pune,India,14364395.0,13.26,Seed Stage,2021
+247,Fynd,Retail,Hyderabad,India,69052021.0,140.56,Inactive,2017
+248,AgroStar,Agriculture,Pune,India,72515855.0,128.25,Seed Stage,2019
+249,SigTuple,Healthcare,Chennai,India,54146611.0,113.06,Inactive,2020
+250,Uniphore,AI SaaS,Pune,India,19316733.0,142.92,Seed Stage,2017
+251,Rivigo,Logistics,Hyderabad,India,70770119.0,130.62,Series B,2019
+252,Uniphore,AI SaaS,Delhi,India,96681664.0,49.96,Active,2019
+253,Byjus,EdTech,Chennai,India,34392336.0,84.36,Series B,2019
+254,BlackBuck,Logistics,Pune,India,13821062.0,28.92,Series B,2014
+255,Niramai,Healthcare,Pune,India,66043845.0,45.59,Active,2015
+256,Byjus,EdTech,Delhi,India,12255038.0,123.66,Active,2015
+257,Haptik,AI SaaS,Hyderabad,India,86983893.0,112.47,Seed Stage,2019
+258,AgroStar,Agriculture,Delhi,India,96534784.0,149.44,Inactive,2021
+259,Meesho,Retail,Bengaluru,India,44829231.0,27.42,Seed Stage,2018
+260,Mad Street Den,AI SaaS,Hyderabad,India,12170621.0,40.53,Active,2022
+261,Paytm,FinTech,Pune,India,6166610.0,50.61,Active,2019
+262,Unacademy,EdTech,Delhi,India,55033672.0,9.72,Seed Stage,2021
+263,Vedantu,EdTech,Pune,India,24266237.0,63.45,Series A,2016
+264,Haptik,AI SaaS,Bengaluru,India,79004293.0,122.4,Inactive,2015
+265,Unacademy,EdTech,Chennai,India,78053047.0,89.04,Seed Stage,2021
+266,mfine,Healthcare,Bengaluru,India,20569460.0,24.18,Seed Stage,2019
+267,CityMall,Retail,Hyderabad,India,80070790.0,94.45,Series B,2018
+268,Rivigo,Logistics,Delhi,India,60830715.0,103.83,Active,2014
+269,CityMall,Retail,Bengaluru,India,42799869.0,37.35,Seed Stage,2016
+270,Delhivery,Logistics,Delhi,India,68206727.0,103.43,Seed Stage,2021
+271,Cred,FinTech,Chennai,India,23094578.0,58.52,Seed Stage,2021
+272,Cred,FinTech,Kolkata,India,80934774.0,132.55,Inactive,2015
+273,Toppr,EdTech,Mumbai,India,76946328.0,79.24,Series B,2020
+274,MedGenome,Healthcare,Mumbai,India,40067707.0,57.28,Series B,2022
+275,Stellapps,Agriculture,Bengaluru,India,50245191.0,94.04,Seed Stage,2017
+276,Razorpay,FinTech,Chennai,India,5443145.0,70.45,Seed Stage,2017
+277,Mad Street Den,AI SaaS,Mumbai,India,901863.0,61.59,Inactive,2017
+278,Rivigo,Logistics,Pune,India,7847069.0,14.69,Series A,2016
+279,CropIn,Agriculture,Bengaluru,India,49880172.0,125.36,Active,2017
+280,HealthifyMe,Healthcare,Pune,India,76110140.0,9.86,Active,2022
+281,Toppr,EdTech,Pune,India,91619661.0,99.03,Active,2015
+282,Testbook,EdTech,Chennai,India,24415713.0,27.92,Series B,2021
+283,Open,FinTech,Chennai,India,94854308.0,74.49,Series A,2021
+284,Cashfree,FinTech,Delhi,India,13654166.0,8.41,Active,2021
+285,BlackBuck,Logistics,Bengaluru,India,8638642.0,26.75,Seed Stage,2018
+286,Niki.ai,AI SaaS,Bengaluru,India,7941209.0,143.88,Seed Stage,2015
+287,Yellow.ai,AI SaaS,Delhi,India,89747110.0,134.33,Active,2019
+288,Unacademy,EdTech,Hyderabad,India,21403880.0,7.55,Active,2021
+289,MedGenome,Healthcare,Chennai,India,83059195.0,80.8,Series A,2014
+290,Locus,Logistics,Chennai,India,33616338.0,50.98,Seed Stage,2017
+291,Paytm,FinTech,Chennai,India,72219768.0,37.63,Series A,2016
+292,Mad Street Den,AI SaaS,Pune,India,99766219.0,70.05,Seed Stage,2016
+293,Cred,FinTech,Hyderabad,India,46381909.0,27.25,Inactive,2020
+294,Toppr,EdTech,Bengaluru,India,60261520.0,147.09,Seed Stage,2014
+295,Testbook,EdTech,Bengaluru,India,48100232.0,14.37,Series A,2022
+296,Niramai,Healthcare,Hyderabad,India,27572225.0,81.15,Series B,2015
+297,Toppr,EdTech,Delhi,India,19663181.0,44.23,Series A,2017
+298,Locus,Logistics,Hyderabad,India,88462825.0,98.36,Inactive,2016
+299,Vedantu,EdTech,Bengaluru,India,23576838.0,138.33,Inactive,2015
+300,Toppr,EdTech,Bengaluru,India,5690496.0,142.51,Active,2016
+301,CityMall,Retail,Kolkata,India,57228908.0,50.33,Series A,2017
+302,Uniphore,AI SaaS,Pune,India,17068369.0,36.31,Seed Stage,2020
+303,Razorpay,FinTech,Kolkata,India,72327111.0,135.5,Series A,2015
+304,Uniphore,AI SaaS,Delhi,India,26097572.0,35.02,Active,2015
+305,EM3,Agriculture,Delhi,India,89826373.0,99.92,Inactive,2015
+306,Fasal,Agriculture,Kolkata,India,74011192.0,22.96,Series B,2018
+307,Open,FinTech,Bengaluru,India,19509233.0,134.78,Series B,2019
+308,Open,FinTech,Delhi,India,27367830.0,69.93,Seed Stage,2017
+309,Cashfree,FinTech,Mumbai,India,54862677.0,102.6,Seed Stage,2017
+310,Paytm,FinTech,Mumbai,India,46226753.0,107.86,Series B,2014
+311,Niki.ai,AI SaaS,Chennai,India,15246948.0,116.15,Inactive,2018
+312,Razorpay,FinTech,Bengaluru,India,60925277.0,105.1,Active,2021
+313,Fynd,Retail,Pune,India,35653919.0,8.39,Inactive,2018
+314,Cashfree,FinTech,Delhi,India,99394864.0,85.09,Series B,2018
+315,Testbook,EdTech,Hyderabad,India,67865494.0,104.92,Series A,2019
+316,Razorpay,FinTech,Chennai,India,23260180.0,63.61,Series A,2020
+317,Cred,FinTech,Kolkata,India,18996227.0,77.7,Inactive,2018
+318,Open,FinTech,Kolkata,India,57207790.0,16.99,Series B,2017
+319,Stellapps,Agriculture,Delhi,India,74688100.0,62.28,Series A,2019
+320,Niki.ai,AI SaaS,Pune,India,96827605.0,22.56,Active,2014
+321,Meesho,Retail,Pune,India,88448139.0,8.97,Series B,2018
+322,Niki.ai,AI SaaS,Mumbai,India,99962142.0,94.92,Active,2014
+323,Yellow.ai,AI SaaS,Hyderabad,India,52561773.0,58.84,Series A,2014
+324,Delhivery,Logistics,Hyderabad,India,63012488.0,42.43,Seed Stage,2020
+325,Razorpay,FinTech,Mumbai,India,31492944.0,30.51,Series B,2015
+326,Razorpay,FinTech,Chennai,India,61259932.0,45.54,Seed Stage,2015
+327,Open,FinTech,Delhi,India,60548534.0,44.32,Inactive,2015
+328,mfine,Healthcare,Pune,India,30410997.0,72.99,Active,2014
+329,Paytm,FinTech,Kolkata,India,2832066.0,37.34,Inactive,2021
+330,Razorpay,FinTech,Delhi,India,17329228.0,91.61,Inactive,2017
+331,HealthifyMe,Healthcare,Hyderabad,India,80830637.0,87.13,Seed Stage,2016
+332,Mad Street Den,AI SaaS,Chennai,India,46431107.0,102.08,Active,2020
+333,Cred,FinTech,Kolkata,India,98106710.0,93.16,Inactive,2021
+334,Cashfree,FinTech,Mumbai,India,57165541.0,19.97,Seed Stage,2014
+335,BlackBuck,Logistics,Delhi,India,78560471.0,123.19,Series A,2022
+336,Uniphore,AI SaaS,Hyderabad,India,13811364.0,126.14,Inactive,2019
+337,AgroStar,Agriculture,Bengaluru,India,53178943.0,67.52,Series A,2019
+338,Mad Street Den,AI SaaS,Delhi,India,79173182.0,121.87,Inactive,2015
+339,MedGenome,Healthcare,Kolkata,India,32118169.0,102.29,Inactive,2020
+340,Open,FinTech,Bengaluru,India,74843458.0,90.82,Series A,2020
+341,Delhivery,Logistics,Chennai,India,84914198.0,21.53,Active,2021
+342,MedGenome,Healthcare,Mumbai,India,94640640.0,93.77,Inactive,2018
+343,CityMall,Retail,Bengaluru,India,20728321.0,127.31,Series A,2021
+344,Cashfree,FinTech,Hyderabad,India,18824779.0,7.3,Seed Stage,2018
+345,Cred,FinTech,Mumbai,India,6461220.0,71.84,Active,2020
+346,CropIn,Agriculture,Bengaluru,India,73653606.0,89.38,Series A,2020
+347,Razorpay,FinTech,Bengaluru,India,50620746.0,141.74,Series B,2020
+348,Grofers,Retail,Hyderabad,India,47120895.0,127.35,Inactive,2022
+349,Toppr,EdTech,Kolkata,India,55008550.0,14.29,Series A,2022
+350,Byjus,EdTech,Delhi,India,15536679.0,141.29,Inactive,2021
+351,MedGenome,Healthcare,Delhi,India,33986140.0,110.49,Seed Stage,2022
+352,Uniphore,AI SaaS,Bengaluru,India,59429280.0,99.56,Active,2021
+353,AgroStar,Agriculture,Delhi,India,79911263.0,136.71,Seed Stage,2016
+354,MedGenome,Healthcare,Pune,India,7686485.0,64.37,Inactive,2022
+355,mfine,Healthcare,Chennai,India,85438337.0,90.89,Seed Stage,2017
+356,Unacademy,EdTech,Chennai,India,54970758.0,44.53,Seed Stage,2018
+357,Fasal,Agriculture,Hyderabad,India,13459788.0,63.36,Active,2020
+358,Toppr,EdTech,Mumbai,India,11537997.0,59.37,Seed Stage,2017
+359,Shopkirana,Retail,Chennai,India,26707187.0,77.63,Series B,2017
+360,Toppr,EdTech,Chennai,India,47193837.0,126.72,Seed Stage,2014
+361,Niki.ai,AI SaaS,Mumbai,India,37925759.0,31.09,Active,2016
+362,CropIn,Agriculture,Mumbai,India,56681355.0,46.1,Series B,2019
+363,Shadowfax,Logistics,Mumbai,India,58264511.0,72.89,Active,2017
+364,mfine,Healthcare,Mumbai,India,82535512.0,133.74,Inactive,2016
+365,Unacademy,EdTech,Pune,India,64948993.0,137.7,Active,2018
+366,Rivigo,Logistics,Hyderabad,India,70617191.0,131.74,Series A,2018
+367,Vedantu,EdTech,Bengaluru,India,30901797.0,86.75,Active,2018
+368,Shopkirana,Retail,Chennai,India,72703950.0,50.82,Series A,2018
+369,CityMall,Retail,Delhi,India,5191047.0,121.01,Active,2021
+370,Shadowfax,Logistics,Bengaluru,India,65429340.0,17.65,Inactive,2016
+371,Open,FinTech,Chennai,India,69764739.0,120.53,Inactive,2020
+372,Vedantu,EdTech,Pune,India,88600163.0,95.45,Active,2016
+373,Razorpay,FinTech,Chennai,India,64570246.0,60.12,Series B,2020
+374,Stellapps,Agriculture,Delhi,India,74212677.0,117.21,Series B,2014
+375,Unacademy,EdTech,Pune,India,87152531.0,27.14,Series B,2018
+376,Locus,Logistics,Chennai,India,18783259.0,15.41,Seed Stage,2017
+377,Uniphore,AI SaaS,Kolkata,India,42927189.0,38.69,Series B,2014
+378,Byjus,EdTech,Mumbai,India,46096029.0,56.06,Inactive,2018
+379,Fynd,Retail,Mumbai,India,1676652.0,129.72,Seed Stage,2015
+380,Niramai,Healthcare,Pune,India,93100602.0,74.27,Inactive,2015
+381,Stellapps,Agriculture,Chennai,India,66721628.0,121.39,Seed Stage,2019
+382,Shopkirana,Retail,Mumbai,India,52576720.0,137.57,Active,2014
+383,SigTuple,Healthcare,Delhi,India,14728026.0,33.8,Seed Stage,2016
+384,Meesho,Retail,Kolkata,India,30200704.0,128.86,Inactive,2018
+385,Paytm,FinTech,Delhi,India,27056130.0,61.89,Series B,2018
+386,Stellapps,Agriculture,Mumbai,India,79164705.0,44.77,Series B,2019
+387,Yellow.ai,AI SaaS,Hyderabad,India,15537791.0,38.4,Seed Stage,2021
+388,EM3,Agriculture,Chennai,India,56496717.0,94.8,Inactive,2020
+389,SigTuple,Healthcare,Bengaluru,India,59477266.0,134.34,Inactive,2014
+390,Rivigo,Logistics,Pune,India,9244358.0,6.57,Inactive,2018
+391,Delhivery,Logistics,Delhi,India,83191951.0,11.95,Active,2015
+392,Shadowfax,Logistics,Delhi,India,86763508.0,92.73,Inactive,2017
+393,Unacademy,EdTech,Mumbai,India,93838357.0,85.56,Seed Stage,2016
+394,Fasal,Agriculture,Hyderabad,India,54897641.0,10.83,Active,2015
+395,Byjus,EdTech,Mumbai,India,76269272.0,14.82,Active,2017
+396,BlackBuck,Logistics,Pune,India,79593179.0,28.51,Seed Stage,2015
+397,Toppr,EdTech,Kolkata,India,25115449.0,22.28,Series B,2018
+398,Paytm,FinTech,Chennai,India,45668057.0,143.94,Series B,2020
+399,Cashfree,FinTech,Hyderabad,India,37256099.0,6.85,Inactive,2020
+400,mfine,Healthcare,Mumbai,India,16799992.0,108.92,Active,2022
+401,Uniphore,AI SaaS,Pune,India,22397646.0,103.93,Series A,2022
+402,Niramai,Healthcare,Mumbai,India,16628312.0,39.36,Seed Stage,2019
+403,Shopkirana,Retail,Mumbai,India,89228681.0,69.06,Seed Stage,2018
+404,Locus,Logistics,Bengaluru,India,32439680.0,26.45,Series B,2014
+405,Shopkirana,Retail,Kolkata,India,3371106.0,19.9,Series A,2022
+406,Open,FinTech,Hyderabad,India,35914600.0,21.02,Seed Stage,2014
+407,Fynd,Retail,Chennai,India,21770448.0,46.11,Inactive,2021
+408,Unacademy,EdTech,Bengaluru,India,50305021.0,103.64,Seed Stage,2020
+409,Shadowfax,Logistics,Pune,India,46647007.0,50.81,Inactive,2015
+410,Locus,Logistics,Bengaluru,India,68624586.0,50.0,Inactive,2021
+411,SigTuple,Healthcare,Mumbai,India,37364640.0,121.95,Series A,2020
+412,Rivigo,Logistics,Hyderabad,India,26282483.0,61.49,Series B,2018
+413,Fasal,Agriculture,Hyderabad,India,4597880.0,97.77,Inactive,2018
+414,Yellow.ai,AI SaaS,Mumbai,India,22884733.0,130.57,Series A,2018
+415,mfine,Healthcare,Delhi,India,32218332.0,129.39,Inactive,2017
+416,Delhivery,Logistics,Hyderabad,India,18497583.0,81.61,Active,2014
+417,Unacademy,EdTech,Kolkata,India,63326363.0,30.74,Active,2014
+418,Haptik,AI SaaS,Bengaluru,India,45666878.0,132.75,Seed Stage,2016
+419,EM3,Agriculture,Hyderabad,India,956870.0,79.92,Series B,2015
+420,Niki.ai,AI SaaS,Chennai,India,21895111.0,34.93,Active,2014
+421,Cashfree,FinTech,Bengaluru,India,26321562.0,137.18,Active,2021
+422,Cred,FinTech,Mumbai,India,53918807.0,71.48,Inactive,2018
+423,Shopkirana,Retail,Pune,India,86118030.0,49.54,Active,2016
+424,Fasal,Agriculture,Chennai,India,23433567.0,117.32,Inactive,2014
+425,Haptik,AI SaaS,Pune,India,96979996.0,102.49,Inactive,2017
+426,Cashfree,FinTech,Delhi,India,79369224.0,35.49,Series B,2019
+427,Open,FinTech,Bengaluru,India,52503291.0,59.29,Inactive,2015
+428,Delhivery,Logistics,Kolkata,India,7413010.0,71.57,Series B,2014
+429,HealthifyMe,Healthcare,Bengaluru,India,38519118.0,78.18,Series A,2018
+430,Haptik,AI SaaS,Hyderabad,India,14726590.0,122.99,Seed Stage,2014
+431,Haptik,AI SaaS,Chennai,India,68547589.0,34.23,Series B,2016
+432,Niramai,Healthcare,Bengaluru,India,64464594.0,34.62,Seed Stage,2020
+433,Yellow.ai,AI SaaS,Hyderabad,India,26154809.0,79.76,Active,2020
+434,MedGenome,Healthcare,Pune,India,60377585.0,137.21,Series B,2015
+435,SigTuple,Healthcare,Chennai,India,58499919.0,78.9,Series B,2019
+436,HealthifyMe,Healthcare,Bengaluru,India,69237915.0,101.09,Active,2021
+437,MedGenome,Healthcare,Mumbai,India,27084939.0,100.32,Seed Stage,2018
+438,Cashfree,FinTech,Delhi,India,90433152.0,133.62,Inactive,2017
+439,Yellow.ai,AI SaaS,Pune,India,9459331.0,129.76,Seed Stage,2014
+440,Fynd,Retail,Delhi,India,92660119.0,43.06,Series B,2022
+441,Paytm,FinTech,Mumbai,India,80084269.0,9.76,Series A,2017
+442,Fynd,Retail,Delhi,India,98707916.0,10.99,Series A,2018
+443,Mad Street Den,AI SaaS,Pune,India,55103971.0,26.04,Seed Stage,2021
+444,Vedantu,EdTech,Mumbai,India,48157504.0,64.78,Active,2016
+445,Rivigo,Logistics,Hyderabad,India,60221179.0,148.81,Active,2019
+446,Haptik,AI SaaS,Chennai,India,97594438.0,119.44,Series A,2014
+447,Cashfree,FinTech,Kolkata,India,18290302.0,126.32,Inactive,2021
+448,AgroStar,Agriculture,Bengaluru,India,87544541.0,124.13,Seed Stage,2022
+449,Paytm,FinTech,Pune,India,56142780.0,106.33,Seed Stage,2021
+450,Shopkirana,Retail,Delhi,India,3616519.0,29.18,Series B,2019
+451,Cred,FinTech,Kolkata,India,90730269.0,93.98,Series A,2015
+452,Niramai,Healthcare,Hyderabad,India,18424617.0,27.01,Active,2022
+453,Fynd,Retail,Bengaluru,India,89790426.0,110.91,Inactive,2016
+454,CityMall,Retail,Bengaluru,India,38930132.0,73.42,Series B,2022
+455,Niki.ai,AI SaaS,Chennai,India,15360602.0,84.01,Inactive,2022
+456,Grofers,Retail,Bengaluru,India,21078165.0,44.15,Series B,2022
+457,Niramai,Healthcare,Pune,India,26681687.0,78.82,Series B,2020
+458,Toppr,EdTech,Kolkata,India,95433111.0,29.52,Seed Stage,2018
+459,Stellapps,Agriculture,Pune,India,35771163.0,123.63,Series B,2019
+460,Niki.ai,AI SaaS,Hyderabad,India,57144965.0,122.17,Series B,2017
+461,Paytm,FinTech,Hyderabad,India,49473309.0,64.25,Active,2018
+462,Delhivery,Logistics,Kolkata,India,84003845.0,18.08,Active,2022
+463,Locus,Logistics,Delhi,India,65527256.0,90.42,Series B,2014
+464,Fasal,Agriculture,Bengaluru,India,63584206.0,105.91,Series B,2019
+465,Byjus,EdTech,Hyderabad,India,22824359.0,59.84,Series A,2016
+466,Byjus,EdTech,Kolkata,India,47138243.0,24.13,Series A,2021
+467,CropIn,Agriculture,Mumbai,India,37143548.0,53.56,Active,2018
+468,Cred,FinTech,Kolkata,India,29358448.0,16.39,Series B,2022
+469,Razorpay,FinTech,Chennai,India,94158868.0,117.66,Series B,2018
+470,Mad Street Den,AI SaaS,Hyderabad,India,62063500.0,118.82,Inactive,2018
+471,Shadowfax,Logistics,Kolkata,India,74032844.0,114.58,Series A,2018
+472,CropIn,Agriculture,Kolkata,India,96744463.0,16.11,Series B,2021
+473,Niki.ai,AI SaaS,Delhi,India,57248170.0,104.69,Series B,2021
+474,AgroStar,Agriculture,Hyderabad,India,45553128.0,92.43,Series A,2019
+475,mfine,Healthcare,Delhi,India,31029528.0,62.75,Active,2017
+476,Open,FinTech,Kolkata,India,68277906.0,43.4,Series B,2016
+477,AgroStar,Agriculture,Pune,India,56758547.0,80.01,Series A,2018
+478,Cred,FinTech,Hyderabad,India,70313810.0,14.86,Inactive,2015
+479,Paytm,FinTech,Chennai,India,14537773.0,104.33,Active,2022
+480,Shopkirana,Retail,Kolkata,India,53300406.0,81.76,Series A,2017
+481,Locus,Logistics,Hyderabad,India,16472500.0,122.21,Series B,2021
+482,Razorpay,FinTech,Delhi,India,48071658.0,25.06,Inactive,2014
+483,AgroStar,Agriculture,Hyderabad,India,80609002.0,115.51,Active,2018
+484,Delhivery,Logistics,Bengaluru,India,76867428.0,72.4,Seed Stage,2019
+485,Shadowfax,Logistics,Delhi,India,4753067.0,66.64,Seed Stage,2014
+486,Fasal,Agriculture,Chennai,India,47429963.0,122.73,Active,2016
+487,Cashfree,FinTech,Hyderabad,India,8320662.0,132.49,Inactive,2016
+488,Razorpay,FinTech,Delhi,India,83339960.0,64.74,Series B,2016
+489,Shopkirana,Retail,Bengaluru,India,33547536.0,77.81,Seed Stage,2017
+490,Mad Street Den,AI SaaS,Bengaluru,India,42906982.0,62.66,Seed Stage,2020
+491,mfine,Healthcare,Hyderabad,India,79206935.0,134.66,Seed Stage,2015
+492,Testbook,EdTech,Bengaluru,India,44921686.0,85.3,Active,2019
+493,Vedantu,EdTech,Bengaluru,India,97074424.0,117.62,Series A,2022
+494,Niramai,Healthcare,Kolkata,India,72050926.0,44.18,Seed Stage,2020
+495,Haptik,AI SaaS,Mumbai,India,73670422.0,24.07,Inactive,2020
+496,Delhivery,Logistics,Pune,India,79940730.0,131.13,Active,2018
+497,Locus,Logistics,Kolkata,India,69583917.0,139.84,Series A,2018
+498,Razorpay,FinTech,Chennai,India,89443648.0,46.97,Inactive,2017
+499,Fasal,Agriculture,Bengaluru,India,33112780.0,91.98,Inactive,2022
+500,MedGenome,Healthcare,Kolkata,India,93888632.0,18.35,Active,2014
+501,Yellow.ai,AI SaaS,Kolkata,India,10434421.0,49.52,Seed Stage,2014
+502,Grofers,Retail,Bengaluru,India,65001225.0,49.62,Series B,2020
+503,Niki.ai,AI SaaS,Chennai,India,10031555.0,11.84,Seed Stage,2016
+504,Yellow.ai,AI SaaS,Pune,India,12133227.0,149.52,Series A,2018
+505,Rivigo,Logistics,Mumbai,India,49150156.0,110.53,Seed Stage,2019
+506,Fynd,Retail,Bengaluru,India,38840489.0,132.54,Seed Stage,2015
+507,CityMall,Retail,Delhi,India,17475299.0,85.85,Active,2015
+508,Grofers,Retail,Delhi,India,51235719.0,48.36,Seed Stage,2020
+509,Vedantu,EdTech,Delhi,India,10339031.0,103.29,Active,2019
+510,Razorpay,FinTech,Delhi,India,4399334.0,23.25,Active,2017
+511,Locus,Logistics,Kolkata,India,91606872.0,87.82,Seed Stage,2021
+512,Shopkirana,Retail,Chennai,India,77339328.0,13.14,Series B,2018
+513,Byjus,EdTech,Kolkata,India,27673723.0,40.23,Active,2014
+514,Stellapps,Agriculture,Chennai,India,92196764.0,66.4,Active,2014
+515,Paytm,FinTech,Kolkata,India,10679498.0,144.46,Seed Stage,2020
+516,AgroStar,Agriculture,Delhi,India,33309792.0,121.55,Seed Stage,2014
+517,Fasal,Agriculture,Mumbai,India,11644535.0,135.88,Active,2021
+518,Shadowfax,Logistics,Chennai,India,56396256.0,53.82,Inactive,2016
+519,Razorpay,FinTech,Mumbai,India,2335250.0,130.19,Seed Stage,2018
+520,Razorpay,FinTech,Chennai,India,2922307.0,50.33,Series B,2016
+521,CropIn,Agriculture,Bengaluru,India,99717721.0,28.1,Series A,2019
+522,Cred,FinTech,Delhi,India,61419974.0,62.64,Inactive,2020
+523,Unacademy,EdTech,Kolkata,India,82906419.0,52.94,Inactive,2019
+524,Testbook,EdTech,Pune,India,94430160.0,97.19,Inactive,2014
+525,HealthifyMe,Healthcare,Mumbai,India,17015838.0,51.11,Seed Stage,2014
+526,MedGenome,Healthcare,Delhi,India,8207262.0,112.61,Seed Stage,2022
+527,Uniphore,AI SaaS,Kolkata,India,16843251.0,54.55,Series A,2020
+528,Uniphore,AI SaaS,Mumbai,India,3211580.0,102.33,Inactive,2014
+529,Delhivery,Logistics,Mumbai,India,83634576.0,61.85,Series B,2019
+530,Uniphore,AI SaaS,Kolkata,India,46121105.0,46.29,Series B,2018
+531,Toppr,EdTech,Bengaluru,India,74159551.0,50.34,Active,2020
+532,Cashfree,FinTech,Delhi,India,88653255.0,25.0,Series A,2021
+533,CropIn,Agriculture,Delhi,India,49790791.0,112.87,Inactive,2020
+534,Testbook,EdTech,Pune,India,95677766.0,93.64,Seed Stage,2022
+535,Fynd,Retail,Bengaluru,India,29015729.0,65.9,Series A,2021
+536,Cred,FinTech,Delhi,India,74273098.0,126.34,Inactive,2016
+537,MedGenome,Healthcare,Hyderabad,India,65878912.0,127.3,Inactive,2016
+538,Meesho,Retail,Chennai,India,87673981.0,37.79,Active,2015
+539,Fynd,Retail,Mumbai,India,96305813.0,24.44,Series A,2020
+540,Cred,FinTech,Chennai,India,53831340.0,122.92,Seed Stage,2015
+541,MedGenome,Healthcare,Delhi,India,98978965.0,135.15,Active,2021
+542,BlackBuck,Logistics,Kolkata,India,36142876.0,38.59,Active,2017
+543,BlackBuck,Logistics,Chennai,India,98226035.0,49.25,Seed Stage,2017
+544,Shadowfax,Logistics,Hyderabad,India,2912945.0,145.35,Series B,2018
+545,Byjus,EdTech,Hyderabad,India,71841898.0,106.93,Series A,2022
+546,Mad Street Den,AI SaaS,Mumbai,India,90362985.0,86.73,Active,2014
+547,Fasal,Agriculture,Hyderabad,India,89937814.0,140.38,Active,2018
+548,Open,FinTech,Bengaluru,India,25344357.0,13.34,Seed Stage,2020
+549,Cashfree,FinTech,Kolkata,India,36457951.0,126.72,Series B,2014
+550,Cred,FinTech,Bengaluru,India,80364592.0,126.67,Series A,2022
+551,Vedantu,EdTech,Pune,India,21857606.0,71.44,Seed Stage,2022
+552,Razorpay,FinTech,Kolkata,India,22861250.0,126.28,Inactive,2017
+553,Byjus,EdTech,Hyderabad,India,60164664.0,60.21,Series B,2015
+554,Locus,Logistics,Mumbai,India,13445073.0,106.62,Seed Stage,2014
+555,Open,FinTech,Mumbai,India,64049725.0,62.7,Inactive,2015
+556,Fasal,Agriculture,Bengaluru,India,57590046.0,135.05,Series A,2016
+557,Open,FinTech,Kolkata,India,9180239.0,53.59,Active,2020
+558,mfine,Healthcare,Hyderabad,India,38549690.0,33.26,Active,2019
+559,BlackBuck,Logistics,Hyderabad,India,38744154.0,102.61,Series B,2017
+560,Vedantu,EdTech,Hyderabad,India,51671273.0,19.93,Series B,2018
+561,Unacademy,EdTech,Mumbai,India,81257158.0,71.61,Series B,2022
+562,AgroStar,Agriculture,Mumbai,India,95339420.0,106.6,Series A,2017
+563,HealthifyMe,Healthcare,Hyderabad,India,50014650.0,109.25,Seed Stage,2019
+564,HealthifyMe,Healthcare,Delhi,India,50560271.0,15.54,Seed Stage,2018
+565,Cashfree,FinTech,Chennai,India,12906480.0,75.72,Active,2017
+566,Haptik,AI SaaS,Bengaluru,India,78019360.0,135.55,Inactive,2018
+567,Yellow.ai,AI SaaS,Mumbai,India,61097829.0,56.58,Seed Stage,2020
+568,MedGenome,Healthcare,Bengaluru,India,52327876.0,142.25,Inactive,2017
+569,Grofers,Retail,Chennai,India,36826482.0,97.26,Series A,2018
+570,HealthifyMe,Healthcare,Chennai,India,76167575.0,123.85,Inactive,2018
+571,Niki.ai,AI SaaS,Pune,India,33586656.0,138.65,Series A,2016
+572,mfine,Healthcare,Bengaluru,India,21330328.0,91.69,Active,2019
+573,Stellapps,Agriculture,Chennai,India,40725125.0,53.07,Active,2016
+574,SigTuple,Healthcare,Hyderabad,India,13859546.0,85.34,Series A,2014
+575,Delhivery,Logistics,Kolkata,India,1698804.0,82.68,Series A,2022
+576,AgroStar,Agriculture,Mumbai,India,75385985.0,147.53,Inactive,2018
+577,CityMall,Retail,Chennai,India,7263144.0,87.94,Series B,2020
+578,Cred,FinTech,Bengaluru,India,4870339.0,133.92,Inactive,2015
+579,Open,FinTech,Bengaluru,India,67445057.0,36.53,Inactive,2016
+580,Vedantu,EdTech,Hyderabad,India,57621026.0,134.18,Inactive,2018
+581,Uniphore,AI SaaS,Mumbai,India,68735381.0,95.73,Seed Stage,2014
+582,Fynd,Retail,Mumbai,India,72468977.0,147.17,Series A,2016
+583,Open,FinTech,Mumbai,India,61665260.0,147.44,Series A,2017
+584,Open,FinTech,Chennai,India,98435035.0,35.79,Active,2020
+585,AgroStar,Agriculture,Mumbai,India,18212574.0,38.67,Inactive,2019
+586,Shopkirana,Retail,Chennai,India,98079612.0,143.82,Series A,2019
+587,AgroStar,Agriculture,Mumbai,India,72925222.0,111.21,Series B,2018
+588,Meesho,Retail,Delhi,India,81257666.0,15.2,Active,2022
+589,CityMall,Retail,Mumbai,India,63280142.0,59.44,Series A,2016
+590,Cred,FinTech,Delhi,India,61488100.0,67.11,Series A,2018
+591,BlackBuck,Logistics,Delhi,India,96927927.0,20.66,Series B,2016
+592,Cashfree,FinTech,Mumbai,India,38373004.0,114.64,Seed Stage,2014
+593,Fasal,Agriculture,Mumbai,India,30896769.0,108.55,Seed Stage,2022
+594,HealthifyMe,Healthcare,Hyderabad,India,73866291.0,8.6,Inactive,2017
+595,Unacademy,EdTech,Chennai,India,17860174.0,98.5,Seed Stage,2015
+596,Fynd,Retail,Chennai,India,30772438.0,47.93,Inactive,2017
+597,Testbook,EdTech,Chennai,India,45461523.0,83.09,Seed Stage,2020
+598,Haptik,AI SaaS,Pune,India,22796532.0,111.45,Series B,2018
+599,CropIn,Agriculture,Bengaluru,India,70223823.0,104.06,Active,2020
+600,Open,FinTech,Mumbai,India,27793987.0,50.63,Seed Stage,2015
+601,SigTuple,Healthcare,Mumbai,India,85125450.0,18.95,Seed Stage,2017
+602,Testbook,EdTech,Mumbai,India,42243186.0,131.49,Series A,2017
+603,Razorpay,FinTech,Pune,India,73046273.0,120.11,Series A,2015
+604,BlackBuck,Logistics,Delhi,India,16160090.0,43.31,Series B,2016
+605,Cashfree,FinTech,Delhi,India,21679106.0,147.04,Seed Stage,2017
+606,Meesho,Retail,Bengaluru,India,35062336.0,136.02,Series B,2014
+607,HealthifyMe,Healthcare,Pune,India,15843795.0,5.67,Series A,2018
+608,Haptik,AI SaaS,Bengaluru,India,28227366.0,120.18,Inactive,2015
+609,MedGenome,Healthcare,Kolkata,India,97551197.0,134.95,Seed Stage,2022
+610,HealthifyMe,Healthcare,Kolkata,India,61336934.0,85.2,Seed Stage,2015
+611,EM3,Agriculture,Mumbai,India,33439587.0,108.88,Active,2021
+612,Rivigo,Logistics,Chennai,India,76877876.0,100.9,Active,2021
+613,EM3,Agriculture,Hyderabad,India,4132565.0,61.58,Seed Stage,2015
+614,Grofers,Retail,Bengaluru,India,5808347.0,78.09,Series A,2022
+615,Toppr,EdTech,Chennai,India,20231779.0,15.26,Inactive,2020
+616,mfine,Healthcare,Kolkata,India,28598714.0,76.58,Active,2015
+617,Meesho,Retail,Mumbai,India,26477044.0,10.16,Inactive,2018
+618,Toppr,EdTech,Mumbai,India,74983464.0,15.13,Active,2016
+619,Yellow.ai,AI SaaS,Chennai,India,3114529.0,108.59,Seed Stage,2014
+620,Meesho,Retail,Mumbai,India,63691772.0,125.05,Series A,2019
+621,Mad Street Den,AI SaaS,Hyderabad,India,40273251.0,90.19,Active,2022
+622,Haptik,AI SaaS,Chennai,India,23154807.0,62.38,Seed Stage,2017
+623,Fynd,Retail,Chennai,India,93295137.0,64.52,Seed Stage,2019
+624,BlackBuck,Logistics,Kolkata,India,57721372.0,77.96,Inactive,2018
+625,Paytm,FinTech,Kolkata,India,54263658.0,7.21,Inactive,2014
+626,Delhivery,Logistics,Delhi,India,19156252.0,73.13,Series B,2018
+627,Cred,FinTech,Delhi,India,77774997.0,19.86,Series A,2019
+628,Shopkirana,Retail,Pune,India,71125361.0,107.4,Seed Stage,2017
+629,Vedantu,EdTech,Pune,India,89974679.0,111.25,Series A,2018
+630,Cashfree,FinTech,Bengaluru,India,51407796.0,87.37,Inactive,2022
+631,Open,FinTech,Kolkata,India,25446077.0,58.54,Series B,2021
+632,Open,FinTech,Chennai,India,9838052.0,48.54,Series B,2021
+633,MedGenome,Healthcare,Hyderabad,India,98378085.0,82.91,Series A,2021
+634,Haptik,AI SaaS,Kolkata,India,85438897.0,76.01,Series A,2016
+635,Meesho,Retail,Pune,India,19393488.0,125.96,Inactive,2021
+636,Shadowfax,Logistics,Chennai,India,23629704.0,46.29,Inactive,2022
+637,MedGenome,Healthcare,Kolkata,India,2481337.0,118.58,Seed Stage,2014
+638,Delhivery,Logistics,Kolkata,India,9236945.0,25.7,Series A,2018
+639,Delhivery,Logistics,Mumbai,India,8515017.0,67.22,Seed Stage,2022
+640,Razorpay,FinTech,Chennai,India,12540333.0,9.75,Series A,2022
+641,Byjus,EdTech,Kolkata,India,35834513.0,46.25,Seed Stage,2017
+642,Rivigo,Logistics,Hyderabad,India,15306501.0,112.12,Inactive,2019
+643,Grofers,Retail,Pune,India,4117723.0,70.19,Series A,2018
+644,MedGenome,Healthcare,Pune,India,75104784.0,104.52,Seed Stage,2018
+645,Byjus,EdTech,Hyderabad,India,43244921.0,91.49,Inactive,2015
+646,BlackBuck,Logistics,Delhi,India,63826733.0,120.32,Series B,2020
+647,Testbook,EdTech,Hyderabad,India,50577523.0,142.51,Series A,2015
+648,Mad Street Den,AI SaaS,Bengaluru,India,16516968.0,41.14,Inactive,2014
+649,Niki.ai,AI SaaS,Delhi,India,28820999.0,118.16,Series B,2017
+650,EM3,Agriculture,Pune,India,70227227.0,34.38,Active,2015
+651,EM3,Agriculture,Hyderabad,India,65623665.0,148.88,Inactive,2014
+652,Unacademy,EdTech,Kolkata,India,17572380.0,105.05,Series A,2018
+653,Cred,FinTech,Hyderabad,India,57436950.0,100.56,Series A,2020
+654,Uniphore,AI SaaS,Pune,India,47146940.0,51.82,Active,2018
+655,HealthifyMe,Healthcare,Hyderabad,India,23860935.0,83.29,Series A,2022
+656,Open,FinTech,Delhi,India,76993565.0,101.46,Series A,2019
+657,Vedantu,EdTech,Kolkata,India,16955344.0,143.63,Inactive,2014
+658,Testbook,EdTech,Kolkata,India,98694334.0,24.42,Series B,2018
+659,Open,FinTech,Kolkata,India,58216334.0,103.4,Inactive,2018
+660,Toppr,EdTech,Bengaluru,India,58790784.0,70.78,Active,2017
+661,Haptik,AI SaaS,Pune,India,30927324.0,71.12,Active,2021
+662,Niki.ai,AI SaaS,Mumbai,India,2534472.0,24.34,Series B,2016
+663,Testbook,EdTech,Pune,India,68669963.0,77.33,Inactive,2019
+664,Cred,FinTech,Pune,India,77670734.0,89.33,Series A,2016
+665,Meesho,Retail,Delhi,India,97721036.0,126.59,Series A,2021
+666,Mad Street Den,AI SaaS,Mumbai,India,36970863.0,74.21,Inactive,2015
+667,Toppr,EdTech,Pune,India,16295791.0,68.91,Active,2014
+668,Haptik,AI SaaS,Chennai,India,67599006.0,53.94,Inactive,2022
+669,mfine,Healthcare,Pune,India,80158736.0,120.85,Active,2021
+670,Open,FinTech,Pune,India,73892439.0,18.28,Seed Stage,2019
+671,Fasal,Agriculture,Kolkata,India,67542125.0,137.91,Seed Stage,2014
+672,EM3,Agriculture,Kolkata,India,75788228.0,13.57,Active,2018
+673,Locus,Logistics,Mumbai,India,38499932.0,104.77,Seed Stage,2015
+674,CropIn,Agriculture,Bengaluru,India,86973336.0,131.18,Active,2017
+675,Grofers,Retail,Pune,India,5764159.0,100.14,Seed Stage,2015
+676,Meesho,Retail,Bengaluru,India,6042860.0,61.42,Active,2022
+677,Grofers,Retail,Chennai,India,48068705.0,29.22,Series A,2020
+678,Unacademy,EdTech,Hyderabad,India,99850097.0,76.58,Series A,2015
+679,Niramai,Healthcare,Pune,India,46522653.0,32.13,Series A,2020
+680,Unacademy,EdTech,Delhi,India,89367483.0,47.87,Series A,2014
+681,Meesho,Retail,Mumbai,India,55503920.0,15.42,Active,2021
+682,Niki.ai,AI SaaS,Delhi,India,50039393.0,131.55,Series B,2014
+683,Unacademy,EdTech,Bengaluru,India,16724618.0,97.21,Series A,2016
+684,EM3,Agriculture,Kolkata,India,71399709.0,122.02,Series B,2020
+685,Niki.ai,AI SaaS,Pune,India,36213544.0,75.69,Inactive,2020
+686,Fynd,Retail,Delhi,India,32547569.0,24.44,Series B,2017
+687,Niramai,Healthcare,Pune,India,65672327.0,48.79,Active,2018
+688,Razorpay,FinTech,Hyderabad,India,77069354.0,72.98,Series B,2017
+689,Unacademy,EdTech,Kolkata,India,73091901.0,88.05,Series B,2014
+690,Cashfree,FinTech,Bengaluru,India,7265537.0,140.54,Seed Stage,2016
+691,SigTuple,Healthcare,Pune,India,8715409.0,141.36,Active,2020
+692,Cred,FinTech,Bengaluru,India,84223404.0,97.87,Series A,2016
+693,Locus,Logistics,Hyderabad,India,61870463.0,126.92,Inactive,2020
+694,Byjus,EdTech,Mumbai,India,6775674.0,28.78,Active,2015
+695,Testbook,EdTech,Bengaluru,India,69398152.0,110.16,Series B,2019
+696,Unacademy,EdTech,Delhi,India,65554317.0,102.91,Seed Stage,2017
+697,CropIn,Agriculture,Pune,India,8358144.0,5.63,Seed Stage,2014
+698,Byjus,EdTech,Hyderabad,India,11978904.0,10.1,Seed Stage,2019
+699,Shopkirana,Retail,Mumbai,India,71544721.0,29.71,Inactive,2021
+700,SigTuple,Healthcare,Kolkata,India,7874064.0,148.37,Series B,2020
+701,Unacademy,EdTech,Bengaluru,India,46689934.0,31.92,Active,2017
+702,Shopkirana,Retail,Hyderabad,India,2809859.0,13.71,Active,2020
+703,EM3,Agriculture,Bengaluru,India,78587317.0,147.14,Inactive,2019
+704,Cashfree,FinTech,Kolkata,India,48223170.0,32.87,Active,2015
+705,HealthifyMe,Healthcare,Hyderabad,India,34128994.0,94.44,Active,2018
+706,Niki.ai,AI SaaS,Delhi,India,45235284.0,71.27,Active,2019
+707,Delhivery,Logistics,Chennai,India,42705393.0,58.32,Inactive,2022
+708,SigTuple,Healthcare,Bengaluru,India,62201697.0,112.11,Seed Stage,2019
+709,AgroStar,Agriculture,Hyderabad,India,30125650.0,67.08,Series A,2015
+710,CropIn,Agriculture,Bengaluru,India,53477713.0,25.42,Inactive,2021
+711,Fynd,Retail,Delhi,India,64277591.0,33.41,Series B,2018
+712,BlackBuck,Logistics,Pune,India,50326372.0,83.73,Series A,2019
+713,Shopkirana,Retail,Pune,India,68114358.0,42.84,Seed Stage,2021
+714,Shopkirana,Retail,Hyderabad,India,65341797.0,98.3,Inactive,2020
+715,Fynd,Retail,Bengaluru,India,36070148.0,23.36,Inactive,2021
+716,Unacademy,EdTech,Delhi,India,37387496.0,135.86,Series B,2017
+717,Shadowfax,Logistics,Delhi,India,20399877.0,27.63,Active,2017
+718,mfine,Healthcare,Mumbai,India,89235898.0,108.08,Inactive,2015
+719,Paytm,FinTech,Kolkata,India,16352464.0,109.85,Seed Stage,2017
+720,mfine,Healthcare,Hyderabad,India,6790097.0,123.4,Series B,2019
+721,Cashfree,FinTech,Kolkata,India,51867972.0,67.96,Series A,2017
+722,Testbook,EdTech,Pune,India,47871858.0,8.67,Inactive,2020
+723,Shadowfax,Logistics,Hyderabad,India,2809426.0,8.29,Series A,2018
+724,Cred,FinTech,Kolkata,India,88898850.0,149.75,Inactive,2021
+725,Cred,FinTech,Delhi,India,46213828.0,74.08,Inactive,2017
+726,MedGenome,Healthcare,Delhi,India,47620712.0,126.66,Seed Stage,2016
+727,BlackBuck,Logistics,Kolkata,India,16929208.0,81.71,Seed Stage,2016
+728,AgroStar,Agriculture,Hyderabad,India,98990989.0,43.98,Inactive,2022
+729,CityMall,Retail,Bengaluru,India,53860556.0,18.23,Seed Stage,2017
+730,Byjus,EdTech,Delhi,India,39600431.0,35.18,Series B,2016
+731,Meesho,Retail,Chennai,India,32647499.0,28.17,Series B,2017
+732,Testbook,EdTech,Chennai,India,60519712.0,24.11,Series B,2018
+733,Niramai,Healthcare,Delhi,India,94703950.0,49.41,Series A,2022
+734,Open,FinTech,Hyderabad,India,45566614.0,91.78,Series B,2019
+735,Vedantu,EdTech,Hyderabad,India,84947721.0,90.91,Inactive,2015
+736,Grofers,Retail,Pune,India,16998888.0,60.75,Series B,2015
+737,Razorpay,FinTech,Mumbai,India,20051338.0,42.1,Inactive,2016
+738,Unacademy,EdTech,Pune,India,30189950.0,84.55,Series B,2019
+739,Open,FinTech,Mumbai,India,74058813.0,84.35,Active,2022
+740,Rivigo,Logistics,Pune,India,2411116.0,105.18,Seed Stage,2017
+741,MedGenome,Healthcare,Mumbai,India,89341590.0,146.93,Active,2015
+742,Yellow.ai,AI SaaS,Delhi,India,69754627.0,5.31,Seed Stage,2020
+743,Locus,Logistics,Bengaluru,India,1166878.0,88.73,Series B,2022
+744,Grofers,Retail,Pune,India,16369915.0,115.15,Seed Stage,2018
+745,SigTuple,Healthcare,Bengaluru,India,89531067.0,92.79,Seed Stage,2021
+746,Razorpay,FinTech,Kolkata,India,31569581.0,46.14,Series A,2015
+747,Grofers,Retail,Hyderabad,India,72570996.0,61.36,Series B,2022
+748,CityMall,Retail,Pune,India,19693022.0,66.67,Inactive,2019
+749,Haptik,AI SaaS,Bengaluru,India,22421600.0,140.41,Series A,2020
+750,BlackBuck,Logistics,Bengaluru,India,92845071.0,92.82,Seed Stage,2018
+751,EM3,Agriculture,Chennai,India,8528347.0,91.73,Series A,2015
+752,CropIn,Agriculture,Pune,India,69876419.0,5.66,Series B,2015
+753,Vedantu,EdTech,Kolkata,India,16132868.0,85.27,Inactive,2020
+754,Locus,Logistics,Pune,India,61810140.0,99.36,Seed Stage,2014
+755,Razorpay,FinTech,Pune,India,90760984.0,39.82,Series B,2020
+756,MedGenome,Healthcare,Kolkata,India,44380436.0,122.54,Series B,2019
+757,CityMall,Retail,Kolkata,India,40274195.0,92.05,Series B,2019
+758,Fasal,Agriculture,Delhi,India,9380377.0,97.8,Series B,2015
+759,EM3,Agriculture,Chennai,India,97998914.0,105.92,Inactive,2015
+760,Stellapps,Agriculture,Pune,India,38503211.0,123.9,Series A,2019
+761,Stellapps,Agriculture,Pune,India,39533352.0,67.95,Series A,2015
+762,Niramai,Healthcare,Hyderabad,India,81828683.0,51.31,Series A,2021
+763,Byjus,EdTech,Bengaluru,India,8737856.0,148.86,Seed Stage,2019
+764,Niramai,Healthcare,Pune,India,59650733.0,26.88,Active,2016
+765,CropIn,Agriculture,Bengaluru,India,23727973.0,30.93,Inactive,2017
+766,Cashfree,FinTech,Kolkata,India,34478324.0,149.06,Series B,2020
+767,Cred,FinTech,Kolkata,India,66383241.0,133.01,Seed Stage,2019
+768,BlackBuck,Logistics,Hyderabad,India,18235436.0,5.24,Series B,2017
+769,Vedantu,EdTech,Bengaluru,India,14128634.0,33.73,Series B,2020
+770,Delhivery,Logistics,Mumbai,India,51477652.0,123.94,Series B,2017
+771,EM3,Agriculture,Kolkata,India,18555019.0,91.4,Active,2018
+772,Fynd,Retail,Kolkata,India,92201477.0,134.85,Seed Stage,2015
+773,Toppr,EdTech,Kolkata,India,58155925.0,9.29,Inactive,2020
+774,Cashfree,FinTech,Pune,India,86152384.0,108.18,Inactive,2016
+775,Cashfree,FinTech,Pune,India,21315797.0,17.09,Series A,2017
+776,CropIn,Agriculture,Hyderabad,India,60282259.0,142.84,Inactive,2015
+777,Niki.ai,AI SaaS,Chennai,India,3806519.0,80.9,Series B,2018
+778,Locus,Logistics,Bengaluru,India,66780438.0,11.02,Series A,2021
+779,Razorpay,FinTech,Delhi,India,18619021.0,26.11,Active,2021
+780,Cashfree,FinTech,Kolkata,India,27607076.0,47.44,Series A,2014
+781,Vedantu,EdTech,Pune,India,39793469.0,61.05,Series A,2022
+782,Stellapps,Agriculture,Delhi,India,26302234.0,123.77,Inactive,2019
+783,Unacademy,EdTech,Kolkata,India,8998579.0,44.97,Inactive,2022
+784,Unacademy,EdTech,Chennai,India,2800733.0,81.09,Series A,2021
+785,MedGenome,Healthcare,Chennai,India,88740462.0,55.19,Series B,2015
+786,Unacademy,EdTech,Bengaluru,India,93415006.0,84.31,Series A,2019
+787,Stellapps,Agriculture,Chennai,India,26125417.0,104.15,Seed Stage,2022
+788,Shopkirana,Retail,Bengaluru,India,22085308.0,120.55,Seed Stage,2019
+789,MedGenome,Healthcare,Bengaluru,India,98729612.0,33.83,Seed Stage,2014
+790,Niramai,Healthcare,Delhi,India,11397539.0,120.63,Seed Stage,2019
+791,Stellapps,Agriculture,Chennai,India,9344257.0,17.6,Active,2022
+792,Testbook,EdTech,Mumbai,India,73136018.0,104.62,Series B,2016
+793,Testbook,EdTech,Pune,India,11728306.0,114.19,Series B,2017
+794,EM3,Agriculture,Hyderabad,India,8587610.0,110.71,Inactive,2016
+795,HealthifyMe,Healthcare,Delhi,India,85125149.0,121.26,Inactive,2014
+796,Meesho,Retail,Hyderabad,India,92654356.0,59.61,Series B,2019
+797,MedGenome,Healthcare,Pune,India,98597892.0,18.85,Series B,2016
+798,Cashfree,FinTech,Delhi,India,44516305.0,25.44,Active,2019
+799,Delhivery,Logistics,Chennai,India,47958609.0,111.01,Series A,2017
+800,Shadowfax,Logistics,Delhi,India,94305093.0,78.61,Seed Stage,2020
+801,Delhivery,Logistics,Pune,India,7580358.0,88.77,Series B,2020
+802,Haptik,AI SaaS,Kolkata,India,93117772.0,59.82,Seed Stage,2014
+803,Stellapps,Agriculture,Mumbai,India,44370514.0,6.5,Inactive,2015
+804,Locus,Logistics,Hyderabad,India,38717474.0,62.34,Series A,2016
+805,Cashfree,FinTech,Mumbai,India,81677899.0,10.07,Seed Stage,2017
+806,Paytm,FinTech,Kolkata,India,75362056.0,39.95,Series A,2016
+807,Toppr,EdTech,Pune,India,86064290.0,77.76,Seed Stage,2014
+808,Open,FinTech,Kolkata,India,44735887.0,94.14,Seed Stage,2018
+809,Haptik,AI SaaS,Mumbai,India,91185083.0,30.33,Active,2022
+810,Delhivery,Logistics,Hyderabad,India,8404007.0,42.78,Active,2015
+811,Vedantu,EdTech,Kolkata,India,29359304.0,41.81,Series A,2015
+812,Delhivery,Logistics,Bengaluru,India,37407780.0,38.07,Inactive,2015
+813,Niki.ai,AI SaaS,Bengaluru,India,32122160.0,33.0,Inactive,2020
+814,Niramai,Healthcare,Chennai,India,31788276.0,25.34,Active,2017
+815,Haptik,AI SaaS,Mumbai,India,74442118.0,54.19,Inactive,2022
+816,Meesho,Retail,Mumbai,India,3469644.0,108.39,Inactive,2019
+817,Fynd,Retail,Hyderabad,India,13621788.0,146.02,Series B,2022
+818,MedGenome,Healthcare,Delhi,India,30010884.0,134.47,Active,2022
+819,Yellow.ai,AI SaaS,Delhi,India,18504395.0,125.27,Series A,2018
+820,EM3,Agriculture,Kolkata,India,76693560.0,12.89,Series A,2021
+821,Mad Street Den,AI SaaS,Delhi,India,40726728.0,17.55,Series A,2016
+822,Vedantu,EdTech,Bengaluru,India,25667838.0,128.54,Series B,2019
+823,Testbook,EdTech,Mumbai,India,16436119.0,20.34,Series A,2019
+824,Delhivery,Logistics,Pune,India,7558314.0,42.11,Seed Stage,2021
+825,Yellow.ai,AI SaaS,Hyderabad,India,30640196.0,117.45,Inactive,2021
+826,AgroStar,Agriculture,Pune,India,47104009.0,86.5,Active,2014
+827,Toppr,EdTech,Pune,India,17998077.0,27.99,Series A,2015
+828,Haptik,AI SaaS,Hyderabad,India,96447831.0,89.42,Seed Stage,2021
+829,Cred,FinTech,Mumbai,India,20776458.0,97.46,Inactive,2021
+830,Testbook,EdTech,Chennai,India,18031760.0,26.8,Seed Stage,2017
+831,Niki.ai,AI SaaS,Bengaluru,India,46263067.0,130.76,Active,2018
+832,Shopkirana,Retail,Kolkata,India,65446557.0,21.47,Series A,2014
+833,Stellapps,Agriculture,Hyderabad,India,33287887.0,148.29,Inactive,2021
+834,Razorpay,FinTech,Hyderabad,India,96784080.0,58.14,Series A,2020
+835,Yellow.ai,AI SaaS,Chennai,India,12289151.0,89.97,Series A,2022
+836,HealthifyMe,Healthcare,Delhi,India,77217095.0,91.88,Series B,2016
+837,Cashfree,FinTech,Chennai,India,46433382.0,12.18,Series B,2021
+838,Delhivery,Logistics,Mumbai,India,77716274.0,127.05,Active,2020
+839,BlackBuck,Logistics,Bengaluru,India,43988858.0,120.18,Series A,2020
+840,CityMall,Retail,Hyderabad,India,60331953.0,120.08,Seed Stage,2020
+841,CropIn,Agriculture,Hyderabad,India,12268758.0,70.77,Seed Stage,2016
+842,BlackBuck,Logistics,Kolkata,India,69302067.0,44.02,Series B,2019
+843,HealthifyMe,Healthcare,Hyderabad,India,39619548.0,51.59,Seed Stage,2020
+844,Shadowfax,Logistics,Pune,India,96978348.0,99.41,Inactive,2021
+845,Cashfree,FinTech,Bengaluru,India,70504624.0,5.27,Series A,2018
+846,Testbook,EdTech,Hyderabad,India,89315526.0,91.82,Series A,2022
+847,Byjus,EdTech,Delhi,India,67506251.0,16.51,Active,2022
+848,MedGenome,Healthcare,Mumbai,India,27763383.0,110.64,Inactive,2020
+849,Yellow.ai,AI SaaS,Hyderabad,India,24049623.0,110.03,Series B,2019
+850,HealthifyMe,Healthcare,Hyderabad,India,21833675.0,60.27,Seed Stage,2021
+851,mfine,Healthcare,Bengaluru,India,72274242.0,116.4,Seed Stage,2017
+852,Byjus,EdTech,Chennai,India,90339058.0,73.2,Seed Stage,2018
+853,Haptik,AI SaaS,Mumbai,India,23667176.0,77.32,Inactive,2015
+854,Locus,Logistics,Delhi,India,23033611.0,22.77,Series A,2015
+855,mfine,Healthcare,Mumbai,India,80338940.0,41.59,Series A,2020
+856,Razorpay,FinTech,Delhi,India,28283392.0,56.17,Inactive,2018
+857,Byjus,EdTech,Chennai,India,91596932.0,106.68,Series A,2016
+858,Razorpay,FinTech,Kolkata,India,6972667.0,89.11,Series B,2015
+859,Toppr,EdTech,Chennai,India,91616994.0,75.37,Active,2019
+860,BlackBuck,Logistics,Hyderabad,India,53042227.0,80.76,Inactive,2014
+861,Cred,FinTech,Bengaluru,India,23598706.0,140.09,Series A,2021
+862,Meesho,Retail,Chennai,India,38229743.0,122.6,Inactive,2020
+863,Meesho,Retail,Hyderabad,India,68710564.0,142.75,Series A,2015
+864,CityMall,Retail,Mumbai,India,85254529.0,146.85,Inactive,2014
+865,AgroStar,Agriculture,Chennai,India,13815955.0,134.34,Seed Stage,2014
+866,Cashfree,FinTech,Bengaluru,India,35951962.0,106.63,Series B,2018
+867,Niki.ai,AI SaaS,Delhi,India,73112585.0,15.17,Series B,2022
+868,HealthifyMe,Healthcare,Delhi,India,26856495.0,92.65,Inactive,2017
+869,Cred,FinTech,Hyderabad,India,49415154.0,106.24,Seed Stage,2022
+870,Unacademy,EdTech,Mumbai,India,93229065.0,64.9,Seed Stage,2019
+871,Niki.ai,AI SaaS,Delhi,India,17591008.0,52.42,Inactive,2016
+872,Rivigo,Logistics,Chennai,India,5037115.0,72.17,Series B,2014
+873,Shopkirana,Retail,Kolkata,India,52097864.0,64.59,Inactive,2014
+874,Vedantu,EdTech,Delhi,India,58837851.0,117.49,Seed Stage,2014
+875,Delhivery,Logistics,Bengaluru,India,65679919.0,59.54,Inactive,2019
+876,Haptik,AI SaaS,Mumbai,India,98493303.0,129.69,Inactive,2018
+877,Open,FinTech,Delhi,India,69727286.0,16.24,Inactive,2021
+878,Mad Street Den,AI SaaS,Pune,India,32009130.0,82.13,Active,2016
+879,Rivigo,Logistics,Hyderabad,India,36180090.0,32.29,Series A,2014
+880,Niramai,Healthcare,Mumbai,India,18805746.0,146.96,Inactive,2020
+881,Cashfree,FinTech,Mumbai,India,66888049.0,105.33,Inactive,2022
+882,Razorpay,FinTech,Bengaluru,India,963174.0,29.23,Series A,2021
+883,Razorpay,FinTech,Bengaluru,India,10966023.0,142.86,Series B,2018
+884,Meesho,Retail,Mumbai,India,92842039.0,149.35,Series A,2022
+885,Yellow.ai,AI SaaS,Delhi,India,53848794.0,11.66,Series B,2014
+886,mfine,Healthcare,Bengaluru,India,77918672.0,61.63,Inactive,2020
+887,Toppr,EdTech,Kolkata,India,73512163.0,115.96,Active,2021
+888,Niramai,Healthcare,Pune,India,97062005.0,124.3,Series B,2018
+889,CityMall,Retail,Chennai,India,65852198.0,75.13,Active,2017
+890,Shadowfax,Logistics,Bengaluru,India,90631744.0,42.07,Series A,2020
+891,Niramai,Healthcare,Hyderabad,India,41212728.0,26.96,Series B,2020
+892,EM3,Agriculture,Mumbai,India,41059833.0,79.37,Inactive,2020
+893,Yellow.ai,AI SaaS,Bengaluru,India,27879192.0,140.71,Active,2015
+894,Fasal,Agriculture,Pune,India,57240728.0,114.0,Seed Stage,2021
+895,Rivigo,Logistics,Bengaluru,India,44554086.0,28.5,Inactive,2014
+896,Toppr,EdTech,Mumbai,India,97765632.0,138.8,Active,2020
+897,Cashfree,FinTech,Bengaluru,India,55765367.0,66.54,Inactive,2018
+898,SigTuple,Healthcare,Pune,India,12283415.0,142.78,Series A,2017
+899,Toppr,EdTech,Bengaluru,India,31560265.0,54.29,Inactive,2019
+900,Niki.ai,AI SaaS,Kolkata,India,75278823.0,60.91,Series A,2015
+901,Vedantu,EdTech,Pune,India,33069309.0,140.05,Active,2016
+902,Meesho,Retail,Mumbai,India,72037860.0,57.85,Series A,2017
+903,Haptik,AI SaaS,Pune,India,1626311.0,64.64,Seed Stage,2014
+904,Niramai,Healthcare,Bengaluru,India,11795649.0,136.05,Inactive,2019
+905,CityMall,Retail,Delhi,India,41742697.0,32.91,Series A,2020
+906,Cred,FinTech,Hyderabad,India,79346330.0,125.66,Series B,2016
+907,Fynd,Retail,Pune,India,22261155.0,119.25,Series B,2017
+908,Razorpay,FinTech,Delhi,India,21979019.0,7.53,Inactive,2017
+909,Meesho,Retail,Chennai,India,55204744.0,54.23,Seed Stage,2018
+910,Unacademy,EdTech,Pune,India,88499739.0,131.07,Inactive,2018
+911,Stellapps,Agriculture,Mumbai,India,58903798.0,14.01,Series A,2020
+912,Toppr,EdTech,Bengaluru,India,45879441.0,134.41,Seed Stage,2022
+913,Niki.ai,AI SaaS,Kolkata,India,81110679.0,13.39,Active,2020
+914,Paytm,FinTech,Pune,India,90896194.0,73.56,Inactive,2019
+915,Locus,Logistics,Kolkata,India,65276799.0,127.56,Seed Stage,2020
+916,Fynd,Retail,Chennai,India,56738117.0,78.72,Active,2019
+917,Razorpay,FinTech,Hyderabad,India,95662655.0,111.96,Series A,2021
+918,Vedantu,EdTech,Bengaluru,India,60068673.0,37.0,Active,2018
+919,Delhivery,Logistics,Delhi,India,98071052.0,94.26,Active,2014
+920,Stellapps,Agriculture,Chennai,India,90699061.0,72.05,Inactive,2020
+921,mfine,Healthcare,Delhi,India,90970571.0,29.39,Seed Stage,2017
+922,Meesho,Retail,Bengaluru,India,29269675.0,81.68,Active,2022
+923,EM3,Agriculture,Chennai,India,14512700.0,70.64,Active,2016
+924,Stellapps,Agriculture,Delhi,India,38920247.0,119.88,Inactive,2017
+925,Byjus,EdTech,Delhi,India,44529929.0,48.13,Inactive,2019
+926,Toppr,EdTech,Bengaluru,India,47442090.0,12.18,Active,2022
+927,CityMall,Retail,Bengaluru,India,45457298.0,17.59,Active,2019
+928,Shopkirana,Retail,Chennai,India,93589744.0,116.79,Active,2016
+929,Fynd,Retail,Kolkata,India,63888788.0,129.46,Inactive,2019
+930,Cred,FinTech,Delhi,India,27065756.0,54.63,Series A,2022
+931,Testbook,EdTech,Hyderabad,India,67060385.0,116.47,Series A,2015
+932,SigTuple,Healthcare,Bengaluru,India,20912098.0,51.27,Active,2019
+933,AgroStar,Agriculture,Bengaluru,India,68795260.0,91.92,Inactive,2017
+934,CityMall,Retail,Pune,India,85305853.0,116.51,Series B,2021
+935,Haptik,AI SaaS,Delhi,India,98836233.0,44.53,Active,2019
+936,Niki.ai,AI SaaS,Mumbai,India,74857246.0,146.23,Seed Stage,2019
+937,Mad Street Den,AI SaaS,Bengaluru,India,11667786.0,134.04,Seed Stage,2020
+938,Niki.ai,AI SaaS,Delhi,India,89156860.0,32.29,Active,2018
+939,Stellapps,Agriculture,Hyderabad,India,15703668.0,48.76,Series A,2017
+940,Shadowfax,Logistics,Chennai,India,99480165.0,23.95,Series A,2018
+941,AgroStar,Agriculture,Bengaluru,India,6023342.0,104.47,Series B,2015
+942,SigTuple,Healthcare,Chennai,India,48354821.0,13.41,Seed Stage,2014
+943,Niki.ai,AI SaaS,Chennai,India,80421623.0,27.79,Series A,2020
+944,Unacademy,EdTech,Chennai,India,97957183.0,104.52,Series B,2017
+945,Paytm,FinTech,Kolkata,India,55590613.0,139.11,Series A,2019
+946,Paytm,FinTech,Chennai,India,3149341.0,66.95,Seed Stage,2018
+947,Niki.ai,AI SaaS,Mumbai,India,28105696.0,146.86,Series B,2016
+948,HealthifyMe,Healthcare,Hyderabad,India,82656573.0,137.34,Active,2020
+949,Paytm,FinTech,Pune,India,90257462.0,80.91,Series A,2015
+950,Grofers,Retail,Mumbai,India,67379129.0,43.65,Series B,2022
+951,CityMall,Retail,Chennai,India,64799136.0,148.36,Series B,2015
+952,Vedantu,EdTech,Hyderabad,India,14808603.0,123.03,Inactive,2014
+953,Cashfree,FinTech,Hyderabad,India,50281784.0,53.4,Seed Stage,2015
+954,Razorpay,FinTech,Chennai,India,26719133.0,115.09,Series A,2020
+955,Testbook,EdTech,Chennai,India,68611962.0,144.87,Seed Stage,2020
+956,Delhivery,Logistics,Pune,India,81124170.0,52.47,Inactive,2018
+957,Mad Street Den,AI SaaS,Pune,India,23214876.0,15.25,Seed Stage,2015
+958,Delhivery,Logistics,Chennai,India,42959954.0,90.32,Active,2021
+959,Toppr,EdTech,Chennai,India,38966130.0,145.14,Inactive,2021
+960,mfine,Healthcare,Delhi,India,44872364.0,104.75,Inactive,2014
+961,Rivigo,Logistics,Mumbai,India,60210271.0,48.12,Inactive,2022
+962,Rivigo,Logistics,Pune,India,5779287.0,139.26,Series A,2017
+963,Shadowfax,Logistics,Mumbai,India,78250627.0,102.56,Inactive,2020
+964,Fynd,Retail,Bengaluru,India,79115110.0,136.79,Inactive,2020
+965,Toppr,EdTech,Kolkata,India,28074661.0,149.05,Inactive,2022
+966,Uniphore,AI SaaS,Delhi,India,69629077.0,141.29,Active,2022
+967,Razorpay,FinTech,Bengaluru,India,87072716.0,43.13,Inactive,2020
+968,CropIn,Agriculture,Chennai,India,36451053.0,20.28,Series B,2017
+969,Byjus,EdTech,Delhi,India,56085875.0,31.48,Active,2019
+970,Meesho,Retail,Chennai,India,89545951.0,134.72,Inactive,2020
+971,AgroStar,Agriculture,Chennai,India,64533308.0,88.53,Series A,2020
+972,AgroStar,Agriculture,Mumbai,India,30662966.0,131.56,Inactive,2022
+973,Cred,FinTech,Kolkata,India,60117319.0,91.48,Active,2016
+974,HealthifyMe,Healthcare,Kolkata,India,53165080.0,17.14,Series B,2021
+975,Toppr,EdTech,Chennai,India,98582138.0,51.01,Series B,2017
+976,Open,FinTech,Delhi,India,26901467.0,74.54,Seed Stage,2014
+977,Locus,Logistics,Delhi,India,39913240.0,69.56,Inactive,2017
+978,Haptik,AI SaaS,Kolkata,India,66906366.0,97.13,Series A,2017
+979,Testbook,EdTech,Delhi,India,58974275.0,67.08,Inactive,2016
+980,Uniphore,AI SaaS,Bengaluru,India,68062166.0,44.4,Active,2018
+981,Meesho,Retail,Kolkata,India,26341897.0,145.87,Active,2022
+982,Vedantu,EdTech,Pune,India,94558831.0,126.45,Seed Stage,2014
+983,CityMall,Retail,Kolkata,India,59039366.0,34.02,Active,2017
+984,Locus,Logistics,Chennai,India,53953189.0,38.17,Series B,2015
+985,Open,FinTech,Bengaluru,India,75243275.0,66.2,Seed Stage,2017
+986,Niramai,Healthcare,Hyderabad,India,28864776.0,32.81,Series B,2020
+987,Mad Street Den,AI SaaS,Chennai,India,71139804.0,145.62,Active,2022
+988,AgroStar,Agriculture,Mumbai,India,77452710.0,17.82,Active,2018
+989,Stellapps,Agriculture,Delhi,India,33087989.0,15.75,Series B,2021
+990,AgroStar,Agriculture,Kolkata,India,57740196.0,104.24,Series B,2021
+991,Grofers,Retail,Pune,India,70904079.0,137.91,Series A,2014
+992,SigTuple,Healthcare,Pune,India,9877979.0,125.87,Series A,2015
+993,CityMall,Retail,Mumbai,India,70096911.0,54.65,Series B,2015
+994,Stellapps,Agriculture,Delhi,India,41475953.0,134.1,Series B,2020
+995,Uniphore,AI SaaS,Kolkata,India,37776690.0,129.39,Inactive,2018
+996,Mad Street Den,AI SaaS,Pune,India,60280078.0,131.28,Seed Stage,2022
+997,HealthifyMe,Healthcare,Hyderabad,India,60095910.0,45.16,Active,2017
+998,Testbook,EdTech,Chennai,India,54594344.0,60.12,Series B,2017
+999,Vedantu,EdTech,Delhi,India,20037776.0,128.99,Active,2015
+1000,Byjus,EdTech,Delhi,India,79606984.0,41.83,Series A,2018

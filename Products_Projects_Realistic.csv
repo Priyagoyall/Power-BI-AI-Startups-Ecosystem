@@ -1,0 +1,1974 @@
+product_id,startup_id,sector,product_name,ai_technology,revenue_inr,launch_year
+1,1,AI SaaS,CustomerAI,Computer Vision,48237109.0,2023
+2,2,Healthcare,HealthAI,Robotics,11328477.0,2022
+3,2,Healthcare,VitalSense,NLP,32667178.0,2025
+4,3,Logistics,FleetPredict,Recommendation System,38522025.0,2024
+5,4,EdTech,LearnSmart,Recommendation System,19957550.0,2023
+6,5,EdTech,StudyAI,Predictive Analytics,16469276.0,2022
+7,5,EdTech,TutorBot,Computer Vision,27092803.0,2025
+8,6,Healthcare,HealthAI,Predictive Analytics,10041796.0,2024
+9,6,Healthcare,DiagnosePro,NLP,28956867.0,2021
+10,7,Healthcare,CareAI,Robotics,1740191.0,2019
+11,7,Healthcare,VitalSense,Recommendation System,32842952.0,2021
+12,8,Logistics,RouteAI,NLP,6188923.0,2025
+13,8,Logistics,CargoAI,Computer Vision,25936407.0,2022
+14,9,Retail,InventoryAI,Recommendation System,24824803.0,2023
+15,10,Retail,SalesPredict,Predictive Analytics,14218038.0,2022
+16,10,Retail,InventoryAI,Computer Vision,44080971.0,2023
+17,11,Healthcare,CareAI,Predictive Analytics,12968164.0,2016
+18,12,EdTech,TestPrep AI,Predictive Analytics,23228760.0,2024
+19,12,EdTech,TestPrep AI,Computer Vision,11824466.0,2022
+20,12,EdTech,EduAI Platform,Predictive Analytics,34358898.0,2022
+21,13,Healthcare,MediBot,Robotics,22286563.0,2019
+22,14,EdTech,TestPrep AI,Predictive Analytics,31471483.0,2023
+23,14,EdTech,EduAI Platform,Recommendation System,40457851.0,2018
+24,14,EdTech,LearnSmart,Predictive Analytics,45056037.0,2021
+25,15,FinTech,CreditSense,NLP,18291087.0,2018
+26,15,FinTech,WalletAI,Recommendation System,10950899.0,2020
+27,16,Retail,StoreAI,Recommendation System,16264919.0,2015
+28,16,Retail,SmartShop,Recommendation System,49351291.0,2018
+29,16,Retail,SalesPredict,NLP,32745714.0,2022
+30,17,Healthcare,MediBot,Recommendation System,18583282.0,2021
+31,17,Healthcare,MediBot,Computer Vision,37729446.0,2016
+32,18,AI SaaS,NLP Suite,Predictive Analytics,39744167.0,2020
+33,19,AI SaaS,VisionAI,Robotics,35628387.0,2024
+34,20,Healthcare,DiagnosePro,Robotics,32688346.0,2023
+35,20,Healthcare,VitalSense,Recommendation System,42101029.0,2021
+36,21,EdTech,TestPrep AI,Computer Vision,29429140.0,2020
+37,21,EdTech,TutorBot,Predictive Analytics,38239492.0,2021
+38,22,Retail,RetailBot,Recommendation System,43566809.0,2025
+39,22,Retail,RetailBot,Predictive Analytics,15403106.0,2023
+40,23,Retail,StoreAI,Robotics,3101310.0,2020
+41,24,EdTech,LearnSmart,Recommendation System,11991584.0,2025
+42,24,EdTech,TutorBot,Predictive Analytics,1938741.0,2025
+43,25,EdTech,TestPrep AI,NLP,24655604.0,2016
+44,25,EdTech,TutorBot,Recommendation System,33850247.0,2021
+45,25,EdTech,LearnSmart,Robotics,27590290.0,2023
+46,26,Agriculture,FarmSense,NLP,35210519.0,2018
+47,26,Agriculture,FieldBot,Computer Vision,23338498.0,2014
+48,26,Agriculture,AgroPredict,Predictive Analytics,19951636.0,2022
+49,27,AI SaaS,CustomerAI,NLP,17372610.0,2022
+50,27,AI SaaS,VisionAI,Computer Vision,4907796.0,2025
+51,27,AI SaaS,VoiceAI,Computer Vision,13985963.0,2023
+52,28,EdTech,LearnSmart,Robotics,12233347.0,2024
+53,29,EdTech,EduAI Platform,Recommendation System,15653565.0,2020
+54,30,Logistics,DeliveryBot,NLP,39057752.0,2024
+55,30,Logistics,RouteAI,Recommendation System,25426853.0,2025
+56,30,Logistics,FleetPredict,Recommendation System,20883081.0,2025
+57,31,FinTech,CreditSense,Computer Vision,22310882.0,2023
+58,31,FinTech,WalletAI,Robotics,21797201.0,2024
+59,32,Retail,StoreAI,Predictive Analytics,4922919.0,2018
+60,32,Retail,InventoryAI,Robotics,30481129.0,2025
+61,33,Agriculture,FarmSense,Computer Vision,42379571.0,2023
+62,33,Agriculture,CropAI,Robotics,47010259.0,2017
+63,33,Agriculture,FieldBot,Computer Vision,16292956.0,2020
+64,34,FinTech,LoanBot,Robotics,2416999.0,2021
+65,34,FinTech,FinPredict,Recommendation System,25144157.0,2014
+66,35,Agriculture,AgroPredict,Computer Vision,4083522.0,2023
+67,35,Agriculture,FarmSense,Robotics,12043045.0,2019
+68,36,EdTech,StudyAI,Predictive Analytics,13478153.0,2021
+69,37,EdTech,LearnSmart,Recommendation System,37955972.0,2022
+70,37,EdTech,StudyAI,Predictive Analytics,9458446.0,2024
+71,38,AI SaaS,CustomerAI,Predictive Analytics,49754097.0,2021
+72,39,AI SaaS,NLP Suite,Recommendation System,26275542.0,2023
+73,39,AI SaaS,CustomerAI,Computer Vision,13837184.0,2023
+74,39,AI SaaS,CustomerAI,Computer Vision,11505231.0,2020
+75,40,EdTech,LearnSmart,Predictive Analytics,27079993.0,2022
+76,41,Agriculture,FieldBot,Predictive Analytics,24616740.0,2022
+77,41,Agriculture,CropAI,Computer Vision,38153602.0,2018
+78,41,Agriculture,FarmSense,Recommendation System,48976370.0,2025
+79,42,Retail,InventoryAI,Robotics,19971038.0,2019
+80,42,Retail,InventoryAI,Robotics,16761136.0,2015
+81,42,Retail,RetailBot,Predictive Analytics,23833166.0,2022
+82,43,Logistics,RouteAI,Computer Vision,3324026.0,2021
+83,43,Logistics,CargoAI,NLP,5248287.0,2023
+84,44,Healthcare,DiagnosePro,Computer Vision,26034636.0,2022
+85,44,Healthcare,HealthAI,Recommendation System,43159189.0,2018
+86,45,AI SaaS,ChatBotPro,Predictive Analytics,12951656.0,2021
+87,45,AI SaaS,NLP Suite,Recommendation System,31447122.0,2018
+88,46,FinTech,FinPredict,Robotics,18279160.0,2016
+89,46,FinTech,WalletAI,Predictive Analytics,6089989.0,2016
+90,46,FinTech,CreditSense,NLP,48907226.0,2018
+91,47,AI SaaS,VisionAI,Robotics,14873514.0,2021
+92,47,AI SaaS,NLP Suite,Predictive Analytics,20327350.0,2021
+93,48,Agriculture,SmartIrrigation,Predictive Analytics,43411199.0,2025
+94,48,Agriculture,FieldBot,Predictive Analytics,25069908.0,2025
+95,48,Agriculture,SmartIrrigation,Robotics,2871970.0,2024
+96,49,Agriculture,SmartIrrigation,Robotics,44004675.0,2024
+97,50,Logistics,SmartLogistics,Predictive Analytics,16180164.0,2022
+98,51,FinTech,FinPredict,Recommendation System,28797625.0,2018
+99,51,FinTech,FinPredict,Computer Vision,15424891.0,2016
+100,52,AI SaaS,CustomerAI,Robotics,25802259.0,2022
+101,52,AI SaaS,CustomerAI,Recommendation System,34437078.0,2023
+102,52,AI SaaS,VoiceAI,Recommendation System,6014122.0,2025
+103,53,AI SaaS,VisionAI,Robotics,49336946.0,2022
+104,54,Retail,RetailBot,Recommendation System,28606431.0,2015
+105,54,Retail,RetailBot,Robotics,32526604.0,2015
+106,55,Logistics,SmartLogistics,Recommendation System,30050667.0,2024
+107,55,Logistics,CargoAI,NLP,8038493.0,2021
+108,56,Logistics,FleetPredict,NLP,30139544.0,2018
+109,57,Agriculture,SmartIrrigation,Robotics,14222531.0,2019
+110,57,Agriculture,FieldBot,Computer Vision,14803405.0,2020
+111,58,EdTech,TutorBot,Computer Vision,41415113.0,2025
+112,58,EdTech,StudyAI,Computer Vision,41762730.0,2024
+113,59,FinTech,WalletAI,Computer Vision,36416076.0,2021
+114,60,Agriculture,SmartIrrigation,Predictive Analytics,34954565.0,2024
+115,60,Agriculture,FarmSense,Robotics,40572469.0,2021
+116,61,Retail,StoreAI,Robotics,18870226.0,2017
+117,62,Agriculture,FieldBot,Computer Vision,45182615.0,2024
+118,63,EdTech,StudyAI,Recommendation System,10395069.0,2021
+119,64,Healthcare,CareAI,Computer Vision,17518452.0,2023
+120,64,Healthcare,VitalSense,Robotics,20359373.0,2024
+121,65,Logistics,SmartLogistics,Recommendation System,28604696.0,2025
+122,66,FinTech,CreditSense,NLP,16489090.0,2014
+123,66,FinTech,CreditSense,Computer Vision,48690910.0,2019
+124,67,Agriculture,SmartIrrigation,Robotics,4653228.0,2025
+125,67,Agriculture,FarmSense,Predictive Analytics,21784668.0,2021
+126,68,Retail,SmartShop,Recommendation System,36574976.0,2021
+127,68,Retail,InventoryAI,NLP,17250745.0,2019
+128,69,AI SaaS,CustomerAI,Recommendation System,12419124.0,2025
+129,69,AI SaaS,VisionAI,Robotics,8840773.0,2020
+130,69,AI SaaS,CustomerAI,Robotics,45018758.0,2022
+131,70,Healthcare,CareAI,Robotics,40230003.0,2022
+132,70,Healthcare,CareAI,NLP,27971296.0,2024
+133,70,Healthcare,VitalSense,Computer Vision,13033362.0,2021
+134,71,FinTech,WalletAI,Predictive Analytics,8361158.0,2025
+135,72,Healthcare,DiagnosePro,Predictive Analytics,34766817.0,2024
+136,73,Healthcare,VitalSense,Robotics,8712881.0,2025
+137,73,Healthcare,VitalSense,Computer Vision,31126475.0,2020
+138,74,EdTech,StudyAI,NLP,18105850.0,2022
+139,75,Healthcare,HealthAI,Predictive Analytics,12818122.0,2022
+140,76,FinTech,PayAI,Predictive Analytics,31723816.0,2017
+141,77,Retail,SalesPredict,Recommendation System,47602373.0,2016
+142,77,Retail,InventoryAI,Recommendation System,3371728.0,2023
+143,78,EdTech,TestPrep AI,Predictive Analytics,43416082.0,2023
+144,79,AI SaaS,NLP Suite,Robotics,35769665.0,2020
+145,79,AI SaaS,ChatBotPro,Predictive Analytics,24540272.0,2022
+146,79,AI SaaS,VisionAI,Computer Vision,19916281.0,2025
+147,80,AI SaaS,NLP Suite,Computer Vision,32596400.0,2024
+148,80,AI SaaS,ChatBotPro,NLP,24619756.0,2021
+149,80,AI SaaS,VisionAI,NLP,39522424.0,2022
+150,81,Retail,StoreAI,NLP,48942671.0,2024
+151,81,Retail,SalesPredict,NLP,16904941.0,2023
+152,81,Retail,SalesPredict,NLP,36555547.0,2021
+153,82,Agriculture,FarmSense,Robotics,4392904.0,2024
+154,83,Healthcare,HealthAI,NLP,5459895.0,2024
+155,84,Logistics,RouteAI,Computer Vision,32573328.0,2019
+156,84,Logistics,FleetPredict,Predictive Analytics,21660697.0,2024
+157,85,EdTech,EduAI Platform,Recommendation System,13100632.0,2016
+158,85,EdTech,EduAI Platform,Computer Vision,30517104.0,2019
+159,85,EdTech,TestPrep AI,Recommendation System,19736572.0,2019
+160,86,Retail,StoreAI,NLP,20565138.0,2024
+161,87,Agriculture,FieldBot,NLP,26222128.0,2022
+162,87,Agriculture,CropAI,Computer Vision,32773737.0,2022
+163,87,Agriculture,SmartIrrigation,Computer Vision,21474259.0,2021
+164,88,Healthcare,MediBot,Predictive Analytics,39689725.0,2023
+165,88,Healthcare,VitalSense,Robotics,26496756.0,2023
+166,89,AI SaaS,CustomerAI,Robotics,7433873.0,2021
+167,90,Retail,InventoryAI,Computer Vision,7135531.0,2014
+168,90,Retail,StoreAI,NLP,25776007.0,2025
+169,90,Retail,RetailBot,NLP,3816204.0,2021
+170,91,Agriculture,SmartIrrigation,Computer Vision,5749584.0,2016
+171,91,Agriculture,SmartIrrigation,Computer Vision,25018820.0,2020
+172,91,Agriculture,AgroPredict,Recommendation System,8650437.0,2020
+173,92,Agriculture,FarmSense,Computer Vision,31923137.0,2023
+174,93,FinTech,LoanBot,Computer Vision,11648639.0,2024
+175,93,FinTech,WalletAI,Robotics,16061169.0,2024
+176,93,FinTech,WalletAI,NLP,21347121.0,2025
+177,94,EdTech,TestPrep AI,Predictive Analytics,13885144.0,2021
+178,94,EdTech,TutorBot,NLP,17931027.0,2019
+179,95,Healthcare,DiagnosePro,Recommendation System,2048947.0,2020
+180,95,Healthcare,MediBot,Computer Vision,30987358.0,2022
+181,96,Logistics,FleetPredict,Computer Vision,41250318.0,2022
+182,96,Logistics,RouteAI,Predictive Analytics,16137094.0,2015
+183,96,Logistics,CargoAI,Robotics,9727992.0,2015
+184,97,FinTech,PayAI,Recommendation System,18918292.0,2017
+185,97,FinTech,WalletAI,Recommendation System,45787008.0,2015
+186,98,Healthcare,DiagnosePro,NLP,21213554.0,2021
+187,98,Healthcare,MediBot,NLP,32780947.0,2022
+188,99,EdTech,TutorBot,Computer Vision,5111844.0,2025
+189,99,EdTech,StudyAI,Predictive Analytics,24959207.0,2020
+190,100,AI SaaS,VisionAI,Predictive Analytics,36260151.0,2023
+191,101,Healthcare,CareAI,Computer Vision,35554621.0,2020
+192,101,Healthcare,HealthAI,Recommendation System,16248917.0,2020
+193,101,Healthcare,DiagnosePro,Computer Vision,26995031.0,2022
+194,102,AI SaaS,ChatBotPro,Recommendation System,1470668.0,2019
+195,102,AI SaaS,NLP Suite,Recommendation System,17417353.0,2018
+196,103,Retail,SmartShop,Recommendation System,5691001.0,2020
+197,104,Healthcare,HealthAI,Computer Vision,29831460.0,2019
+198,104,Healthcare,CareAI,NLP,18095979.0,2018
+199,104,Healthcare,DiagnosePro,Recommendation System,29109935.0,2023
+200,105,Healthcare,HealthAI,NLP,29478670.0,2017
+201,105,Healthcare,VitalSense,Recommendation System,32652753.0,2024
+202,106,Agriculture,CropAI,Computer Vision,16811499.0,2022
+203,106,Agriculture,SmartIrrigation,Predictive Analytics,43767561.0,2024
+204,106,Agriculture,CropAI,Computer Vision,47335754.0,2025
+205,107,FinTech,WalletAI,Predictive Analytics,15862263.0,2024
+206,107,FinTech,LoanBot,NLP,13944458.0,2022
+207,108,Logistics,CargoAI,Predictive Analytics,38277831.0,2020
+208,109,Retail,RetailBot,Computer Vision,48227213.0,2022
+209,110,Retail,SalesPredict,Robotics,28415736.0,2023
+210,110,Retail,SalesPredict,Predictive Analytics,41506446.0,2021
+211,111,AI SaaS,VisionAI,Recommendation System,37012695.0,2022
+212,111,AI SaaS,NLP Suite,NLP,33289969.0,2023
+213,111,AI SaaS,VoiceAI,Predictive Analytics,22940354.0,2025
+214,112,Retail,SalesPredict,Recommendation System,46388356.0,2022
+215,112,Retail,SmartShop,Predictive Analytics,3266785.0,2024
+216,112,Retail,InventoryAI,Predictive Analytics,20244802.0,2022
+217,113,Agriculture,FarmSense,Computer Vision,18077013.0,2019
+218,114,Logistics,SmartLogistics,Robotics,35427398.0,2021
+219,114,Logistics,CargoAI,Recommendation System,3816018.0,2023
+220,115,Logistics,FleetPredict,Recommendation System,45797839.0,2021
+221,116,AI SaaS,CustomerAI,Computer Vision,31152741.0,2025
+222,117,Retail,RetailBot,Robotics,25363610.0,2025
+223,118,Logistics,SmartLogistics,Computer Vision,23000740.0,2019
+224,119,AI SaaS,NLP Suite,NLP,31679708.0,2025
+225,120,Healthcare,CareAI,Predictive Analytics,15379621.0,2018
+226,120,Healthcare,MediBot,Recommendation System,11433842.0,2025
+227,120,Healthcare,VitalSense,Robotics,26626424.0,2020
+228,121,Agriculture,FarmSense,NLP,15827439.0,2024
+229,121,Agriculture,CropAI,Recommendation System,34692760.0,2024
+230,121,Agriculture,AgroPredict,Computer Vision,34896670.0,2024
+231,122,Logistics,SmartLogistics,Predictive Analytics,30438097.0,2021
+232,122,Logistics,DeliveryBot,Robotics,44429674.0,2025
+233,122,Logistics,FleetPredict,Robotics,18636685.0,2023
+234,123,Healthcare,HealthAI,Computer Vision,42665262.0,2020
+235,123,Healthcare,DiagnosePro,Predictive Analytics,3863397.0,2019
+236,123,Healthcare,MediBot,Recommendation System,37371301.0,2023
+237,124,EdTech,EduAI Platform,NLP,26726252.0,2017
+238,124,EdTech,TestPrep AI,Recommendation System,3763007.0,2021
+239,124,EdTech,TestPrep AI,Robotics,1446264.0,2021
+240,125,Logistics,SmartLogistics,Predictive Analytics,31687337.0,2022
+241,126,Healthcare,DiagnosePro,Recommendation System,16203394.0,2018
+242,126,Healthcare,CareAI,NLP,20645563.0,2020
+243,126,Healthcare,VitalSense,Computer Vision,19274527.0,2016
+244,127,EdTech,StudyAI,Computer Vision,15166669.0,2015
+245,127,EdTech,TestPrep AI,NLP,21848418.0,2017
+246,127,EdTech,LearnSmart,Recommendation System,16683588.0,2019
+247,128,FinTech,FinPredict,Recommendation System,41749777.0,2022
+248,128,FinTech,WalletAI,Predictive Analytics,19071192.0,2025
+249,128,FinTech,WalletAI,NLP,10482128.0,2022
+250,129,EdTech,EduAI Platform,NLP,17960973.0,2024
+251,129,EdTech,StudyAI,NLP,10692626.0,2020
+252,130,AI SaaS,VisionAI,Predictive Analytics,21728722.0,2022
+253,130,AI SaaS,CustomerAI,Predictive Analytics,38506681.0,2022
+254,130,AI SaaS,ChatBotPro,Robotics,9547342.0,2022
+255,131,EdTech,LearnSmart,Robotics,45799069.0,2015
+256,131,EdTech,TestPrep AI,Computer Vision,33665017.0,2017
+257,131,EdTech,LearnSmart,Recommendation System,1097097.0,2022
+258,132,Agriculture,FieldBot,NLP,11102044.0,2024
+259,133,EdTech,EduAI Platform,Recommendation System,28907354.0,2020
+260,134,FinTech,CreditSense,Recommendation System,18407686.0,2024
+261,134,FinTech,LoanBot,NLP,24972005.0,2023
+262,134,FinTech,LoanBot,NLP,10006867.0,2023
+263,135,Healthcare,CareAI,Computer Vision,30553803.0,2019
+264,135,Healthcare,MediBot,Recommendation System,47575217.0,2023
+265,135,Healthcare,MediBot,Computer Vision,30990043.0,2024
+266,136,Healthcare,VitalSense,Computer Vision,42282996.0,2018
+267,136,Healthcare,VitalSense,NLP,47697202.0,2024
+268,136,Healthcare,MediBot,Computer Vision,35608060.0,2023
+269,137,Retail,InventoryAI,Predictive Analytics,11410022.0,2023
+270,137,Retail,RetailBot,Recommendation System,12954278.0,2022
+271,138,AI SaaS,VisionAI,Recommendation System,38497693.0,2019
+272,138,AI SaaS,NLP Suite,Recommendation System,8910373.0,2025
+273,139,Retail,RetailBot,Computer Vision,48237374.0,2017
+274,140,AI SaaS,VisionAI,Computer Vision,22308287.0,2023
+275,140,AI SaaS,CustomerAI,Computer Vision,7414412.0,2025
+276,140,AI SaaS,VoiceAI,NLP,4353863.0,2023
+277,141,Logistics,CargoAI,Computer Vision,3140411.0,2025
+278,141,Logistics,DeliveryBot,Computer Vision,44786328.0,2023
+279,141,Logistics,RouteAI,Predictive Analytics,41426498.0,2021
+280,142,Logistics,CargoAI,Predictive Analytics,7507041.0,2025
+281,142,Logistics,CargoAI,NLP,5765819.0,2019
+282,143,Retail,SalesPredict,Robotics,11829024.0,2023
+283,143,Retail,StoreAI,Recommendation System,23229354.0,2025
+284,143,Retail,StoreAI,Computer Vision,5165053.0,2021
+285,144,EdTech,EduAI Platform,Computer Vision,34314736.0,2022
+286,145,Healthcare,DiagnosePro,NLP,25809103.0,2019
+287,145,Healthcare,VitalSense,NLP,35244968.0,2022
+288,146,FinTech,WalletAI,Predictive Analytics,2803329.0,2022
+289,147,AI SaaS,NLP Suite,Robotics,43044830.0,2019
+290,147,AI SaaS,VoiceAI,NLP,12200250.0,2019
+291,147,AI SaaS,ChatBotPro,Recommendation System,42751601.0,2025
+292,148,FinTech,CreditSense,NLP,20420280.0,2021
+293,149,Logistics,DeliveryBot,NLP,8909109.0,2023
+294,149,Logistics,CargoAI,Robotics,21427638.0,2018
+295,149,Logistics,RouteAI,Computer Vision,20492397.0,2014
+296,150,Healthcare,VitalSense,Recommendation System,38240493.0,2023
+297,151,Logistics,CargoAI,Recommendation System,1493763.0,2022
+298,151,Logistics,DeliveryBot,Recommendation System,290801.0,2022
+299,151,Logistics,RouteAI,Predictive Analytics,25402583.0,2022
+300,152,EdTech,EduAI Platform,Computer Vision,48618238.0,2024
+301,152,EdTech,LearnSmart,Robotics,13756567.0,2019
+302,152,EdTech,TestPrep AI,Predictive Analytics,10240136.0,2022
+303,153,FinTech,WalletAI,Robotics,15976471.0,2025
+304,154,Agriculture,FarmSense,Recommendation System,43805503.0,2020
+305,154,Agriculture,CropAI,NLP,5481640.0,2016
+306,155,AI SaaS,CustomerAI,Predictive Analytics,49990775.0,2022
+307,155,AI SaaS,VoiceAI,Robotics,45729480.0,2024
+308,155,AI SaaS,ChatBotPro,Predictive Analytics,14603473.0,2021
+309,156,FinTech,LoanBot,Computer Vision,40792235.0,2025
+310,156,FinTech,CreditSense,Robotics,49825852.0,2023
+311,156,FinTech,WalletAI,Recommendation System,7932622.0,2024
+312,157,AI SaaS,ChatBotPro,Recommendation System,3481667.0,2018
+313,157,AI SaaS,CustomerAI,Computer Vision,25788422.0,2021
+314,157,AI SaaS,NLP Suite,Predictive Analytics,17462119.0,2025
+315,158,Agriculture,AgroPredict,Predictive Analytics,10637041.0,2023
+316,158,Agriculture,CropAI,Predictive Analytics,43488854.0,2025
+317,158,Agriculture,SmartIrrigation,Recommendation System,49518163.0,2024
+318,159,AI SaaS,NLP Suite,NLP,17146981.0,2018
+319,160,FinTech,CreditSense,Predictive Analytics,14487911.0,2024
+320,160,FinTech,CreditSense,Predictive Analytics,22664711.0,2020
+321,161,Agriculture,SmartIrrigation,Predictive Analytics,26583974.0,2018
+322,161,Agriculture,CropAI,Recommendation System,33928991.0,2020
+323,162,AI SaaS,NLP Suite,NLP,47733623.0,2025
+324,163,Agriculture,FarmSense,NLP,32977832.0,2018
+325,163,Agriculture,SmartIrrigation,NLP,32949317.0,2019
+326,163,Agriculture,CropAI,Recommendation System,5587938.0,2022
+327,164,Agriculture,CropAI,Recommendation System,1117791.0,2020
+328,164,Agriculture,FieldBot,Computer Vision,29339202.0,2019
+329,165,Logistics,DeliveryBot,Robotics,17618078.0,2025
+330,166,FinTech,PayAI,Robotics,2324464.0,2023
+331,166,FinTech,CreditSense,Recommendation System,48629849.0,2017
+332,166,FinTech,CreditSense,NLP,12090608.0,2025
+333,167,Retail,StoreAI,Robotics,9166865.0,2022
+334,167,Retail,SalesPredict,Robotics,41567452.0,2025
+335,168,Agriculture,FarmSense,Recommendation System,21914588.0,2015
+336,168,Agriculture,CropAI,NLP,25932140.0,2025
+337,168,Agriculture,FarmSense,Predictive Analytics,16501086.0,2014
+338,169,Healthcare,CareAI,Recommendation System,28229930.0,2023
+339,169,Healthcare,MediBot,Robotics,45285417.0,2023
+340,169,Healthcare,CareAI,Robotics,944670.0,2021
+341,170,EdTech,TutorBot,Computer Vision,24539433.0,2021
+342,170,EdTech,TutorBot,Robotics,559600.0,2019
+343,171,AI SaaS,NLP Suite,Computer Vision,43102305.0,2024
+344,171,AI SaaS,VisionAI,Recommendation System,23087151.0,2021
+345,172,AI SaaS,VoiceAI,Computer Vision,33661672.0,2025
+346,172,AI SaaS,VoiceAI,Robotics,48552678.0,2023
+347,173,Agriculture,SmartIrrigation,Robotics,48874941.0,2023
+348,173,Agriculture,FarmSense,Predictive Analytics,44833804.0,2019
+349,174,Healthcare,VitalSense,Predictive Analytics,46751809.0,2025
+350,175,Healthcare,HealthAI,Computer Vision,18796181.0,2023
+351,175,Healthcare,DiagnosePro,Predictive Analytics,27110899.0,2024
+352,176,AI SaaS,CustomerAI,Recommendation System,41867315.0,2020
+353,176,AI SaaS,NLP Suite,Robotics,46571097.0,2022
+354,176,AI SaaS,CustomerAI,Computer Vision,36744699.0,2025
+355,177,Agriculture,FarmSense,Robotics,17066771.0,2023
+356,177,Agriculture,FarmSense,NLP,34213095.0,2022
+357,178,EdTech,LearnSmart,Computer Vision,38559041.0,2025
+358,178,EdTech,LearnSmart,Computer Vision,25493828.0,2014
+359,178,EdTech,TutorBot,Recommendation System,14776999.0,2020
+360,179,Logistics,FleetPredict,Predictive Analytics,28721527.0,2023
+361,179,Logistics,DeliveryBot,NLP,23863617.0,2021
+362,180,Agriculture,SmartIrrigation,NLP,16293245.0,2024
+363,181,FinTech,LoanBot,NLP,32050001.0,2025
+364,181,FinTech,PayAI,Recommendation System,2894138.0,2022
+365,181,FinTech,CreditSense,Robotics,19830353.0,2025
+366,182,AI SaaS,CustomerAI,NLP,16745667.0,2021
+367,183,AI SaaS,VisionAI,Robotics,3763244.0,2020
+368,183,AI SaaS,VoiceAI,Predictive Analytics,35574895.0,2018
+369,183,AI SaaS,VoiceAI,Predictive Analytics,19463759.0,2019
+370,184,Retail,RetailBot,Predictive Analytics,18785348.0,2024
+371,184,Retail,SmartShop,Robotics,20747801.0,2024
+372,185,Logistics,RouteAI,Recommendation System,23286905.0,2021
+373,185,Logistics,DeliveryBot,Recommendation System,26294142.0,2020
+374,185,Logistics,SmartLogistics,Predictive Analytics,41052837.0,2021
+375,186,Agriculture,AgroPredict,Robotics,6616315.0,2025
+376,186,Agriculture,CropAI,Predictive Analytics,39187096.0,2022
+377,186,Agriculture,SmartIrrigation,Computer Vision,40517859.0,2021
+378,187,EdTech,LearnSmart,Robotics,15916183.0,2024
+379,187,EdTech,TutorBot,Computer Vision,42712265.0,2023
+380,187,EdTech,LearnSmart,Computer Vision,14176289.0,2025
+381,188,AI SaaS,ChatBotPro,Robotics,48437615.0,2025
+382,188,AI SaaS,ChatBotPro,Predictive Analytics,38436231.0,2020
+383,188,AI SaaS,CustomerAI,Recommendation System,24450400.0,2021
+384,189,EdTech,StudyAI,Computer Vision,45649633.0,2022
+385,189,EdTech,EduAI Platform,Recommendation System,18875604.0,2022
+386,189,EdTech,TestPrep AI,Recommendation System,32288138.0,2023
+387,190,FinTech,LoanBot,Recommendation System,10833697.0,2024
+388,190,FinTech,FinPredict,Predictive Analytics,18802659.0,2022
+389,191,Retail,RetailBot,Recommendation System,1982996.0,2022
+390,192,Logistics,RouteAI,Computer Vision,20216230.0,2019
+391,193,Logistics,RouteAI,Recommendation System,40035979.0,2020
+392,193,Logistics,DeliveryBot,Computer Vision,17485569.0,2019
+393,193,Logistics,FleetPredict,Robotics,42684784.0,2014
+394,194,EdTech,LearnSmart,NLP,639080.0,2017
+395,195,Logistics,CargoAI,Recommendation System,29189884.0,2024
+396,195,Logistics,RouteAI,Computer Vision,46662798.0,2024
+397,196,Retail,SmartShop,Recommendation System,23386140.0,2023
+398,196,Retail,RetailBot,Robotics,2442074.0,2015
+399,197,Healthcare,HealthAI,Computer Vision,24011779.0,2023
+400,198,AI SaaS,VoiceAI,Recommendation System,7062755.0,2025
+401,199,EdTech,TutorBot,Recommendation System,38440432.0,2024
+402,199,EdTech,StudyAI,Recommendation System,8798716.0,2023
+403,199,EdTech,LearnSmart,NLP,11815240.0,2024
+404,200,Agriculture,AgroPredict,Computer Vision,39533230.0,2024
+405,201,EdTech,TutorBot,Predictive Analytics,18855642.0,2015
+406,201,EdTech,TutorBot,Predictive Analytics,43639268.0,2022
+407,201,EdTech,TestPrep AI,NLP,14373249.0,2019
+408,202,Healthcare,HealthAI,Robotics,22456342.0,2023
+409,203,Logistics,FleetPredict,Robotics,29199270.0,2023
+410,203,Logistics,SmartLogistics,Predictive Analytics,18290957.0,2021
+411,204,Healthcare,CareAI,Computer Vision,48830584.0,2015
+412,204,Healthcare,CareAI,Robotics,42707681.0,2022
+413,205,Retail,RetailBot,Predictive Analytics,47742529.0,2019
+414,205,Retail,StoreAI,Recommendation System,32578902.0,2024
+415,205,Retail,StoreAI,Computer Vision,40171148.0,2022
+416,206,EdTech,EduAI Platform,Predictive Analytics,37172677.0,2021
+417,206,EdTech,EduAI Platform,Computer Vision,5745226.0,2015
+418,206,EdTech,StudyAI,Predictive Analytics,48664864.0,2022
+419,207,AI SaaS,CustomerAI,Recommendation System,30723360.0,2016
+420,208,AI SaaS,VoiceAI,Predictive Analytics,27234247.0,2021
+421,208,AI SaaS,VoiceAI,Robotics,36842169.0,2023
+422,209,Logistics,RouteAI,Computer Vision,1137313.0,2018
+423,210,Healthcare,DiagnosePro,NLP,29188019.0,2023
+424,210,Healthcare,MediBot,Predictive Analytics,44751437.0,2023
+425,210,Healthcare,DiagnosePro,Computer Vision,17710922.0,2020
+426,211,Healthcare,DiagnosePro,NLP,42185705.0,2019
+427,212,FinTech,LoanBot,Predictive Analytics,26818322.0,2025
+428,212,FinTech,FinPredict,Recommendation System,33852096.0,2025
+429,213,Logistics,FleetPredict,NLP,6890348.0,2018
+430,213,Logistics,RouteAI,Robotics,26209866.0,2017
+431,213,Logistics,SmartLogistics,NLP,41643355.0,2024
+432,214,EdTech,StudyAI,Recommendation System,27201211.0,2022
+433,214,EdTech,StudyAI,Computer Vision,2227008.0,2025
+434,215,Healthcare,MediBot,Recommendation System,25199908.0,2022
+435,216,Healthcare,DiagnosePro,Recommendation System,19095227.0,2016
+436,217,FinTech,PayAI,NLP,36546178.0,2023
+437,218,Healthcare,HealthAI,Recommendation System,40973086.0,2025
+438,218,Healthcare,HealthAI,Computer Vision,23591203.0,2018
+439,218,Healthcare,VitalSense,Predictive Analytics,23175061.0,2018
+440,219,Healthcare,VitalSense,Recommendation System,6528769.0,2025
+441,219,Healthcare,HealthAI,NLP,20398942.0,2015
+442,219,Healthcare,DiagnosePro,Recommendation System,27690288.0,2022
+443,220,FinTech,PayAI,Computer Vision,3932655.0,2020
+444,220,FinTech,CreditSense,Robotics,12154889.0,2023
+445,221,Healthcare,DiagnosePro,Predictive Analytics,22725774.0,2023
+446,222,Agriculture,SmartIrrigation,Robotics,40760735.0,2025
+447,222,Agriculture,SmartIrrigation,Computer Vision,30544421.0,2023
+448,222,Agriculture,FarmSense,Computer Vision,48947896.0,2024
+449,223,FinTech,FinPredict,Computer Vision,2137464.0,2023
+450,224,Agriculture,FieldBot,NLP,2703376.0,2019
+451,224,Agriculture,CropAI,Predictive Analytics,49212106.0,2022
+452,224,Agriculture,FarmSense,Recommendation System,31714401.0,2019
+453,225,EdTech,EduAI Platform,Recommendation System,41786573.0,2024
+454,226,FinTech,PayAI,Predictive Analytics,19799765.0,2024
+455,227,AI SaaS,VisionAI,Computer Vision,43585454.0,2022
+456,227,AI SaaS,VoiceAI,Predictive Analytics,12736687.0,2025
+457,227,AI SaaS,ChatBotPro,Computer Vision,19256071.0,2023
+458,228,EdTech,TutorBot,Computer Vision,32156871.0,2024
+459,228,EdTech,LearnSmart,Recommendation System,33909180.0,2023
+460,228,EdTech,StudyAI,Recommendation System,41773873.0,2025
+461,229,Retail,SmartShop,Robotics,39933633.0,2024
+462,229,Retail,SalesPredict,Predictive Analytics,24597393.0,2019
+463,229,Retail,InventoryAI,Recommendation System,21776103.0,2019
+464,230,Agriculture,SmartIrrigation,Computer Vision,24797126.0,2022
+465,231,EdTech,StudyAI,Recommendation System,32375499.0,2023
+466,231,EdTech,StudyAI,Robotics,33488085.0,2018
+467,231,EdTech,StudyAI,NLP,26315426.0,2020
+468,232,FinTech,FinPredict,Recommendation System,13126398.0,2021
+469,233,AI SaaS,VisionAI,Robotics,27978672.0,2025
+470,234,AI SaaS,VoiceAI,Predictive Analytics,44893650.0,2019
+471,234,AI SaaS,VisionAI,NLP,39629461.0,2016
+472,235,Agriculture,FarmSense,Computer Vision,7626800.0,2020
+473,236,Agriculture,FieldBot,Predictive Analytics,44466186.0,2022
+474,236,Agriculture,SmartIrrigation,Computer Vision,22049407.0,2023
+475,236,Agriculture,AgroPredict,Computer Vision,28085825.0,2021
+476,237,AI SaaS,VisionAI,Computer Vision,2888217.0,2024
+477,237,AI SaaS,NLP Suite,Recommendation System,17369736.0,2023
+478,237,AI SaaS,NLP Suite,Predictive Analytics,10388410.0,2023
+479,238,EdTech,TutorBot,Predictive Analytics,23612783.0,2015
+480,239,AI SaaS,NLP Suite,Robotics,23012721.0,2023
+481,239,AI SaaS,CustomerAI,Predictive Analytics,32140465.0,2025
+482,239,AI SaaS,VisionAI,NLP,29019975.0,2025
+483,240,Healthcare,CareAI,Predictive Analytics,18584518.0,2019
+484,240,Healthcare,DiagnosePro,Computer Vision,40761020.0,2023
+485,241,FinTech,WalletAI,Recommendation System,49334572.0,2018
+486,242,Agriculture,AgroPredict,Computer Vision,15915845.0,2025
+487,243,AI SaaS,VisionAI,Computer Vision,45197434.0,2023
+488,243,AI SaaS,NLP Suite,Predictive Analytics,15890429.0,2024
+489,244,Healthcare,HealthAI,Predictive Analytics,16130905.0,2020
+490,244,Healthcare,DiagnosePro,NLP,18002750.0,2021
+491,245,FinTech,PayAI,NLP,1167800.0,2019
+492,246,EdTech,LearnSmart,Robotics,45854086.0,2024
+493,247,Retail,InventoryAI,Robotics,2825225.0,2017
+494,247,Retail,RetailBot,Recommendation System,3556429.0,2022
+495,247,Retail,InventoryAI,Predictive Analytics,9017425.0,2022
+496,248,Agriculture,SmartIrrigation,Predictive Analytics,14259669.0,2025
+497,248,Agriculture,AgroPredict,Computer Vision,30895676.0,2020
+498,248,Agriculture,FieldBot,Predictive Analytics,23713009.0,2024
+499,249,Healthcare,CareAI,NLP,17286528.0,2020
+500,249,Healthcare,CareAI,Predictive Analytics,2977165.0,2022
+501,250,AI SaaS,NLP Suite,Predictive Analytics,34765680.0,2025
+502,251,Logistics,RouteAI,Predictive Analytics,675754.0,2022
+503,251,Logistics,FleetPredict,Recommendation System,1756989.0,2025
+504,251,Logistics,RouteAI,Recommendation System,37104314.0,2019
+505,252,AI SaaS,CustomerAI,NLP,44472927.0,2021
+506,252,AI SaaS,VisionAI,Robotics,9761047.0,2021
+507,253,EdTech,TestPrep AI,NLP,17172277.0,2020
+508,253,EdTech,LearnSmart,Predictive Analytics,14036135.0,2021
+509,253,EdTech,LearnSmart,NLP,14382149.0,2020
+510,254,Logistics,DeliveryBot,Predictive Analytics,5490925.0,2015
+511,255,Healthcare,MediBot,Predictive Analytics,22496760.0,2025
+512,256,EdTech,LearnSmart,Predictive Analytics,9105313.0,2024
+513,256,EdTech,TutorBot,NLP,7708625.0,2021
+514,257,AI SaaS,NLP Suite,Predictive Analytics,16181128.0,2021
+515,258,Agriculture,SmartIrrigation,Computer Vision,16634513.0,2025
+516,259,Retail,SalesPredict,Recommendation System,9451088.0,2018
+517,260,AI SaaS,ChatBotPro,NLP,29347014.0,2024
+518,261,FinTech,LoanBot,Computer Vision,41279156.0,2023
+519,261,FinTech,FinPredict,Computer Vision,17594860.0,2023
+520,262,EdTech,LearnSmart,Computer Vision,17913967.0,2025
+521,263,EdTech,TutorBot,Recommendation System,9354777.0,2022
+522,263,EdTech,StudyAI,Robotics,42150778.0,2023
+523,264,AI SaaS,NLP Suite,Recommendation System,34386718.0,2019
+524,264,AI SaaS,NLP Suite,Recommendation System,4980130.0,2017
+525,265,EdTech,StudyAI,Robotics,8142300.0,2025
+526,265,EdTech,LearnSmart,Robotics,25223712.0,2022
+527,265,EdTech,TutorBot,Predictive Analytics,49047737.0,2024
+528,266,Healthcare,VitalSense,Recommendation System,14843409.0,2024
+529,267,Retail,SalesPredict,Predictive Analytics,6611755.0,2020
+530,267,Retail,SmartShop,NLP,5880255.0,2021
+531,268,Logistics,FleetPredict,Computer Vision,577592.0,2024
+532,268,Logistics,DeliveryBot,NLP,37872419.0,2022
+533,269,Retail,RetailBot,Computer Vision,35854876.0,2020
+534,269,Retail,SalesPredict,Computer Vision,27074825.0,2025
+535,269,Retail,RetailBot,Computer Vision,12505115.0,2023
+536,270,Logistics,SmartLogistics,Predictive Analytics,7449423.0,2022
+537,270,Logistics,RouteAI,Computer Vision,14481404.0,2025
+538,271,FinTech,WalletAI,Recommendation System,21316995.0,2024
+539,271,FinTech,WalletAI,Predictive Analytics,32196175.0,2025
+540,272,FinTech,WalletAI,Robotics,18613600.0,2023
+541,273,EdTech,StudyAI,NLP,16634234.0,2022
+542,273,EdTech,EduAI Platform,NLP,38125708.0,2025
+543,273,EdTech,EduAI Platform,Predictive Analytics,18205156.0,2025
+544,274,Healthcare,HealthAI,Recommendation System,3351869.0,2024
+545,274,Healthcare,MediBot,Robotics,15164124.0,2023
+546,274,Healthcare,CareAI,Recommendation System,4430538.0,2022
+547,275,Agriculture,SmartIrrigation,Recommendation System,11601409.0,2025
+548,276,FinTech,WalletAI,Recommendation System,20909697.0,2024
+549,277,AI SaaS,VoiceAI,Robotics,29371885.0,2020
+550,277,AI SaaS,VoiceAI,NLP,4238525.0,2019
+551,278,Logistics,RouteAI,Recommendation System,29114202.0,2017
+552,279,Agriculture,AgroPredict,Predictive Analytics,34000852.0,2021
+553,279,Agriculture,CropAI,NLP,17860715.0,2025
+554,279,Agriculture,FarmSense,Recommendation System,23145016.0,2025
+555,280,Healthcare,DiagnosePro,NLP,3840504.0,2024
+556,280,Healthcare,MediBot,Computer Vision,10831242.0,2024
+557,280,Healthcare,DiagnosePro,Predictive Analytics,6507669.0,2022
+558,281,EdTech,LearnSmart,Predictive Analytics,28474732.0,2023
+559,281,EdTech,TutorBot,NLP,32201625.0,2023
+560,282,EdTech,EduAI Platform,NLP,42967338.0,2022
+561,282,EdTech,TestPrep AI,Computer Vision,48664655.0,2022
+562,283,FinTech,FinPredict,NLP,34719814.0,2022
+563,283,FinTech,WalletAI,Robotics,22927834.0,2023
+564,284,FinTech,WalletAI,Computer Vision,30116747.0,2023
+565,285,Logistics,RouteAI,Robotics,39200401.0,2018
+566,285,Logistics,DeliveryBot,NLP,23947652.0,2022
+567,286,AI SaaS,NLP Suite,Robotics,40433764.0,2020
+568,286,AI SaaS,NLP Suite,Computer Vision,3890354.0,2017
+569,287,AI SaaS,CustomerAI,Computer Vision,16663908.0,2022
+570,287,AI SaaS,VisionAI,NLP,45455363.0,2022
+571,287,AI SaaS,VisionAI,Predictive Analytics,10766717.0,2025
+572,288,EdTech,LearnSmart,NLP,22488901.0,2023
+573,289,Healthcare,VitalSense,NLP,2342398.0,2016
+574,289,Healthcare,DiagnosePro,Predictive Analytics,46975091.0,2021
+575,290,Logistics,SmartLogistics,Predictive Analytics,15362653.0,2019
+576,290,Logistics,FleetPredict,Recommendation System,11248291.0,2023
+577,290,Logistics,RouteAI,Robotics,36792693.0,2025
+578,291,FinTech,LoanBot,Recommendation System,11141661.0,2018
+579,292,AI SaaS,ChatBotPro,Predictive Analytics,41979567.0,2021
+580,292,AI SaaS,ChatBotPro,NLP,12051840.0,2018
+581,293,FinTech,FinPredict,Predictive Analytics,44566189.0,2022
+582,294,EdTech,LearnSmart,Predictive Analytics,39944502.0,2022
+583,295,EdTech,EduAI Platform,Computer Vision,13891108.0,2022
+584,295,EdTech,StudyAI,Predictive Analytics,36649475.0,2022
+585,296,Healthcare,VitalSense,Computer Vision,7100340.0,2020
+586,296,Healthcare,HealthAI,Robotics,20805828.0,2017
+587,297,EdTech,StudyAI,NLP,14013769.0,2020
+588,297,EdTech,EduAI Platform,Recommendation System,48286454.0,2023
+589,298,Logistics,CargoAI,Predictive Analytics,19875842.0,2025
+590,298,Logistics,RouteAI,Predictive Analytics,44434594.0,2023
+591,299,EdTech,StudyAI,Recommendation System,8850337.0,2018
+592,300,EdTech,TutorBot,Recommendation System,12368414.0,2025
+593,300,EdTech,TutorBot,Recommendation System,38157664.0,2017
+594,301,Retail,SalesPredict,Robotics,32706322.0,2024
+595,302,AI SaaS,VoiceAI,NLP,28799578.0,2023
+596,302,AI SaaS,VoiceAI,NLP,5177838.0,2023
+597,303,FinTech,PayAI,NLP,2480342.0,2021
+598,304,AI SaaS,VisionAI,Computer Vision,586799.0,2022
+599,304,AI SaaS,ChatBotPro,NLP,19564229.0,2020
+600,305,Agriculture,CropAI,Computer Vision,38445673.0,2019
+601,305,Agriculture,FieldBot,Predictive Analytics,39341276.0,2023
+602,306,Agriculture,CropAI,Computer Vision,30963715.0,2018
+603,306,Agriculture,SmartIrrigation,Predictive Analytics,865757.0,2024
+604,307,FinTech,LoanBot,Predictive Analytics,27925962.0,2020
+605,308,FinTech,WalletAI,Robotics,29676198.0,2018
+606,309,FinTech,PayAI,Computer Vision,25548860.0,2024
+607,309,FinTech,CreditSense,Recommendation System,36442491.0,2017
+608,309,FinTech,LoanBot,Robotics,16550316.0,2025
+609,310,FinTech,CreditSense,NLP,5132593.0,2018
+610,310,FinTech,PayAI,NLP,39210263.0,2017
+611,310,FinTech,CreditSense,Computer Vision,33489977.0,2020
+612,311,AI SaaS,CustomerAI,Predictive Analytics,2859344.0,2020
+613,312,FinTech,CreditSense,Recommendation System,38609744.0,2025
+614,312,FinTech,WalletAI,NLP,43866412.0,2022
+615,312,FinTech,WalletAI,Computer Vision,40290652.0,2024
+616,313,Retail,RetailBot,Recommendation System,43339918.0,2024
+617,314,FinTech,PayAI,Computer Vision,39460758.0,2019
+618,314,FinTech,FinPredict,Robotics,31555850.0,2020
+619,314,FinTech,CreditSense,Computer Vision,32679948.0,2024
+620,315,EdTech,StudyAI,NLP,16991900.0,2024
+621,315,EdTech,StudyAI,Computer Vision,48921861.0,2022
+622,316,FinTech,PayAI,Robotics,8272254.0,2021
+623,317,FinTech,LoanBot,NLP,205252.0,2022
+624,318,FinTech,WalletAI,Recommendation System,18133955.0,2021
+625,318,FinTech,WalletAI,Recommendation System,14877922.0,2022
+626,318,FinTech,WalletAI,Robotics,38979748.0,2018
+627,319,Agriculture,FarmSense,Recommendation System,7767765.0,2020
+628,319,Agriculture,FarmSense,Recommendation System,27717287.0,2023
+629,319,Agriculture,CropAI,Computer Vision,6389937.0,2022
+630,320,AI SaaS,CustomerAI,Computer Vision,38430534.0,2019
+631,320,AI SaaS,CustomerAI,NLP,45961174.0,2017
+632,321,Retail,RetailBot,NLP,31745187.0,2022
+633,322,AI SaaS,NLP Suite,Recommendation System,45460930.0,2015
+634,323,AI SaaS,ChatBotPro,Robotics,10918259.0,2025
+635,323,AI SaaS,VoiceAI,Predictive Analytics,18329922.0,2014
+636,324,Logistics,SmartLogistics,NLP,25697380.0,2021
+637,324,Logistics,RouteAI,NLP,42062556.0,2023
+638,325,FinTech,CreditSense,Recommendation System,21880330.0,2022
+639,325,FinTech,CreditSense,Robotics,3923347.0,2018
+640,325,FinTech,LoanBot,NLP,22073739.0,2025
+641,326,FinTech,PayAI,NLP,8040491.0,2020
+642,326,FinTech,WalletAI,NLP,18819749.0,2024
+643,327,FinTech,CreditSense,Computer Vision,37832122.0,2023
+644,327,FinTech,CreditSense,Computer Vision,8256063.0,2015
+645,328,Healthcare,VitalSense,NLP,10612639.0,2018
+646,328,Healthcare,DiagnosePro,Computer Vision,12426463.0,2025
+647,329,FinTech,CreditSense,NLP,35883905.0,2025
+648,329,FinTech,PayAI,NLP,2203334.0,2024
+649,330,FinTech,CreditSense,Computer Vision,26579134.0,2021
+650,331,Healthcare,HealthAI,Recommendation System,34084278.0,2023
+651,331,Healthcare,CareAI,Predictive Analytics,48593947.0,2023
+652,332,AI SaaS,CustomerAI,Recommendation System,5828549.0,2024
+653,333,FinTech,FinPredict,Recommendation System,33465120.0,2024
+654,334,FinTech,CreditSense,Recommendation System,16434234.0,2024
+655,335,Logistics,RouteAI,Robotics,41640389.0,2024
+656,336,AI SaaS,CustomerAI,Robotics,9099667.0,2023
+657,336,AI SaaS,NLP Suite,Robotics,9684685.0,2025
+658,337,Agriculture,FieldBot,NLP,48565262.0,2024
+659,338,AI SaaS,ChatBotPro,Predictive Analytics,16810592.0,2016
+660,339,Healthcare,CareAI,Computer Vision,18852357.0,2020
+661,339,Healthcare,VitalSense,Computer Vision,29935988.0,2020
+662,339,Healthcare,DiagnosePro,Predictive Analytics,37649198.0,2025
+663,340,FinTech,PayAI,Computer Vision,42383397.0,2020
+664,340,FinTech,PayAI,Predictive Analytics,14138937.0,2024
+665,340,FinTech,LoanBot,Robotics,389380.0,2024
+666,341,Logistics,CargoAI,Recommendation System,4370750.0,2023
+667,342,Healthcare,DiagnosePro,Predictive Analytics,17967834.0,2025
+668,342,Healthcare,MediBot,Computer Vision,5441700.0,2024
+669,343,Retail,SalesPredict,Computer Vision,19885080.0,2021
+670,344,FinTech,PayAI,Robotics,14397685.0,2018
+671,344,FinTech,CreditSense,NLP,8061492.0,2018
+672,345,FinTech,PayAI,Computer Vision,11661061.0,2020
+673,345,FinTech,WalletAI,Recommendation System,9029983.0,2021
+674,345,FinTech,PayAI,NLP,37571401.0,2024
+675,346,Agriculture,SmartIrrigation,NLP,23100681.0,2025
+676,346,Agriculture,SmartIrrigation,Predictive Analytics,30188572.0,2022
+677,347,FinTech,PayAI,Recommendation System,42827089.0,2025
+678,347,FinTech,PayAI,Robotics,49482823.0,2022
+679,347,FinTech,CreditSense,Computer Vision,39300580.0,2021
+680,348,Retail,RetailBot,Robotics,15462001.0,2025
+681,348,Retail,RetailBot,Predictive Analytics,45356575.0,2024
+682,349,EdTech,TestPrep AI,Recommendation System,20274927.0,2024
+683,349,EdTech,TutorBot,Predictive Analytics,16915818.0,2025
+684,350,EdTech,TestPrep AI,Recommendation System,48361970.0,2021
+685,350,EdTech,LearnSmart,Robotics,37846903.0,2023
+686,350,EdTech,EduAI Platform,Computer Vision,19642220.0,2025
+687,351,Healthcare,MediBot,Predictive Analytics,26804727.0,2024
+688,352,AI SaaS,CustomerAI,Robotics,47039221.0,2022
+689,353,Agriculture,FarmSense,NLP,38513108.0,2025
+690,353,Agriculture,FieldBot,Computer Vision,25774715.0,2021
+691,353,Agriculture,SmartIrrigation,NLP,24211898.0,2019
+692,354,Healthcare,MediBot,NLP,16462643.0,2022
+693,354,Healthcare,VitalSense,Predictive Analytics,10055503.0,2022
+694,354,Healthcare,VitalSense,Computer Vision,24602903.0,2024
+695,355,Healthcare,DiagnosePro,Computer Vision,43546293.0,2020
+696,355,Healthcare,VitalSense,NLP,32409705.0,2021
+697,356,EdTech,TutorBot,Recommendation System,28525250.0,2022
+698,356,EdTech,TutorBot,Computer Vision,7722821.0,2022
+699,356,EdTech,TestPrep AI,Robotics,4564483.0,2019
+700,357,Agriculture,AgroPredict,Computer Vision,8597104.0,2020
+701,357,Agriculture,AgroPredict,Predictive Analytics,32086766.0,2022
+702,358,EdTech,TestPrep AI,Robotics,30009701.0,2025
+703,358,EdTech,EduAI Platform,NLP,7630091.0,2025
+704,358,EdTech,EduAI Platform,NLP,11564010.0,2021
+705,359,Retail,SalesPredict,Predictive Analytics,43084943.0,2020
+706,359,Retail,SalesPredict,Recommendation System,19187259.0,2023
+707,359,Retail,InventoryAI,NLP,37928903.0,2023
+708,360,EdTech,LearnSmart,Computer Vision,47827720.0,2021
+709,360,EdTech,EduAI Platform,Computer Vision,34691290.0,2020
+710,360,EdTech,StudyAI,Robotics,4050592.0,2019
+711,361,AI SaaS,VisionAI,NLP,16632370.0,2021
+712,361,AI SaaS,VoiceAI,Recommendation System,11580306.0,2022
+713,362,Agriculture,CropAI,NLP,25199090.0,2024
+714,363,Logistics,FleetPredict,Robotics,20884370.0,2022
+715,364,Healthcare,HealthAI,Robotics,20038435.0,2021
+716,365,EdTech,StudyAI,Recommendation System,16858695.0,2020
+717,365,EdTech,LearnSmart,NLP,21410154.0,2018
+718,365,EdTech,StudyAI,Computer Vision,39690861.0,2022
+719,366,Logistics,SmartLogistics,Computer Vision,25004306.0,2018
+720,367,EdTech,EduAI Platform,Predictive Analytics,48361842.0,2022
+721,367,EdTech,EduAI Platform,NLP,12369181.0,2024
+722,368,Retail,StoreAI,Robotics,48827965.0,2022
+723,368,Retail,InventoryAI,Recommendation System,21097854.0,2018
+724,369,Retail,InventoryAI,Robotics,43877569.0,2021
+725,369,Retail,InventoryAI,NLP,40890961.0,2023
+726,369,Retail,InventoryAI,Computer Vision,35295037.0,2022
+727,370,Logistics,FleetPredict,Predictive Analytics,29876856.0,2020
+728,370,Logistics,SmartLogistics,Robotics,40524472.0,2021
+729,370,Logistics,DeliveryBot,NLP,20668034.0,2016
+730,371,FinTech,WalletAI,Computer Vision,9381874.0,2023
+731,371,FinTech,LoanBot,Predictive Analytics,29678840.0,2021
+732,371,FinTech,LoanBot,NLP,4994822.0,2024
+733,372,EdTech,LearnSmart,Robotics,15860808.0,2018
+734,372,EdTech,TutorBot,Predictive Analytics,1561141.0,2025
+735,373,FinTech,LoanBot,Recommendation System,23161984.0,2025
+736,373,FinTech,LoanBot,Robotics,42045411.0,2021
+737,374,Agriculture,FieldBot,Computer Vision,9847116.0,2024
+738,375,EdTech,TestPrep AI,Computer Vision,34984432.0,2024
+739,376,Logistics,SmartLogistics,Computer Vision,2778229.0,2022
+740,376,Logistics,SmartLogistics,Robotics,21281635.0,2018
+741,377,AI SaaS,VoiceAI,NLP,31004984.0,2017
+742,378,EdTech,LearnSmart,Computer Vision,13774118.0,2023
+743,378,EdTech,TestPrep AI,Predictive Analytics,36114205.0,2022
+744,378,EdTech,LearnSmart,Recommendation System,46003007.0,2023
+745,379,Retail,InventoryAI,Predictive Analytics,723560.0,2022
+746,379,Retail,InventoryAI,Recommendation System,31900557.0,2019
+747,379,Retail,RetailBot,Computer Vision,18068159.0,2024
+748,380,Healthcare,VitalSense,Predictive Analytics,49311137.0,2016
+749,380,Healthcare,HealthAI,Predictive Analytics,26151535.0,2022
+750,381,Agriculture,FarmSense,Predictive Analytics,14608435.0,2022
+751,381,Agriculture,FieldBot,Computer Vision,3527255.0,2022
+752,382,Retail,RetailBot,Predictive Analytics,37615849.0,2017
+753,382,Retail,StoreAI,NLP,10421052.0,2023
+754,382,Retail,InventoryAI,Predictive Analytics,6398547.0,2017
+755,383,Healthcare,HealthAI,NLP,28230778.0,2017
+756,384,Retail,RetailBot,NLP,12407615.0,2021
+757,384,Retail,StoreAI,Computer Vision,46161085.0,2019
+758,384,Retail,StoreAI,NLP,21850330.0,2021
+759,385,FinTech,CreditSense,NLP,43036705.0,2019
+760,385,FinTech,LoanBot,NLP,44265512.0,2025
+761,385,FinTech,PayAI,Recommendation System,20794936.0,2024
+762,386,Agriculture,FarmSense,Recommendation System,42511582.0,2023
+763,386,Agriculture,CropAI,Computer Vision,45329209.0,2021
+764,386,Agriculture,FarmSense,Robotics,7650897.0,2025
+765,387,AI SaaS,CustomerAI,Robotics,35809919.0,2023
+766,387,AI SaaS,NLP Suite,Recommendation System,22023955.0,2022
+767,388,Agriculture,FarmSense,Recommendation System,5006365.0,2023
+768,388,Agriculture,SmartIrrigation,Recommendation System,19341799.0,2024
+769,388,Agriculture,CropAI,NLP,40912693.0,2022
+770,389,Healthcare,VitalSense,NLP,11299412.0,2021
+771,389,Healthcare,HealthAI,Robotics,3939120.0,2015
+772,390,Logistics,SmartLogistics,Predictive Analytics,4775072.0,2025
+773,391,Logistics,FleetPredict,Computer Vision,21594393.0,2025
+774,391,Logistics,SmartLogistics,Computer Vision,30743271.0,2015
+775,392,Logistics,CargoAI,Computer Vision,32998696.0,2025
+776,393,EdTech,EduAI Platform,Recommendation System,7890710.0,2024
+777,394,Agriculture,FieldBot,Predictive Analytics,46895965.0,2024
+778,394,Agriculture,FarmSense,Recommendation System,42045867.0,2024
+779,395,EdTech,TutorBot,Computer Vision,15501602.0,2020
+780,396,Logistics,DeliveryBot,Computer Vision,14233634.0,2015
+781,396,Logistics,CargoAI,Predictive Analytics,14610103.0,2016
+782,396,Logistics,RouteAI,Robotics,10702449.0,2024
+783,397,EdTech,TutorBot,Predictive Analytics,11560908.0,2019
+784,397,EdTech,LearnSmart,NLP,41350398.0,2023
+785,397,EdTech,LearnSmart,Predictive Analytics,47195533.0,2021
+786,398,FinTech,FinPredict,Predictive Analytics,40314464.0,2024
+787,398,FinTech,PayAI,NLP,10235755.0,2024
+788,398,FinTech,CreditSense,Predictive Analytics,31123937.0,2021
+789,399,FinTech,WalletAI,Predictive Analytics,40827609.0,2023
+790,400,Healthcare,DiagnosePro,Computer Vision,46681539.0,2023
+791,400,Healthcare,HealthAI,Predictive Analytics,7436698.0,2024
+792,400,Healthcare,VitalSense,Recommendation System,24205013.0,2023
+793,401,AI SaaS,VoiceAI,Computer Vision,46071416.0,2024
+794,401,AI SaaS,ChatBotPro,Robotics,11125143.0,2023
+795,401,AI SaaS,NLP Suite,Predictive Analytics,39385280.0,2025
+796,402,Healthcare,HealthAI,Recommendation System,13728275.0,2019
+797,402,Healthcare,VitalSense,Recommendation System,939315.0,2023
+798,402,Healthcare,HealthAI,NLP,19874167.0,2025
+799,403,Retail,InventoryAI,Robotics,37184395.0,2020
+800,404,Logistics,DeliveryBot,Robotics,6923001.0,2016
+801,404,Logistics,RouteAI,Robotics,1615164.0,2021
+802,405,Retail,SalesPredict,Robotics,24404610.0,2022
+803,405,Retail,InventoryAI,Recommendation System,1034037.0,2022
+804,405,Retail,SmartShop,Robotics,22864808.0,2025
+805,406,FinTech,CreditSense,Recommendation System,42658033.0,2022
+806,407,Retail,SalesPredict,Computer Vision,28350369.0,2023
+807,407,Retail,StoreAI,Computer Vision,4634655.0,2023
+808,408,EdTech,StudyAI,Robotics,37423161.0,2025
+809,408,EdTech,LearnSmart,Recommendation System,13639704.0,2022
+810,408,EdTech,TestPrep AI,Recommendation System,9857664.0,2022
+811,409,Logistics,FleetPredict,Robotics,1645475.0,2016
+812,410,Logistics,CargoAI,Recommendation System,18247038.0,2021
+813,410,Logistics,FleetPredict,Predictive Analytics,9231288.0,2023
+814,411,Healthcare,CareAI,Predictive Analytics,18394077.0,2023
+815,411,Healthcare,MediBot,Predictive Analytics,28262539.0,2021
+816,412,Logistics,FleetPredict,Recommendation System,8594920.0,2024
+817,412,Logistics,DeliveryBot,Recommendation System,46407721.0,2018
+818,412,Logistics,SmartLogistics,Recommendation System,35888428.0,2023
+819,413,Agriculture,FieldBot,NLP,36347064.0,2021
+820,413,Agriculture,FieldBot,Predictive Analytics,36383407.0,2019
+821,414,AI SaaS,ChatBotPro,NLP,47491617.0,2024
+822,414,AI SaaS,CustomerAI,NLP,1682541.0,2024
+823,415,Healthcare,DiagnosePro,Recommendation System,12108282.0,2017
+824,416,Logistics,DeliveryBot,Recommendation System,25956985.0,2016
+825,416,Logistics,RouteAI,Recommendation System,28960068.0,2017
+826,417,EdTech,TutorBot,NLP,43833259.0,2015
+827,417,EdTech,StudyAI,Recommendation System,41165572.0,2018
+828,417,EdTech,TutorBot,Recommendation System,920070.0,2016
+829,418,AI SaaS,ChatBotPro,Computer Vision,45598713.0,2018
+830,418,AI SaaS,VisionAI,Recommendation System,15795587.0,2023
+831,418,AI SaaS,CustomerAI,Recommendation System,30819125.0,2025
+832,419,Agriculture,SmartIrrigation,NLP,22812235.0,2020
+833,419,Agriculture,FieldBot,NLP,11501186.0,2025
+834,419,Agriculture,SmartIrrigation,Recommendation System,15070280.0,2018
+835,420,AI SaaS,VoiceAI,Robotics,1892848.0,2017
+836,421,FinTech,FinPredict,NLP,32033517.0,2023
+837,422,FinTech,WalletAI,Computer Vision,14654004.0,2024
+838,423,Retail,StoreAI,Computer Vision,28325738.0,2023
+839,423,Retail,SalesPredict,Recommendation System,27258970.0,2017
+840,424,Agriculture,FarmSense,Recommendation System,49491393.0,2019
+841,424,Agriculture,FarmSense,Computer Vision,11275344.0,2020
+842,425,AI SaaS,VisionAI,Robotics,44359416.0,2020
+843,426,FinTech,CreditSense,Robotics,1223788.0,2022
+844,426,FinTech,WalletAI,Recommendation System,17195636.0,2021
+845,427,FinTech,PayAI,Robotics,11211665.0,2020
+846,428,Logistics,FleetPredict,Predictive Analytics,33203696.0,2015
+847,428,Logistics,SmartLogistics,Robotics,49263422.0,2024
+848,429,Healthcare,DiagnosePro,Robotics,17416043.0,2023
+849,430,AI SaaS,NLP Suite,Recommendation System,26260207.0,2022
+850,430,AI SaaS,NLP Suite,NLP,34755469.0,2025
+851,431,AI SaaS,ChatBotPro,NLP,13682325.0,2017
+852,431,AI SaaS,CustomerAI,Computer Vision,48817640.0,2016
+853,432,Healthcare,MediBot,NLP,47798487.0,2020
+854,432,Healthcare,DiagnosePro,Robotics,42695261.0,2023
+855,433,AI SaaS,ChatBotPro,Computer Vision,36536586.0,2022
+856,433,AI SaaS,ChatBotPro,Computer Vision,5289669.0,2024
+857,434,Healthcare,HealthAI,Predictive Analytics,1517649.0,2025
+858,435,Healthcare,VitalSense,Robotics,39398869.0,2021
+859,436,Healthcare,VitalSense,Recommendation System,36205163.0,2024
+860,436,Healthcare,DiagnosePro,NLP,12290701.0,2024
+861,436,Healthcare,VitalSense,Predictive Analytics,25259838.0,2024
+862,437,Healthcare,DiagnosePro,Computer Vision,31634310.0,2024
+863,438,FinTech,CreditSense,Robotics,34231220.0,2021
+864,438,FinTech,CreditSense,Computer Vision,337132.0,2018
+865,438,FinTech,CreditSense,NLP,12564118.0,2022
+866,439,AI SaaS,VisionAI,Computer Vision,38676673.0,2023
+867,440,Retail,InventoryAI,NLP,5202374.0,2025
+868,441,FinTech,WalletAI,Robotics,39029675.0,2018
+869,441,FinTech,LoanBot,Computer Vision,19073245.0,2018
+870,441,FinTech,CreditSense,Predictive Analytics,22746143.0,2024
+871,442,Retail,RetailBot,Predictive Analytics,30770831.0,2021
+872,443,AI SaaS,ChatBotPro,Computer Vision,13042694.0,2024
+873,443,AI SaaS,VoiceAI,Robotics,17812347.0,2024
+874,444,EdTech,EduAI Platform,NLP,1975353.0,2024
+875,445,Logistics,DeliveryBot,Robotics,4540743.0,2022
+876,445,Logistics,RouteAI,Computer Vision,21961451.0,2023
+877,446,AI SaaS,NLP Suite,Computer Vision,48195112.0,2015
+878,447,FinTech,WalletAI,Recommendation System,25936526.0,2021
+879,447,FinTech,WalletAI,Computer Vision,37172897.0,2022
+880,448,Agriculture,AgroPredict,Predictive Analytics,41158582.0,2022
+881,448,Agriculture,AgroPredict,Computer Vision,34309468.0,2025
+882,449,FinTech,WalletAI,Predictive Analytics,49381773.0,2021
+883,449,FinTech,PayAI,Robotics,607596.0,2025
+884,450,Retail,StoreAI,Predictive Analytics,29072636.0,2019
+885,450,Retail,SmartShop,Recommendation System,46486430.0,2022
+886,450,Retail,StoreAI,NLP,5474805.0,2024
+887,451,FinTech,CreditSense,Robotics,12996961.0,2024
+888,452,Healthcare,DiagnosePro,Recommendation System,27382417.0,2023
+889,452,Healthcare,CareAI,Recommendation System,35187824.0,2025
+890,453,Retail,InventoryAI,Predictive Analytics,1202599.0,2024
+891,454,Retail,StoreAI,Computer Vision,12534053.0,2022
+892,454,Retail,InventoryAI,Computer Vision,44330814.0,2022
+893,454,Retail,InventoryAI,Recommendation System,45021815.0,2023
+894,455,AI SaaS,VoiceAI,Robotics,7711877.0,2024
+895,455,AI SaaS,VoiceAI,Computer Vision,38659996.0,2023
+896,456,Retail,StoreAI,Computer Vision,49174560.0,2023
+897,457,Healthcare,DiagnosePro,Computer Vision,21112766.0,2025
+898,457,Healthcare,DiagnosePro,Robotics,2003717.0,2023
+899,458,EdTech,TestPrep AI,Predictive Analytics,1596703.0,2023
+900,459,Agriculture,CropAI,NLP,9175159.0,2025
+901,459,Agriculture,CropAI,Predictive Analytics,6312287.0,2021
+902,459,Agriculture,CropAI,Computer Vision,34236043.0,2022
+903,460,AI SaaS,ChatBotPro,Computer Vision,36899356.0,2023
+904,461,FinTech,CreditSense,Computer Vision,46723113.0,2018
+905,461,FinTech,FinPredict,Computer Vision,21043982.0,2021
+906,462,Logistics,DeliveryBot,Predictive Analytics,22666222.0,2022
+907,463,Logistics,RouteAI,Computer Vision,2511943.0,2016
+908,463,Logistics,DeliveryBot,Recommendation System,33335693.0,2022
+909,463,Logistics,SmartLogistics,Recommendation System,12503895.0,2019
+910,464,Agriculture,AgroPredict,Computer Vision,27382889.0,2025
+911,464,Agriculture,FarmSense,Predictive Analytics,9149055.0,2025
+912,464,Agriculture,AgroPredict,Robotics,18302312.0,2022
+913,465,EdTech,EduAI Platform,Computer Vision,6416357.0,2017
+914,465,EdTech,TestPrep AI,NLP,8718243.0,2017
+915,465,EdTech,TestPrep AI,Recommendation System,36412698.0,2018
+916,466,EdTech,EduAI Platform,Robotics,12274025.0,2021
+917,466,EdTech,StudyAI,Recommendation System,8873318.0,2024
+918,466,EdTech,TutorBot,Predictive Analytics,21722694.0,2024
+919,467,Agriculture,CropAI,Computer Vision,30214326.0,2022
+920,467,Agriculture,SmartIrrigation,NLP,47943993.0,2019
+921,468,FinTech,CreditSense,NLP,20153300.0,2023
+922,468,FinTech,FinPredict,Computer Vision,37161338.0,2024
+923,468,FinTech,FinPredict,NLP,33249225.0,2022
+924,469,FinTech,PayAI,Recommendation System,36413531.0,2020
+925,470,AI SaaS,VoiceAI,Predictive Analytics,6833718.0,2019
+926,471,Logistics,CargoAI,Recommendation System,10746470.0,2023
+927,471,Logistics,DeliveryBot,Computer Vision,45707862.0,2024
+928,472,Agriculture,AgroPredict,Computer Vision,33454229.0,2021
+929,472,Agriculture,FarmSense,Predictive Analytics,46252298.0,2022
+930,473,AI SaaS,VisionAI,Robotics,41018380.0,2021
+931,474,Agriculture,AgroPredict,Computer Vision,49074396.0,2019
+932,474,Agriculture,FieldBot,Recommendation System,15064300.0,2019
+933,474,Agriculture,FarmSense,Recommendation System,42991382.0,2020
+934,475,Healthcare,VitalSense,NLP,27971291.0,2019
+935,476,FinTech,WalletAI,Recommendation System,17959388.0,2025
+936,476,FinTech,LoanBot,Computer Vision,17818617.0,2025
+937,477,Agriculture,AgroPredict,Predictive Analytics,46111212.0,2018
+938,477,Agriculture,AgroPredict,NLP,19497745.0,2021
+939,478,FinTech,CreditSense,Computer Vision,44368788.0,2020
+940,478,FinTech,LoanBot,Robotics,28768919.0,2023
+941,478,FinTech,CreditSense,Robotics,24146358.0,2025
+942,479,FinTech,LoanBot,Predictive Analytics,33104624.0,2023
+943,479,FinTech,CreditSense,Recommendation System,22390804.0,2024
+944,479,FinTech,PayAI,Recommendation System,39831048.0,2025
+945,480,Retail,StoreAI,Recommendation System,25506711.0,2018
+946,481,Logistics,CargoAI,Robotics,12423207.0,2023
+947,481,Logistics,FleetPredict,Recommendation System,29118999.0,2024
+948,481,Logistics,CargoAI,Recommendation System,48961999.0,2023
+949,482,FinTech,PayAI,Recommendation System,31279852.0,2019
+950,482,FinTech,CreditSense,Computer Vision,23014033.0,2017
+951,483,Agriculture,FarmSense,NLP,33560231.0,2024
+952,484,Logistics,RouteAI,Predictive Analytics,26259290.0,2021
+953,484,Logistics,SmartLogistics,Recommendation System,29212998.0,2025
+954,484,Logistics,SmartLogistics,Computer Vision,42521459.0,2022
+955,485,Logistics,FleetPredict,Predictive Analytics,14565453.0,2021
+956,485,Logistics,DeliveryBot,Predictive Analytics,44055173.0,2024
+957,486,Agriculture,AgroPredict,NLP,46820416.0,2017
+958,486,Agriculture,CropAI,Recommendation System,32025082.0,2025
+959,487,FinTech,CreditSense,Robotics,28499744.0,2017
+960,487,FinTech,LoanBot,NLP,17038450.0,2022
+961,488,FinTech,FinPredict,Predictive Analytics,9359596.0,2023
+962,488,FinTech,WalletAI,Computer Vision,3602424.0,2017
+963,489,Retail,SalesPredict,NLP,22419302.0,2021
+964,489,Retail,StoreAI,Recommendation System,32573521.0,2020
+965,490,AI SaaS,VisionAI,NLP,40853930.0,2025
+966,491,Healthcare,HealthAI,Computer Vision,8089138.0,2023
+967,491,Healthcare,VitalSense,Recommendation System,18686995.0,2019
+968,491,Healthcare,VitalSense,NLP,8742258.0,2024
+969,492,EdTech,TutorBot,NLP,4364716.0,2024
+970,493,EdTech,StudyAI,Robotics,10229130.0,2024
+971,494,Healthcare,HealthAI,Recommendation System,49922559.0,2020
+972,495,AI SaaS,CustomerAI,Robotics,32864765.0,2021
+973,495,AI SaaS,VisionAI,Robotics,46555779.0,2025
+974,495,AI SaaS,CustomerAI,Predictive Analytics,38017929.0,2020
+975,496,Logistics,DeliveryBot,Robotics,4761821.0,2021
+976,497,Logistics,RouteAI,NLP,12144695.0,2020
+977,497,Logistics,CargoAI,NLP,13794397.0,2022
+978,498,FinTech,WalletAI,Predictive Analytics,16032595.0,2017
+979,498,FinTech,FinPredict,Recommendation System,10505068.0,2025
+980,499,Agriculture,FieldBot,Robotics,27851081.0,2024
+981,500,Healthcare,VitalSense,Computer Vision,24319870.0,2014
+982,501,AI SaaS,CustomerAI,Recommendation System,23827344.0,2018
+983,502,Retail,RetailBot,Robotics,44793050.0,2023
+984,502,Retail,RetailBot,Computer Vision,44902036.0,2023
+985,503,AI SaaS,ChatBotPro,NLP,8838582.0,2019
+986,503,AI SaaS,ChatBotPro,Recommendation System,17084849.0,2023
+987,504,AI SaaS,VoiceAI,Predictive Analytics,9019888.0,2020
+988,505,Logistics,RouteAI,NLP,35115505.0,2024
+989,505,Logistics,FleetPredict,Predictive Analytics,33045480.0,2020
+990,506,Retail,SalesPredict,NLP,15967274.0,2020
+991,506,Retail,RetailBot,Robotics,37553549.0,2022
+992,507,Retail,InventoryAI,Recommendation System,17321829.0,2021
+993,507,Retail,SmartShop,Computer Vision,30357765.0,2015
+994,507,Retail,SalesPredict,Predictive Analytics,29289611.0,2022
+995,508,Retail,RetailBot,Predictive Analytics,11461089.0,2023
+996,509,EdTech,LearnSmart,Robotics,18918177.0,2020
+997,510,FinTech,PayAI,Robotics,20341708.0,2025
+998,510,FinTech,FinPredict,Computer Vision,18604741.0,2017
+999,511,Logistics,RouteAI,Predictive Analytics,19962294.0,2024
+1000,511,Logistics,FleetPredict,Predictive Analytics,21289266.0,2022
+1001,512,Retail,SmartShop,NLP,41897121.0,2019
+1002,512,Retail,InventoryAI,NLP,19291667.0,2023
+1003,513,EdTech,TestPrep AI,Robotics,39474101.0,2023
+1004,513,EdTech,StudyAI,Computer Vision,44447332.0,2015
+1005,513,EdTech,StudyAI,NLP,2315871.0,2021
+1006,514,Agriculture,SmartIrrigation,NLP,36756054.0,2025
+1007,515,FinTech,CreditSense,Predictive Analytics,7290631.0,2021
+1008,515,FinTech,PayAI,Predictive Analytics,27495487.0,2021
+1009,516,Agriculture,AgroPredict,Computer Vision,13943831.0,2024
+1010,516,Agriculture,FieldBot,Predictive Analytics,48697164.0,2021
+1011,516,Agriculture,CropAI,Recommendation System,7594077.0,2020
+1012,517,Agriculture,FarmSense,Recommendation System,38147549.0,2022
+1013,517,Agriculture,FarmSense,NLP,1916100.0,2023
+1014,518,Logistics,DeliveryBot,Recommendation System,25655750.0,2019
+1015,518,Logistics,RouteAI,Computer Vision,41888951.0,2019
+1016,518,Logistics,SmartLogistics,Recommendation System,35255741.0,2017
+1017,519,FinTech,WalletAI,Recommendation System,24977916.0,2018
+1018,519,FinTech,PayAI,Recommendation System,41396683.0,2023
+1019,519,FinTech,WalletAI,Computer Vision,29414118.0,2019
+1020,520,FinTech,FinPredict,Computer Vision,17362179.0,2024
+1021,521,Agriculture,AgroPredict,Robotics,47218434.0,2021
+1022,522,FinTech,FinPredict,Recommendation System,42457648.0,2020
+1023,522,FinTech,CreditSense,NLP,20545008.0,2021
+1024,522,FinTech,PayAI,Robotics,44168530.0,2020
+1025,523,EdTech,TutorBot,Recommendation System,37676370.0,2024
+1026,523,EdTech,EduAI Platform,Recommendation System,19331171.0,2020
+1027,524,EdTech,LearnSmart,Computer Vision,49335946.0,2015
+1028,524,EdTech,TutorBot,Computer Vision,19124021.0,2016
+1029,525,Healthcare,VitalSense,Recommendation System,32424977.0,2019
+1030,525,Healthcare,MediBot,Predictive Analytics,19114896.0,2015
+1031,525,Healthcare,HealthAI,Predictive Analytics,45108032.0,2025
+1032,526,Healthcare,MediBot,Predictive Analytics,2782864.0,2024
+1033,527,AI SaaS,CustomerAI,Robotics,18855797.0,2025
+1034,528,AI SaaS,NLP Suite,Recommendation System,48345374.0,2023
+1035,528,AI SaaS,CustomerAI,NLP,22489942.0,2016
+1036,528,AI SaaS,VisionAI,Robotics,43034747.0,2023
+1037,529,Logistics,FleetPredict,Robotics,46828287.0,2025
+1038,529,Logistics,DeliveryBot,NLP,1792535.0,2020
+1039,530,AI SaaS,CustomerAI,Recommendation System,43235413.0,2024
+1040,530,AI SaaS,NLP Suite,Robotics,43323921.0,2022
+1041,531,EdTech,TestPrep AI,Recommendation System,36729907.0,2025
+1042,531,EdTech,TutorBot,Computer Vision,10531602.0,2023
+1043,532,FinTech,PayAI,NLP,1746106.0,2022
+1044,532,FinTech,CreditSense,Recommendation System,10390023.0,2024
+1045,532,FinTech,FinPredict,Robotics,40893181.0,2023
+1046,533,Agriculture,CropAI,Robotics,27190714.0,2021
+1047,534,EdTech,TestPrep AI,Recommendation System,12683535.0,2024
+1048,535,Retail,SalesPredict,Computer Vision,42348734.0,2025
+1049,536,FinTech,PayAI,Predictive Analytics,28469552.0,2017
+1050,536,FinTech,FinPredict,Predictive Analytics,17629620.0,2024
+1051,536,FinTech,LoanBot,Predictive Analytics,33913666.0,2025
+1052,537,Healthcare,VitalSense,Computer Vision,32840436.0,2024
+1053,538,Retail,InventoryAI,NLP,25935907.0,2025
+1054,538,Retail,InventoryAI,Predictive Analytics,25685282.0,2024
+1055,539,Retail,RetailBot,Computer Vision,9270069.0,2024
+1056,539,Retail,StoreAI,Computer Vision,44923184.0,2025
+1057,540,FinTech,WalletAI,Predictive Analytics,38057026.0,2025
+1058,541,Healthcare,DiagnosePro,Computer Vision,25773005.0,2025
+1059,542,Logistics,FleetPredict,Predictive Analytics,2728720.0,2022
+1060,543,Logistics,SmartLogistics,Computer Vision,40072930.0,2019
+1061,543,Logistics,DeliveryBot,Computer Vision,6719544.0,2025
+1062,544,Logistics,FleetPredict,NLP,41001329.0,2021
+1063,544,Logistics,RouteAI,Computer Vision,24818017.0,2021
+1064,544,Logistics,SmartLogistics,Predictive Analytics,36898385.0,2021
+1065,545,EdTech,TutorBot,NLP,5297206.0,2025
+1066,545,EdTech,TutorBot,Computer Vision,20281138.0,2025
+1067,546,AI SaaS,CustomerAI,Computer Vision,1788304.0,2024
+1068,546,AI SaaS,VoiceAI,Predictive Analytics,8763028.0,2023
+1069,546,AI SaaS,ChatBotPro,Recommendation System,4171692.0,2015
+1070,547,Agriculture,CropAI,Robotics,16413538.0,2020
+1071,547,Agriculture,SmartIrrigation,Computer Vision,2950543.0,2024
+1072,548,FinTech,FinPredict,Predictive Analytics,18309004.0,2022
+1073,548,FinTech,PayAI,Predictive Analytics,35695709.0,2022
+1074,549,FinTech,WalletAI,NLP,17672417.0,2015
+1075,550,FinTech,FinPredict,NLP,24647220.0,2025
+1076,550,FinTech,FinPredict,Predictive Analytics,21791226.0,2024
+1077,550,FinTech,PayAI,Predictive Analytics,45132452.0,2024
+1078,551,EdTech,TestPrep AI,Computer Vision,5955763.0,2022
+1079,552,FinTech,CreditSense,Computer Vision,30454724.0,2023
+1080,552,FinTech,CreditSense,Predictive Analytics,14340442.0,2020
+1081,553,EdTech,StudyAI,Computer Vision,23487632.0,2018
+1082,554,Logistics,RouteAI,Computer Vision,42879503.0,2014
+1083,555,FinTech,LoanBot,Predictive Analytics,13162397.0,2025
+1084,556,Agriculture,FarmSense,Predictive Analytics,24491567.0,2019
+1085,557,FinTech,WalletAI,Robotics,49976939.0,2024
+1086,558,Healthcare,MediBot,NLP,11470933.0,2022
+1087,558,Healthcare,DiagnosePro,Robotics,31406672.0,2023
+1088,558,Healthcare,VitalSense,Robotics,22109371.0,2025
+1089,559,Logistics,CargoAI,Computer Vision,40614468.0,2020
+1090,559,Logistics,DeliveryBot,Robotics,17768246.0,2023
+1091,560,EdTech,TestPrep AI,Recommendation System,312317.0,2020
+1092,560,EdTech,TestPrep AI,Predictive Analytics,36300217.0,2023
+1093,561,EdTech,TestPrep AI,Computer Vision,5119878.0,2025
+1094,561,EdTech,EduAI Platform,Computer Vision,20066438.0,2022
+1095,562,Agriculture,AgroPredict,Predictive Analytics,31557911.0,2017
+1096,563,Healthcare,HealthAI,Recommendation System,35093147.0,2024
+1097,563,Healthcare,VitalSense,Robotics,21685510.0,2019
+1098,563,Healthcare,CareAI,Recommendation System,557300.0,2024
+1099,564,Healthcare,HealthAI,Computer Vision,29170644.0,2021
+1100,564,Healthcare,HealthAI,Computer Vision,1064137.0,2022
+1101,564,Healthcare,CareAI,Predictive Analytics,36179864.0,2023
+1102,565,FinTech,LoanBot,Robotics,17279491.0,2019
+1103,565,FinTech,WalletAI,Robotics,26911003.0,2025
+1104,566,AI SaaS,ChatBotPro,Recommendation System,32583173.0,2024
+1105,566,AI SaaS,VisionAI,Computer Vision,41737263.0,2022
+1106,566,AI SaaS,ChatBotPro,Recommendation System,26770297.0,2024
+1107,567,AI SaaS,VoiceAI,Predictive Analytics,36655710.0,2025
+1108,567,AI SaaS,VisionAI,Computer Vision,14840874.0,2024
+1109,568,Healthcare,HealthAI,Robotics,40503899.0,2018
+1110,569,Retail,SmartShop,NLP,38833767.0,2025
+1111,569,Retail,SmartShop,Robotics,29830884.0,2024
+1112,570,Healthcare,DiagnosePro,NLP,9915251.0,2024
+1113,571,AI SaaS,CustomerAI,Robotics,11412191.0,2021
+1114,572,Healthcare,DiagnosePro,Recommendation System,30786947.0,2020
+1115,572,Healthcare,CareAI,Recommendation System,15406310.0,2024
+1116,573,Agriculture,AgroPredict,Computer Vision,32347584.0,2025
+1117,574,Healthcare,CareAI,Robotics,37108814.0,2022
+1118,575,Logistics,CargoAI,Robotics,25945645.0,2023
+1119,576,Agriculture,SmartIrrigation,Computer Vision,32405246.0,2025
+1120,576,Agriculture,SmartIrrigation,NLP,47171436.0,2018
+1121,576,Agriculture,CropAI,Robotics,19653297.0,2021
+1122,577,Retail,InventoryAI,Predictive Analytics,46792090.0,2022
+1123,578,FinTech,WalletAI,Robotics,17475462.0,2023
+1124,578,FinTech,PayAI,Computer Vision,13154455.0,2022
+1125,578,FinTech,FinPredict,Predictive Analytics,38169773.0,2021
+1126,579,FinTech,WalletAI,Computer Vision,20487466.0,2024
+1127,580,EdTech,StudyAI,Computer Vision,288678.0,2024
+1128,580,EdTech,EduAI Platform,NLP,3582963.0,2023
+1129,580,EdTech,EduAI Platform,Computer Vision,16397370.0,2025
+1130,581,AI SaaS,CustomerAI,Robotics,34429238.0,2020
+1131,582,Retail,StoreAI,Recommendation System,16074059.0,2022
+1132,582,Retail,StoreAI,Computer Vision,20981886.0,2023
+1133,582,Retail,StoreAI,Predictive Analytics,47405745.0,2024
+1134,583,FinTech,CreditSense,Robotics,4313297.0,2024
+1135,583,FinTech,CreditSense,Recommendation System,30677291.0,2025
+1136,583,FinTech,FinPredict,Robotics,41977291.0,2024
+1137,584,FinTech,FinPredict,Predictive Analytics,27961238.0,2025
+1138,584,FinTech,CreditSense,Recommendation System,1658229.0,2020
+1139,585,Agriculture,SmartIrrigation,Predictive Analytics,17326972.0,2025
+1140,585,Agriculture,SmartIrrigation,Predictive Analytics,3498261.0,2023
+1141,586,Retail,InventoryAI,Recommendation System,16774360.0,2020
+1142,586,Retail,StoreAI,Predictive Analytics,28691676.0,2024
+1143,586,Retail,InventoryAI,Recommendation System,40684669.0,2020
+1144,587,Agriculture,FarmSense,Recommendation System,44342610.0,2021
+1145,588,Retail,SalesPredict,Recommendation System,38542847.0,2025
+1146,588,Retail,StoreAI,Computer Vision,5616200.0,2025
+1147,589,Retail,SalesPredict,Robotics,13507029.0,2023
+1148,589,Retail,SalesPredict,NLP,10685547.0,2024
+1149,590,FinTech,FinPredict,NLP,40009185.0,2023
+1150,590,FinTech,LoanBot,Computer Vision,35501685.0,2023
+1151,591,Logistics,FleetPredict,Computer Vision,32819980.0,2020
+1152,591,Logistics,SmartLogistics,Computer Vision,14064010.0,2021
+1153,591,Logistics,FleetPredict,Recommendation System,16219905.0,2023
+1154,592,FinTech,FinPredict,NLP,43356492.0,2021
+1155,592,FinTech,WalletAI,Computer Vision,34930229.0,2017
+1156,593,Agriculture,FarmSense,NLP,22632397.0,2025
+1157,593,Agriculture,SmartIrrigation,Predictive Analytics,41166674.0,2023
+1158,594,Healthcare,VitalSense,Recommendation System,44235216.0,2017
+1159,594,Healthcare,VitalSense,Predictive Analytics,7471661.0,2020
+1160,595,EdTech,StudyAI,Predictive Analytics,16032136.0,2025
+1161,596,Retail,StoreAI,NLP,46015122.0,2023
+1162,596,Retail,RetailBot,NLP,5950606.0,2022
+1163,596,Retail,SalesPredict,Robotics,45018090.0,2023
+1164,597,EdTech,EduAI Platform,NLP,47281350.0,2021
+1165,597,EdTech,StudyAI,Computer Vision,36170877.0,2021
+1166,598,AI SaaS,VisionAI,Recommendation System,49757093.0,2019
+1167,598,AI SaaS,VoiceAI,Predictive Analytics,3515259.0,2019
+1168,599,Agriculture,FieldBot,Robotics,30918049.0,2025
+1169,600,FinTech,CreditSense,NLP,49488312.0,2022
+1170,600,FinTech,PayAI,Predictive Analytics,10386538.0,2023
+1171,600,FinTech,CreditSense,NLP,31814171.0,2016
+1172,601,Healthcare,DiagnosePro,Recommendation System,46030742.0,2022
+1173,601,Healthcare,DiagnosePro,NLP,33626310.0,2024
+1174,601,Healthcare,MediBot,Predictive Analytics,32271927.0,2022
+1175,602,EdTech,StudyAI,Recommendation System,28374890.0,2017
+1176,603,FinTech,LoanBot,Recommendation System,23458834.0,2025
+1177,603,FinTech,PayAI,Recommendation System,47946292.0,2022
+1178,603,FinTech,CreditSense,Recommendation System,23584394.0,2022
+1179,604,Logistics,RouteAI,Recommendation System,5484385.0,2022
+1180,604,Logistics,SmartLogistics,Computer Vision,23788913.0,2016
+1181,605,FinTech,CreditSense,Robotics,45178951.0,2025
+1182,605,FinTech,PayAI,Robotics,33900323.0,2019
+1183,605,FinTech,CreditSense,Computer Vision,28386382.0,2024
+1184,606,Retail,RetailBot,Recommendation System,13731816.0,2023
+1185,606,Retail,RetailBot,Predictive Analytics,40161053.0,2022
+1186,607,Healthcare,DiagnosePro,Computer Vision,39191619.0,2021
+1187,607,Healthcare,CareAI,Recommendation System,3261217.0,2024
+1188,608,AI SaaS,VoiceAI,NLP,5996070.0,2025
+1189,608,AI SaaS,ChatBotPro,Predictive Analytics,31160374.0,2024
+1190,609,Healthcare,CareAI,Predictive Analytics,32694126.0,2023
+1191,610,Healthcare,DiagnosePro,Recommendation System,3193657.0,2024
+1192,610,Healthcare,DiagnosePro,Predictive Analytics,17910381.0,2021
+1193,611,Agriculture,CropAI,Predictive Analytics,35510943.0,2024
+1194,612,Logistics,SmartLogistics,Predictive Analytics,27839303.0,2024
+1195,612,Logistics,SmartLogistics,Predictive Analytics,14021137.0,2024
+1196,612,Logistics,FleetPredict,Recommendation System,48834992.0,2025
+1197,613,Agriculture,FarmSense,NLP,24880640.0,2017
+1198,613,Agriculture,AgroPredict,Predictive Analytics,9004637.0,2025
+1199,613,Agriculture,SmartIrrigation,Recommendation System,42383140.0,2016
+1200,614,Retail,RetailBot,Recommendation System,36348488.0,2022
+1201,614,Retail,SmartShop,NLP,41613024.0,2024
+1202,615,EdTech,TestPrep AI,Predictive Analytics,9552224.0,2025
+1203,616,Healthcare,VitalSense,NLP,21251935.0,2023
+1204,616,Healthcare,VitalSense,NLP,28774374.0,2021
+1205,616,Healthcare,CareAI,Predictive Analytics,1228065.0,2016
+1206,617,Retail,SmartShop,Predictive Analytics,33548633.0,2019
+1207,617,Retail,StoreAI,Recommendation System,32262590.0,2025
+1208,617,Retail,SmartShop,Predictive Analytics,22754476.0,2019
+1209,618,EdTech,StudyAI,Predictive Analytics,11437795.0,2023
+1210,618,EdTech,TestPrep AI,Computer Vision,49915034.0,2017
+1211,618,EdTech,TutorBot,Recommendation System,29345565.0,2023
+1212,619,AI SaaS,VoiceAI,Robotics,30994227.0,2014
+1213,619,AI SaaS,CustomerAI,NLP,29712300.0,2018
+1214,620,Retail,SmartShop,Recommendation System,1098482.0,2019
+1215,620,Retail,RetailBot,Computer Vision,15973195.0,2024
+1216,621,AI SaaS,VisionAI,Predictive Analytics,5718789.0,2024
+1217,621,AI SaaS,VoiceAI,Computer Vision,9375095.0,2022
+1218,622,AI SaaS,NLP Suite,Predictive Analytics,20227202.0,2017
+1219,623,Retail,RetailBot,Computer Vision,26346610.0,2022
+1220,624,Logistics,FleetPredict,Recommendation System,28949119.0,2019
+1221,624,Logistics,FleetPredict,NLP,22272757.0,2022
+1222,624,Logistics,FleetPredict,Robotics,23971926.0,2019
+1223,625,FinTech,LoanBot,Computer Vision,40112163.0,2014
+1224,625,FinTech,FinPredict,Predictive Analytics,19915170.0,2024
+1225,626,Logistics,SmartLogistics,NLP,43749004.0,2018
+1226,627,FinTech,FinPredict,Predictive Analytics,35994658.0,2023
+1227,627,FinTech,WalletAI,Predictive Analytics,4453627.0,2019
+1228,627,FinTech,LoanBot,Robotics,30695182.0,2022
+1229,628,Retail,RetailBot,Computer Vision,8375590.0,2020
+1230,628,Retail,InventoryAI,Robotics,38791804.0,2017
+1231,629,EdTech,TestPrep AI,Recommendation System,45214065.0,2019
+1232,630,FinTech,PayAI,Predictive Analytics,26796408.0,2024
+1233,630,FinTech,LoanBot,Robotics,15149363.0,2025
+1234,630,FinTech,FinPredict,Computer Vision,31780109.0,2024
+1235,631,FinTech,PayAI,Predictive Analytics,35439760.0,2024
+1236,632,FinTech,LoanBot,Robotics,10945073.0,2024
+1237,632,FinTech,CreditSense,Computer Vision,5884715.0,2023
+1238,632,FinTech,WalletAI,NLP,11053605.0,2022
+1239,633,Healthcare,DiagnosePro,NLP,6662201.0,2022
+1240,633,Healthcare,VitalSense,Robotics,44116485.0,2023
+1241,634,AI SaaS,ChatBotPro,Computer Vision,47160484.0,2016
+1242,634,AI SaaS,VisionAI,NLP,42424436.0,2018
+1243,634,AI SaaS,CustomerAI,Recommendation System,43879385.0,2017
+1244,635,Retail,SalesPredict,Predictive Analytics,19723126.0,2025
+1245,635,Retail,SalesPredict,Robotics,12707406.0,2022
+1246,635,Retail,StoreAI,Recommendation System,42671870.0,2025
+1247,636,Logistics,FleetPredict,Robotics,34535702.0,2024
+1248,637,Healthcare,CareAI,Robotics,1506192.0,2022
+1249,637,Healthcare,DiagnosePro,Robotics,25939317.0,2014
+1250,638,Logistics,RouteAI,Computer Vision,39839569.0,2024
+1251,639,Logistics,RouteAI,Predictive Analytics,28559011.0,2022
+1252,640,FinTech,FinPredict,NLP,31653845.0,2023
+1253,641,EdTech,TestPrep AI,Predictive Analytics,13627945.0,2020
+1254,641,EdTech,LearnSmart,Recommendation System,19602157.0,2020
+1255,642,Logistics,CargoAI,NLP,11057273.0,2023
+1256,642,Logistics,DeliveryBot,Predictive Analytics,4088080.0,2021
+1257,642,Logistics,CargoAI,Computer Vision,7986301.0,2020
+1258,643,Retail,RetailBot,Robotics,42648329.0,2025
+1259,643,Retail,InventoryAI,Robotics,48674589.0,2021
+1260,643,Retail,StoreAI,Predictive Analytics,43611445.0,2022
+1261,644,Healthcare,HealthAI,Predictive Analytics,599728.0,2025
+1262,644,Healthcare,MediBot,Predictive Analytics,48003056.0,2025
+1263,644,Healthcare,VitalSense,Predictive Analytics,40233988.0,2023
+1264,645,EdTech,TutorBot,Robotics,13537821.0,2016
+1265,646,Logistics,RouteAI,Computer Vision,11412032.0,2023
+1266,647,EdTech,EduAI Platform,Robotics,31752008.0,2019
+1267,647,EdTech,TutorBot,Predictive Analytics,9252015.0,2018
+1268,647,EdTech,TestPrep AI,Predictive Analytics,16651150.0,2022
+1269,648,AI SaaS,VoiceAI,Robotics,5487731.0,2019
+1270,648,AI SaaS,ChatBotPro,Robotics,5673706.0,2018
+1271,649,AI SaaS,CustomerAI,NLP,13922596.0,2019
+1272,650,Agriculture,AgroPredict,Predictive Analytics,12401733.0,2022
+1273,650,Agriculture,FieldBot,Recommendation System,22611118.0,2021
+1274,650,Agriculture,AgroPredict,Computer Vision,21198540.0,2023
+1275,651,Agriculture,FieldBot,Recommendation System,39847086.0,2024
+1276,651,Agriculture,AgroPredict,Predictive Analytics,16181061.0,2022
+1277,652,EdTech,EduAI Platform,Recommendation System,43967861.0,2024
+1278,653,FinTech,CreditSense,Computer Vision,25869161.0,2022
+1279,653,FinTech,PayAI,Robotics,17477161.0,2021
+1280,654,AI SaaS,VoiceAI,Computer Vision,32074907.0,2023
+1281,655,Healthcare,VitalSense,Predictive Analytics,48808274.0,2022
+1282,655,Healthcare,CareAI,Computer Vision,11689637.0,2022
+1283,655,Healthcare,MediBot,NLP,38269984.0,2025
+1284,656,FinTech,WalletAI,NLP,27617227.0,2021
+1285,657,EdTech,LearnSmart,Predictive Analytics,3496841.0,2014
+1286,657,EdTech,StudyAI,Computer Vision,32434751.0,2020
+1287,657,EdTech,TestPrep AI,NLP,17600435.0,2020
+1288,658,EdTech,StudyAI,Recommendation System,20392185.0,2018
+1289,659,FinTech,FinPredict,Recommendation System,31395232.0,2019
+1290,660,EdTech,TestPrep AI,Robotics,37091139.0,2022
+1291,660,EdTech,StudyAI,Recommendation System,43674575.0,2021
+1292,660,EdTech,TestPrep AI,Robotics,43550283.0,2017
+1293,661,AI SaaS,ChatBotPro,Predictive Analytics,34174462.0,2023
+1294,661,AI SaaS,VisionAI,NLP,48951189.0,2022
+1295,662,AI SaaS,NLP Suite,Computer Vision,34158916.0,2018
+1296,662,AI SaaS,ChatBotPro,NLP,43134719.0,2017
+1297,663,EdTech,EduAI Platform,NLP,35532221.0,2021
+1298,664,FinTech,WalletAI,Recommendation System,49769938.0,2016
+1299,665,Retail,InventoryAI,Recommendation System,38093142.0,2022
+1300,665,Retail,SalesPredict,Robotics,14198280.0,2024
+1301,666,AI SaaS,VoiceAI,Computer Vision,38799284.0,2025
+1302,667,EdTech,EduAI Platform,Predictive Analytics,1234889.0,2022
+1303,668,AI SaaS,ChatBotPro,Recommendation System,47171815.0,2023
+1304,668,AI SaaS,ChatBotPro,Robotics,33380753.0,2024
+1305,668,AI SaaS,NLP Suite,Computer Vision,17881416.0,2024
+1306,669,Healthcare,DiagnosePro,Recommendation System,46000845.0,2025
+1307,669,Healthcare,MediBot,Computer Vision,30270993.0,2024
+1308,670,FinTech,CreditSense,Computer Vision,13388382.0,2022
+1309,670,FinTech,FinPredict,Recommendation System,35527434.0,2021
+1310,671,Agriculture,AgroPredict,Predictive Analytics,1837388.0,2015
+1311,671,Agriculture,SmartIrrigation,Computer Vision,23783692.0,2024
+1312,672,Agriculture,AgroPredict,Recommendation System,32425135.0,2025
+1313,672,Agriculture,AgroPredict,NLP,4910397.0,2025
+1314,673,Logistics,SmartLogistics,Recommendation System,11252956.0,2021
+1315,673,Logistics,FleetPredict,Recommendation System,37183344.0,2024
+1316,674,Agriculture,AgroPredict,Recommendation System,25431098.0,2019
+1317,675,Retail,StoreAI,Recommendation System,14967653.0,2017
+1318,676,Retail,InventoryAI,Recommendation System,6266219.0,2022
+1319,676,Retail,SmartShop,Recommendation System,13869097.0,2023
+1320,676,Retail,RetailBot,NLP,1830728.0,2022
+1321,677,Retail,InventoryAI,NLP,28376821.0,2024
+1322,678,EdTech,LearnSmart,Computer Vision,14433985.0,2025
+1323,678,EdTech,TutorBot,Recommendation System,4012523.0,2017
+1324,678,EdTech,TutorBot,Robotics,37522768.0,2022
+1325,679,Healthcare,HealthAI,Predictive Analytics,44823764.0,2022
+1326,679,Healthcare,CareAI,Computer Vision,35989397.0,2021
+1327,679,Healthcare,DiagnosePro,Recommendation System,1466184.0,2021
+1328,680,EdTech,LearnSmart,Predictive Analytics,10323193.0,2025
+1329,681,Retail,RetailBot,Robotics,19285264.0,2021
+1330,682,AI SaaS,NLP Suite,Computer Vision,15201080.0,2023
+1331,682,AI SaaS,CustomerAI,NLP,49459028.0,2018
+1332,682,AI SaaS,ChatBotPro,Robotics,9940879.0,2022
+1333,683,EdTech,LearnSmart,Computer Vision,45661193.0,2021
+1334,683,EdTech,TutorBot,Predictive Analytics,8848214.0,2021
+1335,684,Agriculture,CropAI,Recommendation System,31379559.0,2023
+1336,684,Agriculture,AgroPredict,NLP,16185464.0,2021
+1337,685,AI SaaS,CustomerAI,Robotics,15743318.0,2025
+1338,686,Retail,StoreAI,Recommendation System,17755373.0,2017
+1339,687,Healthcare,DiagnosePro,Robotics,40689316.0,2019
+1340,688,FinTech,FinPredict,NLP,8450574.0,2023
+1341,689,EdTech,LearnSmart,Predictive Analytics,13878630.0,2018
+1342,690,FinTech,WalletAI,Computer Vision,5074697.0,2025
+1343,690,FinTech,WalletAI,Predictive Analytics,21888911.0,2020
+1344,691,Healthcare,CareAI,Computer Vision,29332242.0,2020
+1345,691,Healthcare,MediBot,Recommendation System,13777518.0,2025
+1346,692,FinTech,PayAI,Predictive Analytics,45415951.0,2023
+1347,692,FinTech,FinPredict,Robotics,6712240.0,2017
+1348,692,FinTech,FinPredict,Computer Vision,10451893.0,2021
+1349,693,Logistics,CargoAI,Computer Vision,45474453.0,2023
+1350,693,Logistics,RouteAI,NLP,33813989.0,2022
+1351,694,EdTech,TutorBot,NLP,10914481.0,2017
+1352,695,EdTech,StudyAI,Predictive Analytics,23165081.0,2023
+1353,695,EdTech,EduAI Platform,NLP,27574033.0,2022
+1354,695,EdTech,TestPrep AI,Recommendation System,39618184.0,2024
+1355,696,EdTech,LearnSmart,Computer Vision,8329887.0,2021
+1356,696,EdTech,EduAI Platform,Recommendation System,17387013.0,2022
+1357,696,EdTech,StudyAI,Robotics,32824384.0,2021
+1358,697,Agriculture,SmartIrrigation,NLP,49828266.0,2020
+1359,697,Agriculture,SmartIrrigation,Computer Vision,26296667.0,2025
+1360,698,EdTech,TestPrep AI,Predictive Analytics,12313295.0,2024
+1361,698,EdTech,EduAI Platform,Computer Vision,34872890.0,2024
+1362,699,Retail,StoreAI,NLP,18745586.0,2022
+1363,699,Retail,RetailBot,NLP,21301034.0,2023
+1364,699,Retail,SalesPredict,Computer Vision,46972235.0,2024
+1365,700,Healthcare,DiagnosePro,Computer Vision,27180450.0,2024
+1366,700,Healthcare,HealthAI,Recommendation System,8809736.0,2021
+1367,701,EdTech,StudyAI,Computer Vision,10893765.0,2022
+1368,702,Retail,RetailBot,NLP,44212698.0,2023
+1369,702,Retail,RetailBot,Predictive Analytics,27505900.0,2025
+1370,702,Retail,RetailBot,Predictive Analytics,18764425.0,2025
+1371,703,Agriculture,AgroPredict,Computer Vision,9985747.0,2020
+1372,704,FinTech,LoanBot,Recommendation System,28428794.0,2017
+1373,704,FinTech,CreditSense,Robotics,535632.0,2022
+1374,704,FinTech,LoanBot,Computer Vision,49545575.0,2016
+1375,705,Healthcare,DiagnosePro,Robotics,41397344.0,2023
+1376,705,Healthcare,HealthAI,Predictive Analytics,345376.0,2020
+1377,705,Healthcare,HealthAI,NLP,44381199.0,2018
+1378,706,AI SaaS,VisionAI,Robotics,9467316.0,2023
+1379,707,Logistics,RouteAI,Predictive Analytics,46815077.0,2022
+1380,707,Logistics,CargoAI,Computer Vision,44778266.0,2023
+1381,707,Logistics,SmartLogistics,Robotics,24260513.0,2025
+1382,708,Healthcare,DiagnosePro,Recommendation System,14983114.0,2022
+1383,708,Healthcare,HealthAI,NLP,22263384.0,2021
+1384,709,Agriculture,FarmSense,Robotics,34466569.0,2017
+1385,709,Agriculture,SmartIrrigation,Recommendation System,25221225.0,2017
+1386,710,Agriculture,AgroPredict,Recommendation System,12755117.0,2025
+1387,710,Agriculture,FieldBot,Computer Vision,20968376.0,2024
+1388,710,Agriculture,AgroPredict,Recommendation System,4039952.0,2025
+1389,711,Retail,RetailBot,NLP,49719896.0,2021
+1390,711,Retail,InventoryAI,Computer Vision,14894305.0,2021
+1391,712,Logistics,SmartLogistics,Predictive Analytics,13224608.0,2022
+1392,712,Logistics,RouteAI,Predictive Analytics,36825853.0,2021
+1393,712,Logistics,FleetPredict,Robotics,28949797.0,2021
+1394,713,Retail,SmartShop,NLP,29717231.0,2023
+1395,713,Retail,SalesPredict,Predictive Analytics,28784479.0,2021
+1396,713,Retail,StoreAI,Robotics,16298565.0,2022
+1397,714,Retail,InventoryAI,Recommendation System,20807297.0,2020
+1398,714,Retail,SmartShop,Robotics,41282331.0,2023
+1399,714,Retail,RetailBot,NLP,47121335.0,2025
+1400,715,Retail,StoreAI,Robotics,13315438.0,2024
+1401,715,Retail,StoreAI,Recommendation System,13679851.0,2022
+1402,716,EdTech,TutorBot,Robotics,22136964.0,2024
+1403,717,Logistics,RouteAI,Recommendation System,39235737.0,2025
+1404,717,Logistics,DeliveryBot,Recommendation System,37419344.0,2017
+1405,718,Healthcare,MediBot,Predictive Analytics,7655325.0,2018
+1406,718,Healthcare,MediBot,NLP,38208000.0,2018
+1407,718,Healthcare,VitalSense,Recommendation System,29310778.0,2024
+1408,719,FinTech,WalletAI,Robotics,42918654.0,2020
+1409,719,FinTech,FinPredict,Computer Vision,35476917.0,2020
+1410,719,FinTech,PayAI,NLP,12110680.0,2017
+1411,720,Healthcare,DiagnosePro,Recommendation System,36043179.0,2019
+1412,720,Healthcare,MediBot,Robotics,21320206.0,2020
+1413,721,FinTech,LoanBot,NLP,8877768.0,2021
+1414,722,EdTech,TestPrep AI,Recommendation System,1165170.0,2022
+1415,723,Logistics,SmartLogistics,Predictive Analytics,9021360.0,2019
+1416,723,Logistics,DeliveryBot,Predictive Analytics,3789683.0,2018
+1417,723,Logistics,DeliveryBot,NLP,48476073.0,2023
+1418,724,FinTech,WalletAI,Robotics,10031082.0,2022
+1419,725,FinTech,CreditSense,Recommendation System,49781908.0,2017
+1420,725,FinTech,PayAI,NLP,11126857.0,2024
+1421,725,FinTech,PayAI,Predictive Analytics,17982604.0,2021
+1422,726,Healthcare,MediBot,Robotics,47271366.0,2022
+1423,726,Healthcare,DiagnosePro,Predictive Analytics,43303108.0,2022
+1424,727,Logistics,SmartLogistics,Robotics,22826845.0,2016
+1425,728,Agriculture,SmartIrrigation,Robotics,15336120.0,2024
+1426,728,Agriculture,AgroPredict,NLP,13299047.0,2024
+1427,728,Agriculture,FarmSense,Recommendation System,9390422.0,2022
+1428,729,Retail,RetailBot,Recommendation System,27111204.0,2021
+1429,729,Retail,RetailBot,Robotics,41922995.0,2018
+1430,730,EdTech,EduAI Platform,Computer Vision,9006129.0,2016
+1431,731,Retail,SmartShop,Recommendation System,5371429.0,2022
+1432,732,EdTech,EduAI Platform,Computer Vision,28300951.0,2019
+1433,732,EdTech,StudyAI,Robotics,45447291.0,2019
+1434,733,Healthcare,MediBot,NLP,20280665.0,2025
+1435,734,FinTech,PayAI,Robotics,4251952.0,2022
+1436,735,EdTech,LearnSmart,Computer Vision,34317695.0,2025
+1437,735,EdTech,StudyAI,Recommendation System,8707454.0,2024
+1438,735,EdTech,TestPrep AI,Computer Vision,26674544.0,2017
+1439,736,Retail,SmartShop,NLP,3223948.0,2017
+1440,737,FinTech,WalletAI,NLP,40268171.0,2022
+1441,737,FinTech,LoanBot,Predictive Analytics,24020956.0,2021
+1442,737,FinTech,PayAI,Computer Vision,46419635.0,2020
+1443,738,EdTech,LearnSmart,Recommendation System,19257938.0,2020
+1444,739,FinTech,FinPredict,Robotics,32411877.0,2022
+1445,739,FinTech,FinPredict,Predictive Analytics,47683083.0,2025
+1446,740,Logistics,FleetPredict,Computer Vision,34368719.0,2018
+1447,740,Logistics,FleetPredict,Robotics,2692790.0,2019
+1448,741,Healthcare,CareAI,Recommendation System,37658665.0,2016
+1449,741,Healthcare,HealthAI,Recommendation System,43283566.0,2016
+1450,741,Healthcare,CareAI,NLP,18104833.0,2019
+1451,742,AI SaaS,VoiceAI,Computer Vision,40628935.0,2024
+1452,742,AI SaaS,ChatBotPro,Recommendation System,19299074.0,2024
+1453,742,AI SaaS,ChatBotPro,Robotics,49699462.0,2022
+1454,743,Logistics,RouteAI,Recommendation System,1874632.0,2023
+1455,743,Logistics,DeliveryBot,Computer Vision,44478791.0,2022
+1456,744,Retail,RetailBot,Recommendation System,25327249.0,2022
+1457,744,Retail,InventoryAI,Predictive Analytics,1414425.0,2021
+1458,744,Retail,StoreAI,Robotics,30024580.0,2019
+1459,745,Healthcare,VitalSense,Robotics,673390.0,2024
+1460,745,Healthcare,DiagnosePro,Robotics,7966355.0,2024
+1461,746,FinTech,WalletAI,NLP,16119938.0,2020
+1462,746,FinTech,PayAI,Recommendation System,15494863.0,2022
+1463,747,Retail,StoreAI,NLP,2426538.0,2025
+1464,747,Retail,SalesPredict,NLP,1246132.0,2022
+1465,748,Retail,SmartShop,Recommendation System,2819074.0,2023
+1466,748,Retail,SmartShop,Recommendation System,26780816.0,2022
+1467,748,Retail,RetailBot,Computer Vision,33401187.0,2025
+1468,749,AI SaaS,VisionAI,Computer Vision,23813211.0,2021
+1469,750,Logistics,SmartLogistics,NLP,25250998.0,2020
+1470,750,Logistics,RouteAI,Computer Vision,31011719.0,2019
+1471,750,Logistics,DeliveryBot,Predictive Analytics,22101075.0,2025
+1472,751,Agriculture,FieldBot,Recommendation System,41157548.0,2022
+1473,751,Agriculture,FieldBot,Computer Vision,39705660.0,2019
+1474,752,Agriculture,CropAI,NLP,22479423.0,2022
+1475,752,Agriculture,FarmSense,Computer Vision,14382198.0,2025
+1476,752,Agriculture,FieldBot,Computer Vision,10013109.0,2017
+1477,753,EdTech,EduAI Platform,Recommendation System,7531625.0,2025
+1478,753,EdTech,TestPrep AI,NLP,36349595.0,2025
+1479,753,EdTech,TestPrep AI,Computer Vision,17458117.0,2024
+1480,754,Logistics,RouteAI,Computer Vision,46267201.0,2024
+1481,755,FinTech,LoanBot,Predictive Analytics,37163796.0,2023
+1482,755,FinTech,CreditSense,Recommendation System,31972794.0,2025
+1483,755,FinTech,WalletAI,NLP,18758208.0,2022
+1484,756,Healthcare,CareAI,Predictive Analytics,16254823.0,2024
+1485,757,Retail,RetailBot,Predictive Analytics,17950396.0,2020
+1486,758,Agriculture,CropAI,Recommendation System,48249748.0,2017
+1487,759,Agriculture,AgroPredict,Predictive Analytics,39840679.0,2016
+1488,759,Agriculture,AgroPredict,Predictive Analytics,22654798.0,2020
+1489,759,Agriculture,CropAI,NLP,22711742.0,2016
+1490,760,Agriculture,FieldBot,NLP,18539119.0,2020
+1491,761,Agriculture,CropAI,NLP,31690299.0,2017
+1492,761,Agriculture,FarmSense,Predictive Analytics,24067207.0,2015
+1493,761,Agriculture,CropAI,NLP,39124724.0,2023
+1494,762,Healthcare,DiagnosePro,Computer Vision,11589450.0,2021
+1495,762,Healthcare,VitalSense,Computer Vision,34941915.0,2021
+1496,762,Healthcare,DiagnosePro,Predictive Analytics,37943083.0,2024
+1497,763,EdTech,TutorBot,NLP,9674308.0,2019
+1498,763,EdTech,TutorBot,Recommendation System,39332693.0,2025
+1499,763,EdTech,StudyAI,Recommendation System,27240068.0,2025
+1500,764,Healthcare,DiagnosePro,NLP,27157875.0,2024
+1501,764,Healthcare,VitalSense,Robotics,9861358.0,2019
+1502,764,Healthcare,MediBot,Recommendation System,33859947.0,2025
+1503,765,Agriculture,AgroPredict,Recommendation System,19730911.0,2022
+1504,766,FinTech,WalletAI,Computer Vision,46621260.0,2021
+1505,767,FinTech,LoanBot,Computer Vision,15606069.0,2023
+1506,767,FinTech,FinPredict,Computer Vision,42257931.0,2024
+1507,767,FinTech,CreditSense,Recommendation System,42580578.0,2023
+1508,768,Logistics,DeliveryBot,Recommendation System,39411011.0,2024
+1509,768,Logistics,FleetPredict,Robotics,36485706.0,2025
+1510,769,EdTech,TestPrep AI,NLP,34775730.0,2023
+1511,769,EdTech,StudyAI,NLP,31349212.0,2025
+1512,770,Logistics,RouteAI,Robotics,36741801.0,2021
+1513,771,Agriculture,AgroPredict,Computer Vision,10782999.0,2020
+1514,771,Agriculture,AgroPredict,Predictive Analytics,10234347.0,2023
+1515,771,Agriculture,SmartIrrigation,Recommendation System,39503907.0,2018
+1516,772,Retail,RetailBot,Computer Vision,13674612.0,2015
+1517,772,Retail,SalesPredict,NLP,25691313.0,2019
+1518,773,EdTech,TutorBot,NLP,4420030.0,2020
+1519,774,FinTech,WalletAI,Predictive Analytics,45509078.0,2016
+1520,774,FinTech,FinPredict,Robotics,5153241.0,2024
+1521,774,FinTech,WalletAI,Recommendation System,28245979.0,2025
+1522,775,FinTech,FinPredict,Predictive Analytics,14123767.0,2023
+1523,775,FinTech,CreditSense,Computer Vision,43364416.0,2023
+1524,776,Agriculture,CropAI,NLP,34537790.0,2017
+1525,776,Agriculture,AgroPredict,Recommendation System,29213106.0,2017
+1526,777,AI SaaS,VoiceAI,Computer Vision,10274337.0,2025
+1527,778,Logistics,DeliveryBot,Robotics,8831550.0,2022
+1528,778,Logistics,RouteAI,Recommendation System,40325101.0,2022
+1529,778,Logistics,FleetPredict,Robotics,23920784.0,2024
+1530,779,FinTech,CreditSense,Computer Vision,29233762.0,2022
+1531,779,FinTech,PayAI,NLP,7892777.0,2021
+1532,780,FinTech,FinPredict,Predictive Analytics,21904335.0,2022
+1533,780,FinTech,PayAI,Predictive Analytics,18181849.0,2017
+1534,781,EdTech,TestPrep AI,Robotics,29364431.0,2023
+1535,781,EdTech,TestPrep AI,Predictive Analytics,46705363.0,2024
+1536,782,Agriculture,CropAI,Robotics,2709696.0,2019
+1537,782,Agriculture,FieldBot,Robotics,1138844.0,2021
+1538,782,Agriculture,FieldBot,Recommendation System,25386504.0,2025
+1539,783,EdTech,LearnSmart,Recommendation System,5909926.0,2022
+1540,783,EdTech,EduAI Platform,Robotics,4605257.0,2024
+1541,784,EdTech,LearnSmart,Predictive Analytics,34746757.0,2025
+1542,784,EdTech,LearnSmart,Predictive Analytics,16844569.0,2022
+1543,785,Healthcare,HealthAI,NLP,30263714.0,2021
+1544,785,Healthcare,VitalSense,Predictive Analytics,12662151.0,2016
+1545,786,EdTech,TutorBot,Computer Vision,39919906.0,2020
+1546,786,EdTech,LearnSmart,Robotics,38277169.0,2024
+1547,787,Agriculture,AgroPredict,Recommendation System,23798660.0,2022
+1548,787,Agriculture,AgroPredict,NLP,21327810.0,2023
+1549,787,Agriculture,CropAI,Computer Vision,41196944.0,2024
+1550,788,Retail,RetailBot,Recommendation System,31575067.0,2020
+1551,788,Retail,RetailBot,Predictive Analytics,31042438.0,2021
+1552,789,Healthcare,CareAI,NLP,36920354.0,2020
+1553,789,Healthcare,VitalSense,NLP,2015394.0,2019
+1554,789,Healthcare,DiagnosePro,Predictive Analytics,44851811.0,2014
+1555,790,Healthcare,DiagnosePro,Predictive Analytics,39542333.0,2021
+1556,790,Healthcare,HealthAI,Robotics,24306423.0,2025
+1557,790,Healthcare,HealthAI,NLP,45313288.0,2024
+1558,791,Agriculture,FarmSense,Robotics,4307069.0,2025
+1559,791,Agriculture,SmartIrrigation,NLP,12622417.0,2025
+1560,791,Agriculture,FarmSense,Predictive Analytics,11390434.0,2023
+1561,792,EdTech,LearnSmart,Predictive Analytics,9826622.0,2020
+1562,792,EdTech,LearnSmart,NLP,28165206.0,2025
+1563,793,EdTech,TestPrep AI,NLP,40009522.0,2022
+1564,793,EdTech,EduAI Platform,Robotics,22350612.0,2019
+1565,794,Agriculture,SmartIrrigation,Recommendation System,15058602.0,2018
+1566,795,Healthcare,VitalSense,Robotics,43473171.0,2016
+1567,795,Healthcare,HealthAI,Recommendation System,32350024.0,2025
+1568,796,Retail,InventoryAI,Predictive Analytics,39873484.0,2022
+1569,796,Retail,SalesPredict,Computer Vision,35493991.0,2022
+1570,796,Retail,RetailBot,Computer Vision,45215648.0,2020
+1571,797,Healthcare,MediBot,Predictive Analytics,5249414.0,2018
+1572,797,Healthcare,MediBot,Robotics,35384185.0,2022
+1573,797,Healthcare,VitalSense,NLP,20270502.0,2018
+1574,798,FinTech,WalletAI,Computer Vision,29324036.0,2023
+1575,798,FinTech,LoanBot,Computer Vision,36614682.0,2022
+1576,799,Logistics,CargoAI,Computer Vision,16916904.0,2019
+1577,799,Logistics,RouteAI,Recommendation System,1625318.0,2019
+1578,800,Logistics,CargoAI,Predictive Analytics,33689930.0,2022
+1579,800,Logistics,DeliveryBot,Computer Vision,39945681.0,2020
+1580,800,Logistics,CargoAI,Robotics,13102047.0,2024
+1581,801,Logistics,RouteAI,Predictive Analytics,29859748.0,2024
+1582,801,Logistics,RouteAI,NLP,44448676.0,2025
+1583,802,AI SaaS,NLP Suite,NLP,47865462.0,2024
+1584,802,AI SaaS,VoiceAI,Predictive Analytics,31484550.0,2021
+1585,803,Agriculture,CropAI,Robotics,5368616.0,2021
+1586,803,Agriculture,CropAI,NLP,15385761.0,2019
+1587,804,Logistics,CargoAI,Robotics,22144718.0,2016
+1588,805,FinTech,LoanBot,Recommendation System,38029738.0,2018
+1589,805,FinTech,CreditSense,Robotics,37289480.0,2023
+1590,806,FinTech,PayAI,Robotics,42072863.0,2021
+1591,807,EdTech,StudyAI,Robotics,32774582.0,2019
+1592,808,FinTech,PayAI,Predictive Analytics,36885562.0,2022
+1593,809,AI SaaS,VisionAI,Recommendation System,3325064.0,2023
+1594,809,AI SaaS,NLP Suite,Recommendation System,37093353.0,2023
+1595,809,AI SaaS,VoiceAI,NLP,5942344.0,2024
+1596,810,Logistics,FleetPredict,Predictive Analytics,5269418.0,2023
+1597,810,Logistics,DeliveryBot,NLP,41695061.0,2025
+1598,810,Logistics,FleetPredict,Predictive Analytics,28866971.0,2022
+1599,811,EdTech,EduAI Platform,Predictive Analytics,39858259.0,2018
+1600,811,EdTech,StudyAI,NLP,48651498.0,2022
+1601,812,Logistics,DeliveryBot,Computer Vision,43948544.0,2017
+1602,812,Logistics,CargoAI,Predictive Analytics,11315805.0,2017
+1603,812,Logistics,DeliveryBot,NLP,24124864.0,2023
+1604,813,AI SaaS,VoiceAI,Recommendation System,40128311.0,2024
+1605,814,Healthcare,VitalSense,Computer Vision,6858231.0,2019
+1606,814,Healthcare,MediBot,Computer Vision,30912239.0,2019
+1607,814,Healthcare,MediBot,Predictive Analytics,12339654.0,2020
+1608,815,AI SaaS,ChatBotPro,Robotics,20119648.0,2022
+1609,816,Retail,SalesPredict,Robotics,35451656.0,2023
+1610,817,Retail,StoreAI,Robotics,26593997.0,2023
+1611,818,Healthcare,VitalSense,Computer Vision,15680602.0,2025
+1612,818,Healthcare,MediBot,Computer Vision,15084015.0,2022
+1613,819,AI SaaS,VisionAI,Recommendation System,16064098.0,2019
+1614,819,AI SaaS,CustomerAI,Robotics,9806092.0,2021
+1615,820,Agriculture,CropAI,Robotics,47815463.0,2023
+1616,820,Agriculture,SmartIrrigation,Recommendation System,48263173.0,2024
+1617,820,Agriculture,AgroPredict,NLP,4703424.0,2022
+1618,821,AI SaaS,CustomerAI,NLP,14934598.0,2025
+1619,822,EdTech,LearnSmart,Recommendation System,32719884.0,2025
+1620,823,EdTech,TestPrep AI,Recommendation System,16866630.0,2019
+1621,823,EdTech,TutorBot,Computer Vision,2704478.0,2022
+1622,824,Logistics,RouteAI,NLP,3355796.0,2022
+1623,824,Logistics,DeliveryBot,Robotics,37621156.0,2024
+1624,824,Logistics,CargoAI,Recommendation System,4258766.0,2022
+1625,825,AI SaaS,CustomerAI,Computer Vision,37102237.0,2022
+1626,825,AI SaaS,ChatBotPro,Predictive Analytics,22455005.0,2025
+1627,825,AI SaaS,VoiceAI,NLP,13615278.0,2022
+1628,826,Agriculture,SmartIrrigation,Robotics,20762970.0,2019
+1629,827,EdTech,StudyAI,Robotics,37528925.0,2017
+1630,827,EdTech,EduAI Platform,Predictive Analytics,3722942.0,2016
+1631,828,AI SaaS,ChatBotPro,Computer Vision,43349139.0,2024
+1632,829,FinTech,WalletAI,NLP,34106683.0,2023
+1633,830,EdTech,EduAI Platform,NLP,35023538.0,2021
+1634,831,AI SaaS,VoiceAI,Robotics,45433709.0,2019
+1635,831,AI SaaS,ChatBotPro,Recommendation System,1583185.0,2020
+1636,832,Retail,SalesPredict,NLP,22230687.0,2020
+1637,832,Retail,RetailBot,Predictive Analytics,8833736.0,2018
+1638,832,Retail,SmartShop,NLP,32021449.0,2019
+1639,833,Agriculture,AgroPredict,Robotics,48478659.0,2021
+1640,833,Agriculture,FieldBot,Robotics,7485618.0,2024
+1641,834,FinTech,FinPredict,Recommendation System,17538750.0,2023
+1642,834,FinTech,FinPredict,Predictive Analytics,3614519.0,2021
+1643,835,AI SaaS,VisionAI,Recommendation System,2718704.0,2024
+1644,836,Healthcare,HealthAI,Predictive Analytics,250895.0,2018
+1645,836,Healthcare,VitalSense,Recommendation System,28623118.0,2025
+1646,837,FinTech,WalletAI,Computer Vision,12421130.0,2021
+1647,837,FinTech,WalletAI,Predictive Analytics,3648548.0,2021
+1648,837,FinTech,PayAI,Recommendation System,46700200.0,2022
+1649,838,Logistics,SmartLogistics,Predictive Analytics,26056828.0,2023
+1650,839,Logistics,DeliveryBot,Recommendation System,485994.0,2024
+1651,840,Retail,RetailBot,Computer Vision,31949982.0,2021
+1652,840,Retail,SalesPredict,Robotics,16469753.0,2021
+1653,840,Retail,SmartShop,Computer Vision,14175828.0,2025
+1654,841,Agriculture,CropAI,NLP,19394828.0,2021
+1655,842,Logistics,DeliveryBot,NLP,8519955.0,2019
+1656,842,Logistics,SmartLogistics,Computer Vision,6462994.0,2022
+1657,843,Healthcare,MediBot,Robotics,2539658.0,2024
+1658,843,Healthcare,DiagnosePro,Predictive Analytics,18095642.0,2020
+1659,844,Logistics,DeliveryBot,Computer Vision,15603125.0,2021
+1660,844,Logistics,CargoAI,Computer Vision,44552927.0,2021
+1661,844,Logistics,FleetPredict,Robotics,24941728.0,2023
+1662,845,FinTech,LoanBot,Predictive Analytics,20394586.0,2025
+1663,846,EdTech,StudyAI,Robotics,6588871.0,2025
+1664,846,EdTech,StudyAI,NLP,24644655.0,2023
+1665,847,EdTech,StudyAI,Robotics,47970717.0,2024
+1666,847,EdTech,TestPrep AI,Predictive Analytics,8648321.0,2022
+1667,847,EdTech,TestPrep AI,Recommendation System,15671774.0,2023
+1668,848,Healthcare,CareAI,Recommendation System,31910145.0,2020
+1669,848,Healthcare,HealthAI,Recommendation System,29452251.0,2022
+1670,849,AI SaaS,NLP Suite,Robotics,6578877.0,2019
+1671,850,Healthcare,MediBot,Predictive Analytics,27317771.0,2023
+1672,850,Healthcare,VitalSense,Predictive Analytics,25719317.0,2022
+1673,851,Healthcare,HealthAI,Robotics,9383830.0,2018
+1674,851,Healthcare,VitalSense,NLP,20641977.0,2024
+1675,852,EdTech,TestPrep AI,Predictive Analytics,7092334.0,2025
+1676,853,AI SaaS,ChatBotPro,Predictive Analytics,46401142.0,2023
+1677,854,Logistics,DeliveryBot,Robotics,27716480.0,2019
+1678,854,Logistics,DeliveryBot,Robotics,25599728.0,2017
+1679,854,Logistics,CargoAI,Robotics,11321498.0,2020
+1680,855,Healthcare,VitalSense,NLP,11796467.0,2023
+1681,856,FinTech,PayAI,Predictive Analytics,23719915.0,2021
+1682,856,FinTech,CreditSense,NLP,20812943.0,2019
+1683,856,FinTech,WalletAI,NLP,15762186.0,2024
+1684,857,EdTech,StudyAI,Computer Vision,40079019.0,2025
+1685,857,EdTech,StudyAI,NLP,43979198.0,2024
+1686,857,EdTech,TestPrep AI,Predictive Analytics,28068487.0,2023
+1687,858,FinTech,LoanBot,NLP,16232577.0,2025
+1688,859,EdTech,StudyAI,Computer Vision,45411099.0,2021
+1689,860,Logistics,CargoAI,Computer Vision,10173367.0,2018
+1690,860,Logistics,CargoAI,Predictive Analytics,250390.0,2018
+1691,861,FinTech,CreditSense,Computer Vision,30563612.0,2023
+1692,862,Retail,SmartShop,Computer Vision,33102908.0,2025
+1693,863,Retail,SmartShop,NLP,42419889.0,2025
+1694,863,Retail,SalesPredict,Recommendation System,24654870.0,2023
+1695,863,Retail,RetailBot,Robotics,4132195.0,2018
+1696,864,Retail,StoreAI,Recommendation System,33359907.0,2023
+1697,864,Retail,RetailBot,Predictive Analytics,2768529.0,2019
+1698,864,Retail,StoreAI,Computer Vision,3809679.0,2025
+1699,865,Agriculture,AgroPredict,Recommendation System,750903.0,2024
+1700,865,Agriculture,FarmSense,Computer Vision,4075123.0,2016
+1701,866,FinTech,PayAI,Recommendation System,35046603.0,2024
+1702,866,FinTech,LoanBot,Predictive Analytics,13171906.0,2021
+1703,867,AI SaaS,VoiceAI,Recommendation System,47426947.0,2024
+1704,868,Healthcare,VitalSense,Robotics,48855573.0,2024
+1705,868,Healthcare,MediBot,Predictive Analytics,18821515.0,2025
+1706,868,Healthcare,CareAI,Predictive Analytics,48342075.0,2024
+1707,869,FinTech,LoanBot,Predictive Analytics,40928357.0,2024
+1708,869,FinTech,CreditSense,NLP,18722759.0,2024
+1709,870,EdTech,EduAI Platform,Computer Vision,35212471.0,2022
+1710,870,EdTech,LearnSmart,Robotics,21875469.0,2020
+1711,871,AI SaaS,VoiceAI,Predictive Analytics,14660791.0,2020
+1712,871,AI SaaS,CustomerAI,Recommendation System,27847212.0,2021
+1713,872,Logistics,CargoAI,Robotics,26348035.0,2024
+1714,872,Logistics,RouteAI,Recommendation System,44798794.0,2021
+1715,872,Logistics,RouteAI,Computer Vision,13884744.0,2014
+1716,873,Retail,RetailBot,Predictive Analytics,17075363.0,2025
+1717,873,Retail,SmartShop,Robotics,33024708.0,2021
+1718,873,Retail,SalesPredict,Recommendation System,27732278.0,2019
+1719,874,EdTech,TutorBot,NLP,43045163.0,2023
+1720,874,EdTech,TestPrep AI,NLP,31885765.0,2018
+1721,874,EdTech,TutorBot,Computer Vision,17419545.0,2015
+1722,875,Logistics,RouteAI,Robotics,33142282.0,2022
+1723,875,Logistics,CargoAI,Recommendation System,23165750.0,2021
+1724,875,Logistics,RouteAI,Computer Vision,36493133.0,2022
+1725,876,AI SaaS,CustomerAI,Recommendation System,31361113.0,2023
+1726,876,AI SaaS,NLP Suite,Predictive Analytics,36117038.0,2024
+1727,877,FinTech,CreditSense,Computer Vision,40448641.0,2021
+1728,877,FinTech,LoanBot,Predictive Analytics,23374234.0,2022
+1729,877,FinTech,FinPredict,Computer Vision,20980025.0,2021
+1730,878,AI SaaS,VisionAI,Computer Vision,20508462.0,2019
+1731,878,AI SaaS,ChatBotPro,Robotics,8432468.0,2021
+1732,878,AI SaaS,CustomerAI,Predictive Analytics,29720452.0,2025
+1733,879,Logistics,CargoAI,Predictive Analytics,5082689.0,2019
+1734,880,Healthcare,HealthAI,Predictive Analytics,25928512.0,2020
+1735,880,Healthcare,CareAI,Robotics,6943488.0,2022
+1736,880,Healthcare,HealthAI,NLP,45983330.0,2020
+1737,881,FinTech,PayAI,Robotics,3259291.0,2025
+1738,881,FinTech,FinPredict,Predictive Analytics,29452940.0,2023
+1739,881,FinTech,WalletAI,Computer Vision,40035742.0,2022
+1740,882,FinTech,CreditSense,Robotics,2021143.0,2023
+1741,882,FinTech,FinPredict,Predictive Analytics,6413960.0,2022
+1742,882,FinTech,PayAI,NLP,5210860.0,2024
+1743,883,FinTech,CreditSense,Robotics,19701453.0,2018
+1744,884,Retail,InventoryAI,Predictive Analytics,37440136.0,2025
+1745,884,Retail,StoreAI,NLP,36654184.0,2023
+1746,884,Retail,InventoryAI,NLP,41739194.0,2025
+1747,885,AI SaaS,NLP Suite,NLP,34304821.0,2023
+1748,886,Healthcare,MediBot,Computer Vision,18863462.0,2023
+1749,886,Healthcare,CareAI,Computer Vision,30438469.0,2024
+1750,886,Healthcare,VitalSense,Robotics,45111786.0,2020
+1751,887,EdTech,EduAI Platform,Predictive Analytics,34523987.0,2025
+1752,888,Healthcare,CareAI,Computer Vision,41961629.0,2018
+1753,888,Healthcare,CareAI,Recommendation System,9794492.0,2023
+1754,889,Retail,StoreAI,Computer Vision,28650572.0,2018
+1755,889,Retail,SalesPredict,NLP,16124483.0,2019
+1756,890,Logistics,RouteAI,Robotics,36653289.0,2025
+1757,890,Logistics,FleetPredict,Predictive Analytics,10823860.0,2025
+1758,890,Logistics,RouteAI,Predictive Analytics,27274935.0,2021
+1759,891,Healthcare,CareAI,Predictive Analytics,16610240.0,2020
+1760,892,Agriculture,SmartIrrigation,Predictive Analytics,45462069.0,2020
+1761,892,Agriculture,SmartIrrigation,Robotics,6708841.0,2020
+1762,892,Agriculture,FarmSense,Robotics,27752342.0,2022
+1763,893,AI SaaS,ChatBotPro,Predictive Analytics,16883690.0,2018
+1764,894,Agriculture,SmartIrrigation,NLP,23519469.0,2021
+1765,895,Logistics,FleetPredict,Predictive Analytics,49067934.0,2023
+1766,896,EdTech,TutorBot,Computer Vision,46026772.0,2025
+1767,897,FinTech,FinPredict,Predictive Analytics,18282785.0,2018
+1768,897,FinTech,CreditSense,Predictive Analytics,34067373.0,2020
+1769,898,Healthcare,DiagnosePro,Recommendation System,26133541.0,2019
+1770,898,Healthcare,DiagnosePro,NLP,14394081.0,2021
+1771,899,EdTech,TestPrep AI,Computer Vision,20288693.0,2024
+1772,899,EdTech,StudyAI,Computer Vision,37821613.0,2023
+1773,900,AI SaaS,VisionAI,Computer Vision,4192396.0,2020
+1774,901,EdTech,TutorBot,Predictive Analytics,8524487.0,2020
+1775,901,EdTech,EduAI Platform,Computer Vision,16176623.0,2025
+1776,901,EdTech,TestPrep AI,Predictive Analytics,18889771.0,2025
+1777,902,Retail,RetailBot,Recommendation System,23745601.0,2023
+1778,902,Retail,StoreAI,Robotics,44666010.0,2017
+1779,902,Retail,SmartShop,Recommendation System,26467048.0,2022
+1780,903,AI SaaS,NLP Suite,NLP,30877042.0,2023
+1781,903,AI SaaS,NLP Suite,Predictive Analytics,16594003.0,2015
+1782,903,AI SaaS,ChatBotPro,Computer Vision,14421397.0,2023
+1783,904,Healthcare,CareAI,Computer Vision,3822756.0,2024
+1784,904,Healthcare,CareAI,Robotics,19405601.0,2025
+1785,904,Healthcare,MediBot,Robotics,13957696.0,2021
+1786,905,Retail,InventoryAI,NLP,48350713.0,2024
+1787,906,FinTech,PayAI,Recommendation System,44812884.0,2024
+1788,906,FinTech,FinPredict,Computer Vision,39753544.0,2024
+1789,906,FinTech,CreditSense,Recommendation System,17554542.0,2019
+1790,907,Retail,RetailBot,Computer Vision,14341769.0,2018
+1791,907,Retail,RetailBot,Robotics,28130518.0,2022
+1792,907,Retail,RetailBot,Computer Vision,25390281.0,2021
+1793,908,FinTech,FinPredict,Computer Vision,35118729.0,2018
+1794,909,Retail,InventoryAI,Computer Vision,33740495.0,2018
+1795,909,Retail,InventoryAI,Computer Vision,30979983.0,2020
+1796,910,EdTech,LearnSmart,NLP,26853196.0,2018
+1797,910,EdTech,StudyAI,Recommendation System,14263304.0,2024
+1798,910,EdTech,EduAI Platform,Robotics,30794145.0,2021
+1799,911,Agriculture,FieldBot,Robotics,10200881.0,2023
+1800,912,EdTech,LearnSmart,NLP,34567766.0,2025
+1801,912,EdTech,TestPrep AI,NLP,32359645.0,2023
+1802,913,AI SaaS,VisionAI,NLP,40100233.0,2021
+1803,913,AI SaaS,VisionAI,Robotics,43668137.0,2024
+1804,913,AI SaaS,ChatBotPro,NLP,19869245.0,2020
+1805,914,FinTech,LoanBot,Recommendation System,45200106.0,2022
+1806,914,FinTech,WalletAI,Robotics,28495112.0,2024
+1807,914,FinTech,PayAI,Predictive Analytics,17816769.0,2021
+1808,915,Logistics,DeliveryBot,Predictive Analytics,5037179.0,2024
+1809,915,Logistics,RouteAI,Computer Vision,22109581.0,2023
+1810,916,Retail,SalesPredict,NLP,20246597.0,2021
+1811,917,FinTech,WalletAI,Recommendation System,12675932.0,2025
+1812,917,FinTech,CreditSense,Robotics,13544934.0,2022
+1813,917,FinTech,PayAI,NLP,39018318.0,2024
+1814,918,EdTech,LearnSmart,Computer Vision,16135017.0,2021
+1815,918,EdTech,StudyAI,Predictive Analytics,24765254.0,2024
+1816,919,Logistics,FleetPredict,Robotics,44670282.0,2015
+1817,919,Logistics,SmartLogistics,Robotics,36043980.0,2024
+1818,919,Logistics,RouteAI,Robotics,15373496.0,2023
+1819,920,Agriculture,FieldBot,NLP,33339154.0,2025
+1820,921,Healthcare,HealthAI,Recommendation System,46162241.0,2018
+1821,921,Healthcare,MediBot,Recommendation System,4113762.0,2018
+1822,922,Retail,InventoryAI,NLP,27563329.0,2024
+1823,922,Retail,SalesPredict,Robotics,8377503.0,2024
+1824,923,Agriculture,CropAI,Computer Vision,32755314.0,2021
+1825,923,Agriculture,AgroPredict,Predictive Analytics,6268438.0,2019
+1826,923,Agriculture,CropAI,NLP,1625677.0,2024
+1827,924,Agriculture,FieldBot,Recommendation System,14855004.0,2018
+1828,925,EdTech,StudyAI,Computer Vision,29324262.0,2023
+1829,925,EdTech,TestPrep AI,Robotics,17791824.0,2020
+1830,926,EdTech,EduAI Platform,Computer Vision,49431892.0,2025
+1831,926,EdTech,TutorBot,Recommendation System,37600529.0,2023
+1832,926,EdTech,StudyAI,Recommendation System,1715033.0,2023
+1833,927,Retail,SmartShop,Recommendation System,29718599.0,2022
+1834,927,Retail,SalesPredict,Robotics,3977001.0,2020
+1835,928,Retail,RetailBot,Robotics,24082405.0,2018
+1836,928,Retail,SmartShop,NLP,39759368.0,2020
+1837,929,Retail,SmartShop,NLP,42893620.0,2020
+1838,929,Retail,InventoryAI,Recommendation System,2828787.0,2020
+1839,930,FinTech,FinPredict,Robotics,24770831.0,2022
+1840,930,FinTech,WalletAI,NLP,10844811.0,2025
+1841,930,FinTech,CreditSense,Computer Vision,32840559.0,2025
+1842,931,EdTech,TutorBot,Robotics,2625850.0,2024
+1843,932,Healthcare,MediBot,NLP,47304311.0,2019
+1844,933,Agriculture,SmartIrrigation,Robotics,20618441.0,2017
+1845,934,Retail,SalesPredict,Predictive Analytics,10168983.0,2023
+1846,935,AI SaaS,VoiceAI,NLP,35609865.0,2025
+1847,935,AI SaaS,VisionAI,Recommendation System,721623.0,2021
+1848,936,AI SaaS,VisionAI,Predictive Analytics,40029933.0,2019
+1849,936,AI SaaS,VoiceAI,NLP,8519478.0,2023
+1850,937,AI SaaS,ChatBotPro,Computer Vision,11056078.0,2024
+1851,937,AI SaaS,CustomerAI,NLP,7822232.0,2023
+1852,937,AI SaaS,VisionAI,NLP,18455151.0,2025
+1853,938,AI SaaS,ChatBotPro,Robotics,19336120.0,2023
+1854,938,AI SaaS,CustomerAI,Predictive Analytics,18927403.0,2021
+1855,938,AI SaaS,NLP Suite,Predictive Analytics,17475538.0,2023
+1856,939,Agriculture,FarmSense,NLP,44598097.0,2018
+1857,939,Agriculture,CropAI,Computer Vision,23832148.0,2022
+1858,939,Agriculture,FarmSense,NLP,34184658.0,2020
+1859,940,Logistics,CargoAI,NLP,47165896.0,2023
+1860,940,Logistics,RouteAI,Recommendation System,17238022.0,2018
+1861,941,Agriculture,FarmSense,Recommendation System,35576018.0,2020
+1862,942,Healthcare,VitalSense,Recommendation System,9035685.0,2023
+1863,942,Healthcare,MediBot,Robotics,36540856.0,2014
+1864,943,AI SaaS,VoiceAI,Recommendation System,39170829.0,2025
+1865,944,EdTech,TutorBot,Robotics,37968195.0,2019
+1866,944,EdTech,LearnSmart,Predictive Analytics,12737229.0,2020
+1867,944,EdTech,TestPrep AI,Robotics,19610959.0,2025
+1868,945,FinTech,PayAI,Predictive Analytics,32231563.0,2022
+1869,945,FinTech,LoanBot,Computer Vision,15458530.0,2025
+1870,945,FinTech,FinPredict,Recommendation System,17544085.0,2020
+1871,946,FinTech,LoanBot,Robotics,37632890.0,2023
+1872,947,AI SaaS,VoiceAI,Robotics,30096476.0,2025
+1873,947,AI SaaS,VoiceAI,Robotics,7438728.0,2021
+1874,948,Healthcare,HealthAI,Computer Vision,44164551.0,2020
+1875,948,Healthcare,MediBot,Robotics,16472857.0,2025
+1876,948,Healthcare,CareAI,Robotics,45484058.0,2021
+1877,949,FinTech,CreditSense,Robotics,30992595.0,2016
+1878,949,FinTech,CreditSense,Recommendation System,33746836.0,2016
+1879,949,FinTech,LoanBot,Computer Vision,18448970.0,2018
+1880,950,Retail,SalesPredict,Computer Vision,47787402.0,2023
+1881,951,Retail,RetailBot,Recommendation System,24615420.0,2016
+1882,952,EdTech,LearnSmart,Predictive Analytics,37546863.0,2024
+1883,953,FinTech,FinPredict,Predictive Analytics,1712183.0,2016
+1884,953,FinTech,WalletAI,Predictive Analytics,43651856.0,2022
+1885,953,FinTech,CreditSense,Computer Vision,37787262.0,2015
+1886,954,FinTech,LoanBot,Predictive Analytics,3467875.0,2020
+1887,955,EdTech,TutorBot,Robotics,36197667.0,2023
+1888,955,EdTech,LearnSmart,NLP,20880739.0,2025
+1889,955,EdTech,StudyAI,Recommendation System,5303314.0,2022
+1890,956,Logistics,FleetPredict,Robotics,14027866.0,2020
+1891,956,Logistics,RouteAI,Computer Vision,10269707.0,2021
+1892,957,AI SaaS,VoiceAI,NLP,27103193.0,2024
+1893,957,AI SaaS,VisionAI,Robotics,40673658.0,2024
+1894,957,AI SaaS,CustomerAI,NLP,11827879.0,2018
+1895,958,Logistics,RouteAI,Predictive Analytics,49663603.0,2022
+1896,958,Logistics,CargoAI,Recommendation System,38192922.0,2023
+1897,958,Logistics,CargoAI,Predictive Analytics,6756507.0,2022
+1898,959,EdTech,LearnSmart,Predictive Analytics,20371675.0,2024
+1899,960,Healthcare,DiagnosePro,Predictive Analytics,13781225.0,2017
+1900,960,Healthcare,MediBot,NLP,1347931.0,2017
+1901,961,Logistics,FleetPredict,Predictive Analytics,28625008.0,2022
+1902,961,Logistics,SmartLogistics,Computer Vision,6062014.0,2022
+1903,961,Logistics,SmartLogistics,Predictive Analytics,49750390.0,2023
+1904,962,Logistics,SmartLogistics,Robotics,5093321.0,2019
+1905,962,Logistics,DeliveryBot,Computer Vision,37862946.0,2017
+1906,962,Logistics,CargoAI,NLP,3314602.0,2024
+1907,963,Logistics,CargoAI,Robotics,32665297.0,2022
+1908,963,Logistics,DeliveryBot,Recommendation System,37041809.0,2023
+1909,963,Logistics,DeliveryBot,Robotics,17840575.0,2020
+1910,964,Retail,InventoryAI,NLP,20551032.0,2020
+1911,965,EdTech,TutorBot,Predictive Analytics,40092732.0,2023
+1912,965,EdTech,EduAI Platform,NLP,34210250.0,2024
+1913,966,AI SaaS,ChatBotPro,Predictive Analytics,5080239.0,2023
+1914,967,FinTech,FinPredict,Computer Vision,11678134.0,2025
+1915,967,FinTech,PayAI,NLP,10719656.0,2025
+1916,967,FinTech,WalletAI,Predictive Analytics,3283785.0,2024
+1917,968,Agriculture,AgroPredict,Computer Vision,13238846.0,2022
+1918,968,Agriculture,FarmSense,Recommendation System,33684807.0,2017
+1919,969,EdTech,EduAI Platform,NLP,32996774.0,2023
+1920,969,EdTech,LearnSmart,Robotics,10202781.0,2019
+1921,969,EdTech,EduAI Platform,NLP,24350625.0,2025
+1922,970,Retail,SmartShop,Recommendation System,49585589.0,2021
+1923,970,Retail,RetailBot,Recommendation System,8584386.0,2021
+1924,970,Retail,SalesPredict,Recommendation System,40576789.0,2020
+1925,971,Agriculture,FarmSense,NLP,26464709.0,2020
+1926,971,Agriculture,AgroPredict,Robotics,16094343.0,2022
+1927,971,Agriculture,FarmSense,Predictive Analytics,5659150.0,2024
+1928,972,Agriculture,AgroPredict,Predictive Analytics,4576024.0,2023
+1929,973,FinTech,LoanBot,Robotics,1778207.0,2023
+1930,973,FinTech,PayAI,Robotics,24802684.0,2016
+1931,973,FinTech,WalletAI,NLP,15417152.0,2022
+1932,974,Healthcare,CareAI,Robotics,41737894.0,2025
+1933,975,EdTech,StudyAI,Predictive Analytics,15891083.0,2020
+1934,976,FinTech,LoanBot,NLP,23298735.0,2019
+1935,976,FinTech,CreditSense,Predictive Analytics,46538964.0,2024
+1936,977,Logistics,RouteAI,Computer Vision,9392670.0,2025
+1937,978,AI SaaS,NLP Suite,Recommendation System,13559492.0,2022
+1938,979,EdTech,StudyAI,NLP,40165248.0,2024
+1939,979,EdTech,TutorBot,NLP,20418939.0,2025
+1940,979,EdTech,TestPrep AI,Predictive Analytics,29056676.0,2017
+1941,980,AI SaaS,NLP Suite,Recommendation System,49147464.0,2018
+1942,980,AI SaaS,ChatBotPro,Predictive Analytics,43778104.0,2022
+1943,981,Retail,InventoryAI,Recommendation System,49641681.0,2025
+1944,982,EdTech,EduAI Platform,Recommendation System,34066505.0,2016
+1945,983,Retail,InventoryAI,NLP,4670377.0,2017
+1946,984,Logistics,DeliveryBot,Robotics,32709967.0,2016
+1947,985,FinTech,PayAI,NLP,4245979.0,2022
+1948,986,Healthcare,CareAI,Recommendation System,41438214.0,2020
+1949,987,AI SaaS,VisionAI,Computer Vision,30470394.0,2024
+1950,987,AI SaaS,ChatBotPro,NLP,8563942.0,2023
+1951,987,AI SaaS,VisionAI,Robotics,13098704.0,2023
+1952,988,Agriculture,SmartIrrigation,Predictive Analytics,29087734.0,2021
+1953,989,Agriculture,SmartIrrigation,Recommendation System,42535515.0,2024
+1954,989,Agriculture,FieldBot,Recommendation System,7517354.0,2024
+1955,990,Agriculture,FarmSense,Computer Vision,47719544.0,2022
+1956,991,Retail,SalesPredict,Robotics,46386015.0,2024
+1957,991,Retail,SmartShop,Computer Vision,6521984.0,2022
+1958,991,Retail,InventoryAI,Robotics,27087742.0,2022
+1959,992,Healthcare,HealthAI,Recommendation System,34939483.0,2017
+1960,992,Healthcare,VitalSense,Recommendation System,18793293.0,2019
+1961,993,Retail,InventoryAI,Computer Vision,22935037.0,2025
+1962,994,Agriculture,CropAI,Robotics,22384536.0,2024
+1963,994,Agriculture,FarmSense,Computer Vision,30220789.0,2024
+1964,995,AI SaaS,NLP Suite,Recommendation System,19147372.0,2018
+1965,996,AI SaaS,VoiceAI,NLP,5221373.0,2023
+1966,997,Healthcare,VitalSense,Robotics,15994695.0,2024
+1967,997,Healthcare,VitalSense,Predictive Analytics,18493700.0,2021
+1968,997,Healthcare,VitalSense,Predictive Analytics,4956265.0,2022
+1969,998,EdTech,TutorBot,Robotics,39095987.0,2025
+1970,999,EdTech,EduAI Platform,Recommendation System,32465547.0,2018
+1971,999,EdTech,EduAI Platform,Robotics,10228638.0,2020
+1972,1000,EdTech,TestPrep AI,Computer Vision,9794542.0,2022
+1973,1000,EdTech,StudyAI,Predictive Analytics,16929044.0,2025
