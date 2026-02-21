@@ -32,4 +32,12 @@ The AI startup ecosystem is rapidly growing, with increasing investments and inn
 ### Market Engagement
 ![Engagement](engagement_analysis.png)
 
+“I developed an end-to-end Power BI dashboard analyzing the AI startup ecosystem. The project integrates multiple datasets including startups, funding rounds, products, and market engagements to provide a 360-degree performance view.
+
+The dashboard tracks key KPIs such as total startups, active startups, total funding, revenue, funding per startup, and year-over-year funding growth using time intelligence functions.
+
+One of the most impactful features I built was a composite Engagement Score, where I normalized engagement frequency and deal value, then applied weighted scoring to rank startups based on market strength.
+
+This dashboard helps investors identify high-growth startups, supports founders in benchmarking performance, and enables strategy teams to analyze funding and revenue trends for data-driven decision-making.”
+
 This dashboard solves these challenges by providing a centralized, interactive analytical view of the AI startup landscape.
